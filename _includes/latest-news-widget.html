@@ -1,0 +1,71 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <div class="latest-news-widget-mod site-width">
+
+        <!-- The Latest Hero -->
+        <div class="latest-news-widget__feature-mod">
+          <div class="latest-news-widget__feature-mod--inner">
+
+            {% for post in site.posts limit:4 %}
+            <a class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1">
+              <div class="latest-news-widget__feature__tease__hgroup">
+                <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
+                <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
+              </div>
+              <div class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
+                <img class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+              </div>
+            </a>
+            {% endfor %}
+
+          </div>
+        </div>
+
+        <!-- The Latest List -->
+        <section class="latest-news-widget__latest">
+          <h2 class="latest-news-widget__latest__h latest-news-widget__latest__h--no-underline typography__latest-news-widget__h2"><span class="latest-news-widget__red-underline">Latest News
+      <span id="todaysDate" class="latest-news-widget__latest__date"></span></span>
+      </h2>
+          <ol id="jsTeaseList" class="latest-news-widget__latest__tease-group">
+
+            {% for post in site.posts %}
+              {% if forloop.first == true %}
+                <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
+          <!--  Tease is active   -->
+                  <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ post.url }}" data-image="{{ post.news_image }}"
+                    data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
+                    <div class="latest-news-widget__latest__tease__hgroup">
+                      <h3 class="latest-news-widget__latest__tease__overline">
+                      <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.post_title }}</h3>
+                      <p class="latest-news-widget__latest__tease__h">{{ post.description }}</p>
+                    </div>
+                    <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
+                    </div>
+                  </a>
+                </li>
+
+              {% else %}
+
+                <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
+          <!--  Tease is active   -->
+                  <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ post.url }}" data-image="{{ post.news_image }}"
+                    data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
+                    <div class="latest-news-widget__latest__tease__hgroup">
+                      <h3 class="latest-news-widget__latest__tease__overline">
+                      <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.post_title }}</h3>
+                      <p class="latest-news-widget__latest__tease__h">{{ post.description }}</p>
+                    </div>
+                    <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
+                    </div>
+                  </a>
+                </li>
+              {% endif %}
+            {% endfor %}
+
+          </ol>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>
