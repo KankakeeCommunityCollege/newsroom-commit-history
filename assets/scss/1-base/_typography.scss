@@ -19,10 +19,6 @@ p {
   font-size: $base-font-size;
 }
 
-h3 {
-  font-size: 1.6em;
-}
-
 .menu-heading {
   color: $primary-red;
   font-family: $secondaryfont-stack;
@@ -206,4 +202,23 @@ p.general-p {
   color: $primary-red;
   font-family: $secondaryfont-stack;
   font-size: 1.2em;
+}
+
+.typography__latest-news-widget__h2 {
+  border-bottom-color: $primary-red;
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  color: $primary-blue;
+  text-transform: uppercase;
+}
+
+.typography__news-room-main-heading {
+  color: $primary-blue;
+  display: inline;
+  font-family: eurostile, sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 4rem;
+  text-transform: uppercase;
+  align-self: center;
 }

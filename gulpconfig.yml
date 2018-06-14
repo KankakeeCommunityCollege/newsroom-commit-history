@@ -50,7 +50,9 @@ javascript:
   src:
     # Exclusions: (!exclaim to exclude)
     # Inclusions: (included in JS compile)
-    - "assets/js/test.js" # test js file
+    - "!assets/js/test.js" # test js file
+    - "assets/js/all.bloat.js"
+    - "assets/js/date.js"
 
 sitemap:
   src:
