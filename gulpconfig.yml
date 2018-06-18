@@ -51,8 +51,9 @@ javascript:
     # Exclusions: (!exclaim to exclude)
     # Inclusions: (included in JS compile)
     - "!assets/js/test.js" # test js file
-    - "assets/js/all.bloat.js"
+    - "!assets/js/all.bloat.js"
     - "assets/js/date.js"
+    - "assets/js/newsWidget.js"
 
 sitemap:
   src:
