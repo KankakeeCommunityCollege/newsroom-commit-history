@@ -119,7 +119,7 @@
   border-radius: 13px;
   box-shadow: 0 0 0 1.4px #000 inset;
   text-align: center;
-  background-color: #000;
+  background-color: $primary-blue;
   margin: -1px 7px 0 -2px;
   letter-spacing: 0;
   transition: all .2s ease;
@@ -135,8 +135,9 @@
 }
 
 .latest-news-widget__latest__tease__link:focus .latest-news-widget__latest__tease__number, .latest-news-widget__latest__tease__link:hover .latest-news-widget__latest__tease__number, .tease-is-active .latest-news-widget__latest__tease__number {
-  color: #000;
-  background-color: #fff
+  color: $primary-red;
+  background-color: #fff;
+  box-shadow: 0 0 0 1.4px $primary-red inset;
 }
 
 .latest-news-widget__latest__tease__link:focus {
@@ -144,6 +145,10 @@
 }
 
 .latest-news-widget__feature:hover {
+  text-decoration: none;
+}
+
+.latest-news-widget__latest__tease__link:hover {
   text-decoration: none;
 }
 

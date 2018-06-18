@@ -212,7 +212,8 @@ p.general-p {
   text-transform: uppercase;
 }
 
-.typography__news-room-main-heading {
+.typography__newsroom-main-heading {
+  align-self: center;
   color: $primary-blue;
   display: inline;
   font-family: eurostile, sans-serif;
@@ -220,5 +221,15 @@ p.general-p {
   font-weight: 700;
   font-size: 4rem;
   text-transform: uppercase;
-  align-self: center;
+  vertical-align: middle;
+}
+
+.typography__latest-news-widget__rollup-list-h {
+  color: $black;
+}
+
+.latest-news-widget__latest__tease__link:focus .typography__latest-news-widget__rollup-list-h,
+.latest-news-widget__latest__tease__link:hover .typography__latest-news-widget__rollup-list-h,
+.latest-news-widget__latest__tease__number .tease-is-active  {
+  color: $primary-red;
 }
