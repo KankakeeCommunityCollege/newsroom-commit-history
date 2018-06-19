@@ -724,3 +724,28 @@
   border-bottom-style: solid;
   border-bottom-width: thick;
 }
+
+.latest-news-widget--rollup__section-margin {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+@media screen and (min-width:992px) {
+  .latest-news-widget--rollup__section-margin {
+    width: 40%;
+  }
+}
+
+.latest-news-widget--rollup__latest__tease-group {
+  list-style: none;
+  margin-bottom: 0;
+  padding-top: 2px;
+  padding-left: 0
+}
+
+@media (min-width:980px) {
+  .latest-news-widget--rollup__latest__tease-group {
+    padding-top: 0
+  }
+}
