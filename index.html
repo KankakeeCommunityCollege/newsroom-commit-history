@@ -9,22 +9,17 @@ description: ''
 {% include events.html %}
 <div class="container">
   <div class="row">
-    <div class="col-md-6 featured-videos__right-border">
-      <div class="featured-videos__heading-margin">
-        <h3 class="typography__upcoming-events"><span class="events__bottom-underline">Featured Videos</span></h3>
-      </div>
-      <div class="featured-video__video-center">
-        <iframe width="500" height="281" src="https://www.youtube.com/embed/eWohwTmFZK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      </div>
-    </div>
-    <div class="col-lg-6">
-      {% include facebook-script.html %}
-      {% include facebook-widget.html %}
+    <div class="col positioning__heading-margin-bottom">
+      <h3 class="typography__upcoming-events"><span class="events__bottom-underline">Social Media</span></h3>
     </div>
   </div>
   <div class="row">
-    <div class="col">
-      <a class="twitter-timeline" href="https://twitter.com/KCCedu?ref_src=twsrc%5Etfw">Tweets by KCCedu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div class="col-md-6 featured-videos__right-border positioning__margin-bottom">
+      {% include timeline.html %}
+    </div>
+    <div class="col-lg-6 positioning__margin-bottom">
+      {% include facebook-script.html %}
+      {% include facebook-widget.html %}
     </div>
   </div>
 </div>
