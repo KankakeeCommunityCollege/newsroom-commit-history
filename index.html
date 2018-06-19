@@ -7,5 +7,24 @@ description: ''
 
 {% include latest-news-widget.html %}
 {% include events.html %}
-{% include facebook-script.html %}
-{% include facebook-widget.html %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 featured-videos__right-border">
+      <div class="featured-videos__heading-margin">
+        <h3 class="typography__upcoming-events"><span class="events__bottom-underline">Featured Videos</span></h3>
+      </div>
+      <div class="featured-video__video-center">
+        <iframe width="500" height="281" src="https://www.youtube.com/embed/eWohwTmFZK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      {% include facebook-script.html %}
+      {% include facebook-widget.html %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <a class="twitter-timeline" href="https://twitter.com/KCCedu?ref_src=twsrc%5Etfw">Tweets by KCCedu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  </div>
+</div>
