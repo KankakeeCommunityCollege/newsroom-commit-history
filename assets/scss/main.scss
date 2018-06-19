@@ -13,6 +13,8 @@
 @import '2-modules/latest-news-widget';
 @import '2-modules/local-nav';
 @import '2-modules/events';
+@import '2-modules/fb-widget';
+@import '2-modules/featured-videos';
 
 // Layout items
 // @import "3-layout/...";
@@ -20,4 +22,4 @@
 
 // Page specific styling
 // @import "4-pages/...";
-@import "4-pages/index/home";
+@import '4-pages/index/home';
