@@ -10,6 +10,7 @@ $(document).ready(function () {
   var link4 =  $('#jsNewsLink4').attr('href');
 
   $('.js-hp-feature').addClass('topper-trans-in');
+  $('.js-play-icon').addClass('topper-trans-in');
 
   function jsNewsLinkFunction() {
     var jsNewsLinks = [ $('#jsNewsLink1'), $('#jsNewsLink2'), $('#jsNewsLink3'), $('#jsNewsLink4') ];
@@ -18,15 +19,26 @@ $(document).ready(function () {
       jsNewsLinks[i].addClass('topper-trans-out');
     }
   }
+  function jsPlayIcon() {
+    var jsPlayButtons = [ $('#playIcon1'), $('#playIcon2'), $('#playIcon3'), $('#playIcon4'), ];
+    for (var i = 0; i < jsPlayButtons.length; i++) {
+      jsPlayButtons[i].removeClass('topper-trans-in');
+      jsPlayButtons[i].addClass('topper-trans-out');
+    }
+  }
   $('#jsTeaseLink1').mouseenter(function() {
   // When mouse enters jsTeaseLink1 do this:
   //  $('.js-hp-feature').removeClass('topper-trans-in');
   //  $('.js-hp-feature').addClass('topper-trans-out');
 
     jsNewsLinkFunction();
+    jsPlayIcon();
 
     $('#jsNewsLink1').removeClass('topper-trans-out');
     $('#jsNewsLink1').addClass('topper-trans-in');
+
+    $('#playIcon1').removeClass('play-zoom-out').removeClass('topper-trans-out');
+    $('#playIcon1').addClass('topper-trans-in');
 
     // set jsTeaseLink1 aria-hidden attribute's value to "false":
     $('#jsTeaseLink1').attr('aria-hidden', 'false');
@@ -57,9 +69,13 @@ $(document).ready(function () {
   //  $('.js-hp-feature').addClass('topper-trans-out');
 
     jsNewsLinkFunction();
+    jsPlayIcon();
 
     $('#jsNewsLink2').removeClass('topper-trans-out');
     $('#jsNewsLink2').addClass('topper-trans-in');
+
+    $('#playIcon2').removeClass('play-zoom-out').removeClass('topper-trans-out');
+    $('#playIcon2').addClass('topper-trans-in');
 
     // set jsTeaseLink1 aria-hidden attribute's value to "false":
     $('#jsTeaseLink2').attr('aria-hidden', 'false');
@@ -90,9 +106,13 @@ $(document).ready(function () {
   //  $('.js-hp-feature').addClass('topper-trans-out');
 
     jsNewsLinkFunction();
+    jsPlayIcon();
 
     $('#jsNewsLink3').removeClass('topper-trans-out');
     $('#jsNewsLink3').addClass('topper-trans-in');
+
+    $('#playIcon3').removeClass('play-zoom-out').removeClass('topper-trans-out');
+    $('#playIcon3').addClass('topper-trans-in');
 
     // set jsTeaseLink1 aria-hidden attribute's value to "false":
     $('#jsTeaseLink3').attr('aria-hidden', 'false');
@@ -123,9 +143,13 @@ $(document).ready(function () {
   //  $('.js-hp-feature').addClass('topper-trans-out');
 
     jsNewsLinkFunction();
+    jsPlayIcon();
 
     $('#jsNewsLink4').removeClass('topper-trans-out');
     $('#jsNewsLink4').addClass('topper-trans-in');
+
+    $('#playIcon4').removeClass('play-zoom-out').removeClass('topper-trans-out');
+    $('#playIcon4').addClass('topper-trans-in');
 
     // set jsTeaseLink1 aria-hidden attribute's value to "false":
     $('#jsTeaseLink4').attr('aria-hidden', 'false');
@@ -148,6 +172,13 @@ $(document).ready(function () {
     $('.js-hp-feature').attr('href', link4);
 
     $('.latest-news-widget__feature-mod--inner').css({ transform: 'translate3d(-75%, 0, 0)' });
+  });
+
+  $('#featureHover').mouseenter(function () {
+    $('.js-play-icon').removeClass('play-zoom-out').addClass('play-zoom-in');
+  });
+  $('#featureHover').mouseleave(function () {
+    $('.js-play-icon').removeClass('play-zoom-in').addClass('play-zoom-out');
   });
 
 });
