@@ -6,20 +6,22 @@ description: ''
 ---
 
 {% include latest-news-widget.html %}
-{% include events.html %}
+<section>
+  {% include events.html %}
+</section>
 <div class="container">
   <div class="row">
-    <div class="col positioning__heading-margin-bottom">
+    <div class="col-lg-6 positioning__heading-margin-bottom">
       <h3 class="typography__upcoming-events"><span class="events__bottom-underline">Social Media</span></h3>
+    </div>
+    <div class="col-lg-6 position__heading-margin-bottom ml-auto">
+      {% include social-icons.html %}
     </div>
   </div>
   <div class="row">
-    <div class="col-md-6 featured-videos__right-border positioning__margin-bottom">
+    <div class="col positioning__margin-bottom">
       {% include timeline.html %}
-    </div>
-    <div class="col-lg-6 positioning__margin-bottom">
-      {% include facebook-script.html %}
-      {% include facebook-widget.html %}
     </div>
   </div>
 </div>
+{% include bios.html %}
