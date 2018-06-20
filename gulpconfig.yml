@@ -54,6 +54,7 @@ javascript:
     - "!assets/js/all.bloat.js"
     - "assets/js/date.js"
     - "assets/js/newsWidget.js"
+    - "assets/js/currentPage.js"
 
 sitemap:
   src:
