@@ -11,7 +11,36 @@
 }
 
 .local-nav__kcc-logo {
-  width: 120px;
+  margin-bottom: -4px; // pull the logo down a little to line-up with "Newsroom" heading.
+  width: 65px;
+}
+
+@media screen and (min-width: 360px) {
+  .local-nav__kcc-logo {
+    margin-bottom: -5px; // pull the logo down a little to line-up with "Newsroom" heading.
+    width: 70px;
+  }
+}
+
+@media screen and (min-width: 410px) {
+  .local-nav__kcc-logo {
+    margin-bottom: -7px; // pull the logo down a little to line-up with "Newsroom" heading.
+    width: 75px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .local-nav__kcc-logo {
+    margin-bottom: -15px; // pull the logo down a little to line-up with "Newsroom" heading.
+    width: 140px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .local-nav__kcc-logo {
+    margin-bottom: -15px; // pull the logo down a little to line-up with "Newsroom" heading.
+    width: 160px;
+  }
 }
 
 .local-nav .nav-link {
