@@ -535,7 +535,7 @@
 
 @media (min-width:1070px) {
   .latest-news-widget__feature--no-image .latest-news-widget__feature__tease__h {
-    font-size: calc(50px + (56 - 50) * (100vw - 1070px)/ (1350 - 1070))
+    font-size: calc(50px + (56 - 50) * (100vw - 1070px)/ (1350 - 1070));
   }
 }
 
@@ -693,7 +693,7 @@
   font-family: 'Oswald', sans-serif;
   font-size: 38px;
   font-weight: 500;
-  letter-spacing: .02em;
+  letter-spacing: .1rem;
   text-transform: uppercase;
   line-height: 1;
   max-width: 700px
@@ -711,9 +711,9 @@
   }
 }
 
-.latest-news-widget__feature__tease__h span {
-  background-image: linear-gradient(transparent 85%, #fff 85%, #fff 87%, transparent 87%)
-}
+// .latest-news-widget__feature__tease__h span {
+//   background-image: linear-gradient(transparent 85%, #fff 85%, #fff 87%, transparent 87%)
+// }
 
 .latest-news-widget__latest__h--no-underline {
   border-bottom: none;
