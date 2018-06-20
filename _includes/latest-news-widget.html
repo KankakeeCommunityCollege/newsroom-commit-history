@@ -8,26 +8,51 @@
           <div class="latest-news-widget__feature-mod--inner">
 
             {% for post in site.posts limit:4 %}
-              {% if forloop.first == true %}
-                <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="false">
-                  <div class="latest-news-widget__feature__tease__hgroup">
-                    <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
-                    <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
-                  </div>
-                  <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
-                    <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
-                  </div>
-                </a>
+              {% if post.video_content == true %}
+                {% if forloop.first == true %}
+                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="false">
+                    <div class="latest-news-widget__feature__tease__hgroup">
+                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
+                      <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
+                    </div>
+                    <img src="{{ page.baseurl }}play.svg" alt="" class="latest-news-widget__play-icon">
+                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
+                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                    </div>
+                  </a>
+                {% else %}
+                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="true">
+                    <div class="latest-news-widget__feature__tease__hgroup">
+                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
+                      <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
+                    </div>
+                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
+                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                    </div>
+                  </a>
+                {% endif %}
               {% else %}
-                <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="true">
-                  <div class="latest-news-widget__feature__tease__hgroup">
-                    <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
-                    <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
-                  </div>
-                  <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
-                    <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
-                  </div>
-                </a>
+                {% if forloop.first == true %}
+                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="false">
+                    <div class="latest-news-widget__feature__tease__hgroup">
+                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
+                      <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
+                    </div>
+                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
+                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                    </div>
+                  </a>
+                {% else %}
+                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="true">
+                    <div class="latest-news-widget__feature__tease__hgroup">
+                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.post_title }}</span>
+                      <h3 class="latest-news-widget__feature__tease__h"><span class="js-hp-feature-tease-link">{{ post.description }}</span></h3>
+                    </div>
+                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
+                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                    </div>
+                  </a>
+                {% endif %}
               {% endif %}
             {% endfor %}
 
