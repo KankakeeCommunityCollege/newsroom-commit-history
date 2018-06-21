@@ -1,10 +1,10 @@
 ---
 post_title: Congratulations Softball
-video_content: true
+video_content: false
 date: 2018-05-06 17:00:00
 sport-category: Softball
-news_thumb_image: /uploads/softball-region-champs.jpg
 news_image: /uploads/softball-region-champs.jpg
+news_image_alt: ''
 description: Regional Champions
 ---
 
