@@ -23,9 +23,18 @@ a.footer-link {
   }
 }
 
+.footer-heading {
+  transition-property: color;
+  transition-timing-function: ease;
+  transition-duration: .3s;
+}
+
 .footer-icons {
   background-color: $primary-red;
   border-radius: 50%;
+  transition-property: background-color;
+  transition-timing-function: ease;
+  transition-duration: .3s;
   height: 40px;
   margin: 5px;
   padding: 2px;

@@ -4,6 +4,9 @@
   height: 40px;
   margin: 5px;
   padding: 2px;
+  transition-property: background-color;
+  transition-timing-function: ease;
+  transition-duration: .3s;
   width: 40px;
 }
 
