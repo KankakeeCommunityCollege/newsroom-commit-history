@@ -8,7 +8,9 @@ layout: default
       <div class="col">
         <h2>{{ page.post_title }}</h2>
         <p>{{ page.description }}</p>
-        <img src="{{ page.news_image }}" alt="" class="img-fluid"> <br>
+        <div class="text-center">
+          <img src="{{ page.news_image }}" alt="" class="img-fluid posts__post-img">
+        </div>
         <div class="editable">
           {{ content }}
         </div>
