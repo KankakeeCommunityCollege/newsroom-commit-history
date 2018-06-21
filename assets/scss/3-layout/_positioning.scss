@@ -10,6 +10,16 @@
   }
 }
 
+.positioning__margin-top {
+  margin-top: 30px;
+}
+
+@media screen and (min-width: 1200px) {
+  .positioning__margin-top {
+    margin-top: 40px;
+  }
+}
+
 .positioning__heading-margin-bottom {
   margin-bottom: 15px;
 }

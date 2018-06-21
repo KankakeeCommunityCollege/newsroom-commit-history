@@ -7,6 +7,7 @@ news_image_alt: ''
 description: Regional Champions
 video_content: false
 video_link: ''
+press_release: false
 ---
 
 Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again.&nbsp;

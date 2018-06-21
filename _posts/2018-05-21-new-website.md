@@ -6,6 +6,7 @@ news_image_alt: ''
 description: The Marketing Department is thrilled to introduce our brand-new website!
 video_content: false
 video_link: ''
+press_release: true
 ---
 
 The Athletics Department is thrilled to introduce our brand-new website!
