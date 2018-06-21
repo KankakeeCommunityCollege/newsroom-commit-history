@@ -43,7 +43,6 @@ uploads_dir: # specifies the default uploads directory for CloudCannon
 _comments:
   layout: Do NOT modify layouts. It may break things.
   baseurl: Do NOT modify baseurl. It WILL break all page links.
-  categories: "FOR CATEGORIES <br/>SPORTS-SPECIFIC: <br/>1.) First enter the sport's category from this list <br/>2.) followed by the \"news\" category. <br/>(e.g. mens-basketball news) <br/>GENERAL NEWS: <br/>1.) Enter \"news\" category first <br/>2.) followed by the \"general\" category. <br/>(e.g. news general)"
-  sport_category: Sport for which news item pertains. Gets pulled into news rollup.
-  news_thumb_image: Must be 16:9 ratio image. Preferably 200px wide.
   description: "Descriptions are seen by search engines like Google and displayed in search results"
+  video_content: Be sure to clear the check-box if your post does not contain a YouTube video.
+  video_link: Paste your YouTube share link here. <br>YouTube share links look like "https://youtu.be/RVd1gnq4iOc"
