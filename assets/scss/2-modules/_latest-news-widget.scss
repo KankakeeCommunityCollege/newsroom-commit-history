@@ -927,15 +927,18 @@
 .latest-news-widget__feature__yt-thumb {
   background-repeat: no-repeat;
   background-size: 120% auto;
+  -ms-filter: blur(0px);
   filter: blur(0px);
 }
 
 .latest-news-widget__feature__yt-thumb {
+  -ms-filter: blur(1px);
   filter: blur(1px);
 }
 
 @media screen and (min-width:576px) {
   .latest-news-widget__feature__yt-thumb {
+    -ms-filter: blur(3px);
     filter: blur(3px);
   }
 }
@@ -943,6 +946,7 @@
 @media screen and (min-width:1200px) {
   .latest-news-widget__feature__yt-thumb {
     background-size: 220% auto;
+    -ms-filter: blur(5px);
     filter: blur(5px);
   }
 }
@@ -968,6 +972,7 @@
 @media screen and (min-width:1800px) {
   .latest-news-widget__feature__yt-thumb {
     background-size: 140% auto;
+    -ms-filter: blur(5px);
     filter: blur(5px);
   }
 }
