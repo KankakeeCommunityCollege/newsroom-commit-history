@@ -16,8 +16,8 @@
                       <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.description }}</span></h3>
                     </div>
                     <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
-                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
-                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
+                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="{{ post.news_image_alt }}">
                     </div>
                   </a>
                 {% else %}
@@ -27,8 +27,8 @@
                       <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.description }}</span></h3>
                     </div>
                     <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
-                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
-                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb">
+                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="{{ post.news_image_alt }}">
                     </div>
                   </a>
                 {% endif %}

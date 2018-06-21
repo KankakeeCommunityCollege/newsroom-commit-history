@@ -1,10 +1,11 @@
 ---
 post_title: New Website
-video_content: true
 date: 2018-05-21 10:00:00
 news_image: /uploads/article1.jpg
 news_image_alt: ''
 description: The Marketing Department is thrilled to introduce our brand-new website!
+video_content: false
+video_link: ''
 ---
 
 The Athletics Department is thrilled to introduce our brand-new website!
