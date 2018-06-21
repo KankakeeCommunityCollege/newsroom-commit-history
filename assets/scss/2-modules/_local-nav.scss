@@ -43,7 +43,35 @@
   }
 }
 
+@media screen and (min-width: 992px) {
+  .local-nav__kcc-logo {
+    margin-bottom: -17px; // pull the logo down a little to line-up with "Newsroom" heading.
+    width: 135px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .local-nav__kcc-logo {
+    margin-bottom: -15px; // pull the logo down a little to line-up with "Newsroom" heading.
+    width: 160px;
+  }
+}
+
 .local-nav .nav-link {
   margin-left: 10px;
   margin-right: 10px;
+}
+
+@media screen and (min-width:992px) {
+  .local-nav .nav-link {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+
+@media screen and (min-width:1200px) {
+  .local-nav .nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }

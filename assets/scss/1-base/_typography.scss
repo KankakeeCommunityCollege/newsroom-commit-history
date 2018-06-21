@@ -255,6 +255,18 @@ p.general-p {
   }
 }
 
+@media screen and (min-width: 992px) {
+  .typography__newsroom-main-heading {
+    font-size: 3.2rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .typography__newsroom-main-heading {
+    font-size: 4rem;
+  }
+}
+
 .typography__latest-news-widget__rollup-list-h {
   color: $black;
 }
