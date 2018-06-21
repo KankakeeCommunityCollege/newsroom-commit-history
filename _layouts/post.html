@@ -12,7 +12,7 @@ layout: default
           {% if page.video_content == false %}
             <img src="{{ page.news_image }}" alt="" class="img-fluid posts__post-img">
           {% else %}
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_link | remove: "https://youtu.be/" }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_link | remove: "https://youtu.be/" }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           {% endif %}
         </div>
         <div class="editable">
