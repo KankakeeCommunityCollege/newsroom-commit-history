@@ -46,3 +46,4 @@ _comments:
   description: "Descriptions are seen by search engines like Google and displayed in search results"
   video_content: Be sure to clear the check-box if your post does not contain a YouTube video.
   video_link: Paste your YouTube share link here. <br>YouTube share links look like "https://youtu.be/RVd1gnq4iOc"
+  press_release: Check this box to display the press-release info at the bottom of the post.
