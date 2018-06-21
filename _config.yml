@@ -1,9 +1,5 @@
 title: "Kankakee Community College"
 google_analytics_key: UA-4328282-19
-collections:
-  posts:
-    output: false
-    _hide_content: true
 defaults:
 - scope:
     path: ''
@@ -11,8 +7,7 @@ defaults:
   values:
     layout: post
     title: ''
-    permalink: /:categories/:title/
-    baseurl: ../../../
+    baseurl: ../../../../
 permalink: pretty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
