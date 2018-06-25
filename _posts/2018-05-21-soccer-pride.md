@@ -1,5 +1,5 @@
 ---
-post_title: Jacob Makes KCC Soccer Proud
+title: Jacob Makes KCC Soccer Proud
 date: 2018-05-21 08:00:00
 news_image: /uploads/jmccleary.jpg
 news_image_alt: ''

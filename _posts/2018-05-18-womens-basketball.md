@@ -1,5 +1,5 @@
 ---
-post_title: Women's Basketball
+title: Women's Basketball
 date: 2018-04-30 10:16:00
 news_image: /uploads/womens-basketball-wheelchair-game.jpg
 news_image_alt: ''
