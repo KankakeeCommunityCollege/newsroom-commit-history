@@ -5,15 +5,15 @@ title: Newsroom
 description: ''
 ---
 
-{% include latest-news-widget.html %}
-<section>
+<section class="position__offset-fixed-nav">
   {% for announcement in site.announcements %}
     {% if announcement.display_announcement == true %}
       {% include announcement.html %}
     {% endif %}
   {% endfor %}
-  {% include events.html %}
 </section>
+{% include latest-news-widget.html %}
+{% include events.html %}
 <div class="container">
   <div class="row">
     <div class="col-lg-6 positioning__heading-margin-bottom">

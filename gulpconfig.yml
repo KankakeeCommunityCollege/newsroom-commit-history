@@ -56,6 +56,7 @@ javascript:
     - "assets/js/newsWidget.js"
     - "assets/js/currentPage.js"
     - "assets/js/navbarScroll.js"
+    - "!assets/js/playlist.js"
 
 sitemap:
   src:
