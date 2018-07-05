@@ -10,7 +10,7 @@
             {% for post in site.posts limit:4 %}
               {% if forloop.first == true %}
                 {% if post.video_content == true %}
-                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="false">
+                  <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="false">
                     <div class="latest-news-widget__feature__tease__hgroup">
                       <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                       <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.description }}</span></h3>
@@ -21,7 +21,7 @@
                     </div>
                   </a>
                 {% else %}
-                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="false">
+                  <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="false">
                     <div class="latest-news-widget__feature__tease__hgroup">
                       <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                       <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.description }}</span></h3>
@@ -33,7 +33,7 @@
                 {% endif %}
               {% else %}
                 {% if post.video_content == true %}
-                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="true">
+                  <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="true">
                     <div class="latest-news-widget__feature__tease__hgroup">
                       <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                       <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.description }}</span></h3>
@@ -44,7 +44,7 @@
                     </div>
                   </a>
                 {% else %}
-                  <a id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="{{ post.url }}" tabindex="-1" aira-hidden="true">
+                  <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="true">
                     <div class="latest-news-widget__feature__tease__hgroup">
                       <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                       <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.description }}</span></h3>
@@ -72,7 +72,7 @@
                 {% if post.video_content == true %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
             <!--  Tease is active   -->
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ post.url }}" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
+                    <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="#modal{{ forloop.index }}" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -86,7 +86,7 @@
                 {% else %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
                     <!--  Tease is active   -->
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ post.url }}" data-image="{{ post.news_image }}"
+                    <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -101,7 +101,7 @@
               {% else %}
                 {% if post.video_content == true %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ post.url }}" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
+                    <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="#modal{{ forloop.index }}" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -114,7 +114,7 @@
                   </li>
                 {% else %}
                 <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ post.url }}" data-image="{{ post.news_image }}"
+                    <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -138,3 +138,54 @@
     </div>
   </div>
 </div>
+{% for post in site.posts %}
+  {% if post.video_content == true %}
+    <!--  News item modal{{ forloop.index }}  -->
+    <div class="modal fade" id="modal{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="positioning__iframe-wrapper">
+              <iframe class="js-yt-frame" id="video{{ forloop.index }}" width="720" height="405" src="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+            </div><br>
+            <h5 class="news__sub-heading news__sub-heading--spacing"> {{ post.sport-category }} &#183; <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
+            <h4 class="news__heading">{{ post.title }}</h4>
+            <p class="news__paragraph">{{ post.content }}</p>
+            <a href="{{ post.url }}" class="btn btn-primary">View Full Article</a>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% else %}
+    <!--  News item modal{{ forloop.index }}  -->
+    <div class="modal fade" id="modal{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <img src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}" class="img-fluid float-left news__modal-thumb"/>
+            <h5 class="news__sub-heading news__sub-heading--spacing"> {{ post.sport-category }} &#183; <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
+            <h4 class="news__heading">{{ post.title }}</h4>
+            <p class="news__paragraph">{{ post.content }}</p>
+            <a href="{{ post.url }}" class="btn btn-primary">View Full Article</a>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
