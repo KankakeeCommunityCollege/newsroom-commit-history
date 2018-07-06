@@ -95,33 +95,7 @@
 
 .global-nav__search-collapse {
   display: none;
-  margin-top: -101px;
-  margin-left: -6%;
-  margin-right: -6%;
-}
-
-@media screen and (min-width: 410px) {
-  .global-nav__search-collapse {
-    margin-right: -5%;
-  }
-}
-
-@media screen and (min-width: 600px) {
-  .global-nav__search-collapse {
-    margin-right: -4%;
-  }
-}
-
-@media screen and (min-width: 700px) {
-  .global-nav__search-collapse {
-    margin-right: -3%;
-  }
-}
-
-@media screen and (min-width: 900px) {
-  .global-nav__search-collapse {
-    margin-right: -2%;
-  }
+  margin-top: -85px;
 }
 
 @media screen and (min-width: 992px) {
