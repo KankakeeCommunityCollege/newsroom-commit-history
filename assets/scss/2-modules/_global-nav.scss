@@ -129,7 +129,7 @@
     display: block;
     margin-left: 0;
     margin-right: 0;
-    margin-top: -18px;
+    margin-top: 0;
   }
 }
 
@@ -139,4 +139,10 @@
 
 .global-nav--search-toggle {
   top: 60px;
+}
+
+.global-nav__search--conatiner {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
 }
