@@ -9,8 +9,9 @@ description: >-
 video_content: false
 video_link: 'https://youtu.be/3eUpVDh1iYE'
 press_release: true
-content:
-  styles: /assets/css/content.css
+_options:
+  content:
+    styles: /assets/css/content.css
 ---
 
 College credit classes include:
