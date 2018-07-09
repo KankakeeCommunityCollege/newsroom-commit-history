@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #   - "_posts"
 
 ## include future posts? (true or false)
-# future: true
+future: false
 
 # Build settings
 markdown: kramdown
