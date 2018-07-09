@@ -1,8 +1,8 @@
 ---
 title: Fall 2018 classes at SEC
 date: 2018-07-03 08:23:00
-news_image:
-news_image_alt:
+news_image: /uploads/kcc-post-placeholder-1.png
+news_image_alt: Color image of the KCC logo
 description: >-
   ​The Kankakee Community College Miner South Extension Center has seats
   available in a variety of general education courses for the fall semester.
@@ -10,8 +10,6 @@ video_content: false
 video_link: 'https://youtu.be/3eUpVDh1iYE'
 press_release: true
 ---
-
-&nbsp;
 
 College credit classes include:
 
