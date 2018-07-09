@@ -1,6 +1,6 @@
 ---
 title: Fall 2018 classes at SEC
-date: 2018-07-10 08:23:00
+date: 2018-07-08 08:23:00
 news_image: /uploads/kcc-post-placeholder.png
 news_image_alt: Color image of the KCC logo
 description: >-
