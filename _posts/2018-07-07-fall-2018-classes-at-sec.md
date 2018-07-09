@@ -35,7 +35,8 @@ _options:
 
 College credit classes include:
 
-![](/uploads/holstein-book-cover150x150.jpg){: .float-image-right}
+![](/uploads/holstein-book-cover150x150.jpg)
+{: .center-this-text}
 
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
 
