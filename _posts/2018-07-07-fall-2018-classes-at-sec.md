@@ -35,9 +35,6 @@ _options:
 
 College credit classes include:
 
-![](/uploads/holstein-book-cover150x150.jpg)
-{: .center-this-text}
-
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
 
 PowerPoint (COSC 1341) on Mondays from 1-2:40 p.m. beginning Oct. 15.
