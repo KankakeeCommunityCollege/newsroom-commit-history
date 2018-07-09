@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: video-page
 title: News
 baseurl: ../
 description: ''
 ---
 
 <main class="position__offset-fixed-nav">
-  <div class="container">
+ <!-- <div class="container">
     <div class="row">
       <div class="col">
         <div class="positioning__heading-margin-bottom">
@@ -16,6 +16,13 @@ description: ''
           <iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" frameborder="0" allowfullscreen></iframe>
         </div>
         <a href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" class="btn btn-danger buttons__custom-danger" target="_blank" rel="noopener"><img class="buttons__yt-subscribe" src="{{ page.baseurl }}assets/img/youtube-white.svg" alt="">&#160;Subscribe</a> <a href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw" class="btn btn-primary" target="_blank" rel="noopener">More Videos</a>
+      </div>
+    </div>
+  </div> -->
+  <div class="container-fluid positioning__margin-top">
+    <div class="row">
+      <div class="col">
+        {% include playlist.html %}
       </div>
     </div>
   </div>

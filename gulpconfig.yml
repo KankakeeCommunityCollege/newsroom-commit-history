@@ -69,6 +69,7 @@ javascript:
     - "assets/js/currentPage.js"
     - "assets/js/navbarScroll.js"
     - "!assets/js/playlist.js"
+    - "!assets/js/playlist.min.js"
     - "assets/js/playModal.js"
     - "assets/js/searchToggle.js"
     - "assets/js/modalFix.js"
