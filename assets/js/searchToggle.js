@@ -26,3 +26,15 @@ $('#searchIcon').click(function () {
   $('#mainNav').toggleClass('local-nav--search-toggle');
   $('#globalNav').toggleClass('global-nav--search-toggle');
 });
+
+
+$('document').ready(function () {
+  // Inject custom text into Google Custom Search input-field's placeholder text.
+  function placeholderText() {
+    // Write the "placeholder" attribute . . .
+    $('input.gsc-input').attr('placeholder', 'Search KCC Newsroom');
+  }
+  // HOWEVER!! Don't do it for 3,000 milliseconds after document.ready has fired (give Google Custom Search's script time finish). . .
+  // otherwise the Google's script overwrites any JS injected customization like this.
+  window.setTimeout(placeholderText, 3000);
+});
