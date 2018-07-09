@@ -1,6 +1,6 @@
 ---
 title: Fall 2018 classes at SEC
-date: 2018-07-10 08:23:00
+date: 2018-07-07 08:23:00
 news_image: /uploads/kcc-post-placeholder.png
 news_image_alt: Color image of the KCC logo
 description: >-
@@ -34,6 +34,9 @@ _options:
 ---
 
 College credit classes include:
+
+![](/uploads/holstein-book-cover150x150.jpg)
+{: .center-this-text}
 
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
 
