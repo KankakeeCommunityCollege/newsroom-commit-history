@@ -3,7 +3,7 @@ title: New Website
 date: 2018-06-24 10:00:00
 news_image: /uploads/article1.jpg
 news_image_alt: ''
-description: The Marketing Department is thrilled to introduce our brand-new website!
+article_lead: The Marketing Department is thrilled to introduce our brand-new website!
 video_content: false
 video_link: ''
 press_release: false

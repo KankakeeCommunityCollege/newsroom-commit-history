@@ -3,7 +3,7 @@ title: Yee Olde Post
 date: 2017-07-02 08:23:00
 news_image: /uploads/kcc-post-placeholder.png
 news_image_alt: Color image of the KCC logo
-description: >-
+article_lead: >-
   ​An old post from 2017 (written in 2018).
 video_content: false
 video_link: 'https://youtu.be/3eUpVDh1iYE'
