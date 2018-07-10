@@ -59,4 +59,4 @@ English as a Second Language (ESL) on Mondays and Tuesdays from 6-9 p.m.
 
 An orientation is required to enroll in high school equivalency and ESL classes. Please phone 815-802-8780 to sign up for an orientation.
 
-The Miner South Extension Center is at 1488 E Walnut St. in Watseka. Registration and advising hours at the SEC are Tuesdays, 4-7 p.m. and Thursdays, 8:30 a.m. - 5 p.m. Other hours available by appointment. For more information and to schedule an appointment with an advisor, call 815-802-8780
+The Miner South Extension Center is at 1488 E Walnut St. in Watseka. Registration and advising hours at the SEC are Tuesdays, 4-7 p.m. and Thursdays, 8:30 a.m. - 5 p.m. Other hours available by appointment. For more information and to schedule an appointment with an advisor, call 815-802-8780.
