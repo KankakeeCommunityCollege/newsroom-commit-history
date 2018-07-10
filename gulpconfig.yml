@@ -74,6 +74,27 @@ javascript:
     - "assets/js/searchToggle.js"
     - "assets/js/modalFix.js"
 
+playlistScript:
+  dest:
+    jekyllRoot: "assets/js/"
+    buildDir: "_site/assets/js/"
+  filename: "playlist.min.js"
+  notification: "Running Playlist JavaScript"
+  src:
+    # Exclusions: (!exclaim to exclude)
+    # Inclusions: (included in JS compile)
+    - "!assets/js/test.js" # test js file
+    - "!assets/js/all.bloat.js"
+    - "!assets/js/date.js"
+    - "!assets/js/newsWidget.js"
+    - "!assets/js/currentPage.js"
+    - "!assets/js/navbarScroll.js"
+    - "assets/js/playlist.js"
+    - "!assets/js/playlist.min.js"
+    - "!assets/js/playModal.js"
+    - "!assets/js/searchToggle.js"
+    - "!assets/js/modalFix.js"
+
 sitemap:
   src:
     - "_site/*.html"
@@ -92,7 +113,11 @@ watch: # 'Watch' for changes in all the following:
   javascript:
     - "assets/js/all.min.js"
     - "assets/js/*.js"
+  playlistScript:
+    - "assets/js/playlist.min.js"
+    - "assets/js/*.js"
   sass: "assets/scss/**/*.scss"
+  contentSass: "assets/scss/**/*.scss"
   pages:
     - "*.{md,html,yml,xml}"
     - "{_data,_includes,_layouts,_pages,_posts,_alerts}/**/*.{md,html,yml,xml}"
