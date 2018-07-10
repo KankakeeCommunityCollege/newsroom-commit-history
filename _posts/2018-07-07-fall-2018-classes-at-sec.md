@@ -33,6 +33,8 @@ _options:
     styles: /assets/css/content.css
 ---
 
+PUBLISH TEST
+
 College credit classes include:
 
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
