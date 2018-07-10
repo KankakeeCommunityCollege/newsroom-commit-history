@@ -56,3 +56,13 @@ a.footer-social-links:hover .footer-icons {
   text-decoration: none !important;
   background-color: $primary-blue;
 }
+
+.footer__mobile--margin-bottom {
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 992px) {
+  .footer__mobile--margin-bottom {
+    margin-bottom: 0;
+  }
+}
