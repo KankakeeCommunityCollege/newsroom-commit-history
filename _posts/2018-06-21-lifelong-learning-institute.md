@@ -10,4 +10,4 @@ video_link: 'https://youtu.be/eWohwTmFZK0'
 press_release: false
 ---
 
-For more information or to find out the latest course offerings, please visit: <a href="http://www.kcc.edu/lli" target="_blank" rel="noopener">http://www.kcc.edu/lli</a>
+For more information or to find out the latest course offerings, please visit: [http://www.kcc.edu/lli](http://www.kcc.edu/lli){: target="_blank"}
