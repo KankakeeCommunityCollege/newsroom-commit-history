@@ -1,13 +1,13 @@
 ---
 title: Fall 2018 classes at SEC
 date: 2018-07-07 08:23:00
-news_image: /uploads/kcc-post-placeholder.png
+news_image: /uploads/kcc_HD_post-placeholder.svg
 news_image_alt: Color image of the KCC logo
-description: >-
+article_lead: >-
   ​The Kankakee Community College Miner South Extension Center has seats
   available in a variety of general education courses for the fall semester.
 video_content: false
-video_link: 'https://youtu.be/3eUpVDh1iYE'
+video_link: ''
 press_release: true
 _options:
   content:
@@ -53,7 +53,7 @@ Basic Algebra (MATH 1414) on Tuesdays and Thursdays from 7-8:40 p.m.
 
 Adult Education classes include:
 
-HIgh School Equivalency Preparation on Mondays and Wednesdays from 9 a.m. - 12:30 p.m. and 5:30-9 p.m.
+High School Equivalency Preparation on Mondays and Wednesdays from 9 a.m. - 12:30 p.m. and 5:30-9 p.m.
 
 English as a Second Language (ESL) on Mondays and Tuesdays from 6-9 p.m.
 
