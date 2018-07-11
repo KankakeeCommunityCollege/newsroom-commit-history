@@ -10,7 +10,7 @@ video_link: ''
 press_release: false
 ---
 
-Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again.&nbsp;
+![](/uploads/softball-region-champs.jpg){: .float-image-left}Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again.&nbsp;
 
 Congratulations to:
 
