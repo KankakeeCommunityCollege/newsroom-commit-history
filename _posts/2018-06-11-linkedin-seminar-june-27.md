@@ -26,7 +26,7 @@ Topics relate to using LinkedIn to finding a job, including creating a winning p
 
 Topics will include using your experience and relationships to meet your business and career goals, creating a compelling profile that helps the right people find you, successfully searches, engaging with LinkedIn members who can help you, and using hidden LinkedIn features to generate opportunities.
 
-Breitbarth\_small.jpgBreitbarth is the CEO of Power Formula LLC. He has shared his expertise with more than 80,000 business professionals through private business consulting, dynamic presentations to worldwide audiences, and his critically acclaimed book The Power Formula for LinkedIn Success (now in its third edition). He has been featured in Forbes, Inc., Wired, and American Express Open Forum and seen on NBC and Fox Business.
+![](/uploads/breitbarth-3rd-edition-3D-whitebg.jpg){: .float-image-right}Breitbarth is the CEO of Power Formula LLC. He has shared his expertise with more than 80,000 business professionals through private business consulting, dynamic presentations to worldwide audiences, and his critically acclaimed book The Power Formula for LinkedIn Success (now in its third edition). He has been featured in Forbes, Inc., Wired, and American Express Open Forum and seen on NBC and Fox Business.
 
 Breitbarth is also a certified public accountant, with degrees from the University of Wisconsin-Whitewater and Marquette University.
 
