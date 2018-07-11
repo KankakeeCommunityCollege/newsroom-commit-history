@@ -279,7 +279,8 @@ p.general-p {
 
 .typography__upcoming-events {
   color: $primary-blue;
-  font-weight: 600;
+  font-family: $basefont-stack;
+  font-weight: $base-font-weigth-bold;
   text-transform: uppercase;
 }
 
