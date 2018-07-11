@@ -9,4 +9,7 @@ video_link: ''
 press_release: false
 ---
 
-![](/uploads/header-bg2.jpg){: .center-image}Cavs win first DII World Series ​The Cavs defeated Mercer County (NJ) 11-5 in the 2017 Division II Baseball World Series to win its first baseball championship in program history.
+![](/uploads/header-bg2.jpg){: .center-image}
+{: .center-this-text}
+
+Cavs win first DII World Series ​The Cavs defeated Mercer County (NJ) 11-5 in the 2017 Division II Baseball World Series to win its first baseball championship in program history.
