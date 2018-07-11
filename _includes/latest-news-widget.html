@@ -8,6 +8,8 @@
           <div class="latest-news-widget__feature-mod--inner">
 
             {% for post in site.posts limit:4 %}
+
+
               {% if forloop.first == true %}
                 {% if post.video_content == true %}
                   <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="false">
@@ -138,9 +140,11 @@
     </div>
   </div>
 </div>
+<!-- Modal Section -->
 <div class="container-fluid">
   <div class="row">
     <div class="col">
+
       {% for post in site.posts %}
         {% if post.video_content == true %}
           <!--  Video content news item modal{{ forloop.index }}  -->
