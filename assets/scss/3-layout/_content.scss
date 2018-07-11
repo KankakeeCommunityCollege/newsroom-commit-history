@@ -2,12 +2,14 @@ img.float-image-left {
   float: left;
   max-width: 100%;
   height: auto;
+  margin: 10px;
 }
 
 img.float-image-right {
   float: right;
   max-width: 100%;
   height: auto;
+  margin: 10px;
 }
 
 img.no-float {
@@ -19,6 +21,7 @@ img.center-image {
   margin-right: auto;
   max-width: 100%;
   height: auto;
+  margin: 10px;
 }
 
 .align-left {
