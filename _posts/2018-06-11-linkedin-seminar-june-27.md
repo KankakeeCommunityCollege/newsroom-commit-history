@@ -10,8 +10,6 @@ video_link: ''
 press_release: true
 ---
 
-![]({{ page.baseurl }}uploads/breitbarth-3rd-edition-3D-whitebg.jpg){: .img-fluid.float-right}
-
 ![](/uploads/Breitbarth_small.jpg){: .float-image-left}“Everyone is marketing something—whether it’s yourself or your business,” said the presenter, Wayne Breitbarth. “Don’t let another day pass without acquiring the knowledge you need to open doors and get dramatic results.”
 
 The seminar will have two presentations, and participants can attend one or both. Registration is not required.
