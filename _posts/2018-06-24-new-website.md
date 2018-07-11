@@ -9,6 +9,9 @@ video_link: ''
 press_release: false
 ---
 
+![](/uploads/kcc-night-photo.jpg)
+{: .center-this-text}
+
 The Marketing Department is thrilled to introduce our brand-new website!
 
 This site allows us to interact more than ever before through live social media feeds, news stories, and more. Please share a link to [http://news.kcc.edu](http://news.kcc.edu) so friends and can stay up-to-date with KCC.
