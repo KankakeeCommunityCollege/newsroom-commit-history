@@ -1,6 +1,7 @@
 ---
 title: Lifelong Learning Institute
 date: 2018-06-21 08:23:00
+expire_date: 2018-09-10 13:00:00
 news_image:
 news_image_alt:
 article_lead: >-

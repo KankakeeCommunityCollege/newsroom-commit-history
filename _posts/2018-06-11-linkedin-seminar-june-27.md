@@ -1,6 +1,7 @@
 ---
 title: Linkedin Seminar June 27
 date: 2018-06-11 10:00:00
+expire_date: 2018-07-10 13:00:00 
 news_image: /uploads/Breitbarth-Headshot-July-2015.jpg
 news_image_alt: 'Photo of Wayne Breitbarth'
 article_lead: >-

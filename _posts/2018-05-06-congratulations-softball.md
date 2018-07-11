@@ -1,6 +1,7 @@
 ---
 title: Congratulations Softball
 date: 2018-05-06 17:00:00
+expire_date: 2019-01-01 13:00:00
 sport-category: Softball
 news_image: /uploads/softball-region-champs.jpg
 news_image_alt: ''

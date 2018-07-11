@@ -1,6 +1,7 @@
 ---
 title: Jacob Makes KCC Soccer Proud
 date: 2018-05-21 08:00:00
+expire_date: 2019-01-01 13:00:00
 news_image: /uploads/jmccleary.jpg
 news_image_alt: ''
 article_lead: Way to go Jacob!
