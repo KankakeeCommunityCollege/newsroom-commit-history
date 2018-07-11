@@ -9,54 +9,60 @@
 
             {% for post in site.posts limit:4 %}
 
+              {% assign current_date = site.time | date: "%Y-%m-%d %H:%M" %}
+              {% assign post_expiration = post.expire_date | date: "%Y-%m-%d %H:%M" %}
+              {% if current_date < post_expiration %}
 
-              {% if forloop.first == true %}
-                {% if post.video_content == true %}
-                  <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="false">
-                    <div class="latest-news-widget__feature__tease__hgroup">
-                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                      <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
-                    </div>
-                    <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
-                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
-                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="{{ post.news_image_alt }}">
-                    </div>
-                  </a>
+                {% if forloop.first == true %}
+                  {% if post.video_content == true %}
+                    <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="false">
+                      <div class="latest-news-widget__feature__tease__hgroup">
+                        <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
+                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                      </div>
+                      <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
+                      <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="{{ post.news_image_alt }}">
+                      </div>
+                    </a>
+                  {% else %}
+                    <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="false">
+                      <div class="latest-news-widget__feature__tease__hgroup">
+                        <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
+                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                      </div>
+                      <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                      </div>
+                    </a>
+                  {% endif %}
                 {% else %}
-                  <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="false">
-                    <div class="latest-news-widget__feature__tease__hgroup">
-                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                      <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
-                    </div>
-                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
-                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
-                    </div>
-                  </a>
+                  {% if post.video_content == true %}
+                    <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="true">
+                      <div class="latest-news-widget__feature__tease__hgroup">
+                        <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
+                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                      </div>
+                      <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
+                      <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="{{ post.news_image_alt }}">
+                      </div>
+                    </a>
+                  {% else %}
+                    <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="true">
+                      <div class="latest-news-widget__feature__tease__hgroup">
+                        <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
+                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                      </div>
+                      <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                      </div>
+                    </a>
+                  {% endif %}
                 {% endif %}
-              {% else %}
-                {% if post.video_content == true %}
-                  <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="true">
-                    <div class="latest-news-widget__feature__tease__hgroup">
-                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                      <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
-                    </div>
-                    <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
-                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb">
-                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="{{ post.news_image_alt }}">
-                    </div>
-                  </a>
-                {% else %}
-                  <a data-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="true">
-                    <div class="latest-news-widget__feature__tease__hgroup">
-                      <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                      <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
-                    </div>
-                    <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
-                      <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
-                    </div>
-                  </a>
-                {% endif %}
+
               {% endif %}
+
             {% endfor %}
 
           </div>
@@ -70,65 +76,73 @@
           <ol id="jsTeaseList" class="latest-news-widget__latest__tease-group">
 
             {% for post in site.posts limit:4 %}
-              {% if forloop.first == true %}
-                {% if post.video_content == true %}
-                  <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-            <!--  Tease is active   -->
-                    <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" data-target="#videoModal{{ forloop.index }}" href="#" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
-                      data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
-                      <div class="latest-news-widget__latest__tease__hgroup">
-                        <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
-                        <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
-                        <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
-                      </div>
-                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
-                      </div>
-                    </a>
-                  </li>
+
+              {% assign current_date = site.time | date: "%Y-%m-%d %H:%M" %}
+              {% assign post_expiration = post.expire_date | date: "%Y-%m-%d %H:%M" %}
+              {% if current_date < post_expiration %}
+
+                {% if forloop.first == true %}
+                  {% if post.video_content == true %}
+                    <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
+                <!--  Tease is active   -->
+                      <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" data-target="#videoModal{{ forloop.index }}" href="#" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
+                        data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
+                        <div class="latest-news-widget__latest__tease__hgroup">
+                          <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
+                          <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
+                          <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
+                        </div>
+                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
+                        </div>
+                      </a>
+                    </li>
+                  {% else %}
+                    <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
+                      <!--  Tease is active   -->
+                      <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
+                        data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
+                        <div class="latest-news-widget__latest__tease__hgroup">
+                          <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
+                          <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
+                          <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
+                        </div>
+                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
+                        </div>
+                      </a>
+                    </li>
+                  {% endif %}
                 {% else %}
+                  {% if post.video_content == true %}
+                    <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
+                      <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" data-target="#videoModal{{ forloop.index }}" href="#" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
+                        data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
+                        <div class="latest-news-widget__latest__tease__hgroup">
+                          <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
+                          <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
+                          <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
+                        </div>
+                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
+                        </div>
+                      </a>
+                    </li>
+                  {% else %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-                    <!--  Tease is active   -->
-                    <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
-                      data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
-                      <div class="latest-news-widget__latest__tease__hgroup">
-                        <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
-                        <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
-                        <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
-                      </div>
-                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
-                      </div>
-                    </a>
-                  </li>
+                      <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
+                        data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
+                        <div class="latest-news-widget__latest__tease__hgroup">
+                          <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
+                          <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
+                          <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
+                        </div>
+                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
+                        </div>
+                      </a>
+                    </li>
+                  {% endif %}
                 {% endif %}
-              {% else %}
-                {% if post.video_content == true %}
-                  <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-                    <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" data-target="#videoModal{{ forloop.index }}" href="#" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg"
-                      data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
-                      <div class="latest-news-widget__latest__tease__hgroup">
-                        <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
-                        <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
-                        <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
-                      </div>
-                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
-                      </div>
-                    </a>
-                  </li>
-                {% else %}
-                <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-                    <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
-                      data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
-                      <div class="latest-news-widget__latest__tease__hgroup">
-                        <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
-                        <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
-                        <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
-                      </div>
-                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
-                      </div>
-                    </a>
-                  </li>
-                {% endif %}
+
               {% endif %}
+
             {% endfor %}
 
           </ol>
@@ -137,65 +151,6 @@
           </div>
         </section>
       </div>
-    </div>
-  </div>
-</div>
-<!-- Modal Section -->
-<div class="container-fluid">
-  <div class="row">
-    <div class="col">
-
-      {% for post in site.posts %}
-        {% if post.video_content == true %}
-          <!--  Video content news item modal{{ forloop.index }}  -->
-          <div class="modal fade" id="videoModal{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                  <div class="positioning__iframe-wrapper">
-                    <iframe class="js-yt-frame" id="iframe{{ forloop.index }}" width="720" height="405" src="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                  </div><br>
-                  <h4 class="news__heading">{{ post.title }}</h4>
-                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
-                  <p class="news__paragraph">{{ post.article_lead }}</p>
-                  <p class="news__paragraph">{{ post.content }}</p>
-                </div>
-                <div class="modal-footer">
-                  <a href="{{ post.url }}" class="btn btn-primary">View Full Page</a>&nbsp;<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        {% else %}
-          <!--  News item modal{{ forloop.index }}  -->
-          <div class="modal fade" id="modal{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                  <h4 class="news__heading">{{ post.title }}</h4>
-                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
-                  <p class="news__paragraph">{{ post.article_lead }}</p>
-                  <p class="news__paragraph">{{ post.content }}</p>
-
-                </div>
-                <div class="modal-footer">
-                  <a href="{{ post.url }}" class="btn btn-primary">View Full Screen</a>&nbsp;<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        {% endif %}
-      {% endfor %}
     </div>
   </div>
 </div>
