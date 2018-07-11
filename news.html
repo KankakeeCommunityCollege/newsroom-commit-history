@@ -16,9 +16,9 @@ description: ''
 
           {% for post in site.posts limit:10 %}
 
-            {% assign current_date = site.time | date: "%Y-%m-%d" %}
-            {% assign post_expiration = post.expire_date | date: "%Y-%m-%d" %}
-            {% if current_date <= post_expiration %}
+            {% assign current_date = site.time | date: "%Y-%m-%d %H:%M" %}
+            {% assign post_expiration = post.expire_date | date: "%Y-%m-%d %H:%M" %}
+            {% if current_date < post_expiration %}
 
               {% if post.video_content == true %}
                 {% if forloop.first == true %}
