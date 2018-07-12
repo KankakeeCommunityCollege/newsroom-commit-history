@@ -20,11 +20,10 @@
                   </div><br>
                   <h4 class="news__heading">{{ post.title }}</h4>
                   <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
-                  <p class="news__paragraph">{{ post.article_lead }}</p>
                   <p class="news__paragraph">{{ post.content }}</p>
                 </div>
                 <div class="modal-footer">
-                  <a href="{{ post.url }}" class="btn btn-primary">View Full Page</a>&nbsp;<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn btn-primary">View Full Page</a>&nbsp;<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                 </div>
               </div>
             </div>
@@ -42,7 +41,6 @@
                 <div class="modal-body">
                   <h4 class="news__heading">{{ post.title }}</h4>
                   <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
-                  <p class="news__paragraph">{{ post.article_lead }}</p>
                   <p class="news__paragraph">{{ post.content }}</p>
 
                 </div>

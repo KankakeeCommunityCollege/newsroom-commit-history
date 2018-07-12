@@ -19,7 +19,13 @@
 
 @media screen and (min-width: 360px) {
   .kcc-logo {
-    width: 220px;
+    width: 225px;
+  }
+}
+
+@media screen and (min-width: 410px) {
+  .kcc-logo {
+    width: 255px;
   }
 }
 
@@ -32,6 +38,12 @@
 @media screen and (min-width: 576px) {
   .kcc-logo {
     width: 300px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .kcc-logo {
+    width: 320px;
   }
 }
 
@@ -72,6 +84,10 @@
   height: 46px;
 }
 
+.global-nav__gcse-wrapper {
+  margin-left: -5px;
+}
+
 @media screen and (min-width: 992px) {
   .global-nav__gcse-wrapper {
     display: block;
@@ -83,10 +99,40 @@
 
 .global-nav__search-icon {
   background-position: center;
-  background-size: 28px 28px;
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
   display: inline;
-  width: 28px;
-  height: 28px;
+  height: 22px;
+  margin: 4px;
+  width: 22px;
+}
+
+@media screen and (min-width: 360px) {
+  .global-nav__search-icon {
+    background-size: 21px 21px;
+  }
+}
+
+@media screen and (min-width: 410px) {
+  .global-nav__search-icon {
+    background-size: 22px 22px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .global-nav__search-icon {
+    background-size: 24px 24px;
+    height: 24px;
+    width: 24px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .global-nav__search-icon {
+    background-size: 25px 25px;
+    height: 26px;
+    width: 26px;
+  }
 }
 
 .global-nav .global-nav__search-toggle .global-nav__search-icon {
@@ -213,15 +259,33 @@
   margin-right: -10px;
 }
 
-@media screen and (min-width: 488px) {
+@media screen and (min-width: 360px) {
   .global-nav__kcc-logo-inverse {
     width: 60px;
   }
 }
 
+@media screen and (min-width: 410px) {
+  .global-nav__kcc-logo-inverse {
+    width: 68px;
+  }
+}
+
+@media screen and (min-width: 488px) {
+  .global-nav__kcc-logo-inverse {
+    width: 68px;
+  }
+}
+
 @media screen and (min-width: 576px) {
   .global-nav__kcc-logo-inverse {
-    width: 70px;
+    width: 73px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .global-nav__kcc-logo-inverse {
+    width: 80px;
   }
 }
 

@@ -5,33 +5,11 @@ expire_date: 2019-02-13 13:00:00
 news_image: /uploads/kcc_HD_post-placeholder.svg
 news_image_alt: Color image of the KCC logo
 article_lead: >-
-  ​The Kankakee Community College Miner South Extension Center has seats
-  available in a variety of general education courses for the fall semester.
+  ​South Extension Center has seats
+  available in a variety of courses for fall.
 video_content: false
 video_link: ''
 press_release: true
-_options:
-  content:
-    format: p h2 h3 h4 h5 h6 pre address div
-    bold: true
-    italic: true
-    underline: true
-    subscript: true
-    superscript: true
-    indent: true
-    outdent: true
-    image: true
-    table: true
-    left: align-left
-    center: center-this-text
-    right: align-right
-    removeformat: true
-    link: true
-    numberedlist: true
-    bulletedlist: true
-    undo: true
-    redo: true
-    styles: /assets/css/content.css
 ---
 
 ![](/uploads/kcc-post-placeholder.png){: .center-image}

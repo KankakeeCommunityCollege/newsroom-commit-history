@@ -1,13 +1,21 @@
 .social-icons__icons {
   background-color: $primary-red;
   border-radius: 50%;
-  height: 40px;
-  margin: 5px;
+  height: 33px;
+  margin: 4px;
   padding: 2px;
   transition-property: background-color;
   transition-timing-function: ease;
   transition-duration: .3s;
-  width: 40px;
+  width: 33px;
+}
+
+@media screen and (min-width: 360px) {
+  .social-icons__icons {
+    height: 40px;
+    margin: 5px;
+    width: 40px;
+  }
 }
 
 @media screen and (min-width: 412px) {

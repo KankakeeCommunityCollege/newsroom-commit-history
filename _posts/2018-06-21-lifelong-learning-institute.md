@@ -5,7 +5,7 @@ expire_date: 2018-09-10 13:00:00
 news_image:
 news_image_alt:
 article_lead: >-
-  The Lifelong Learning Institute offers stimulating intellectual and cultural pursuits, for active people 50 and up.
+  Stimulating intellectual and cultural pursuits, for active people 50 and up.
 video_content: true
 video_link: 'https://youtu.be/eWohwTmFZK0'
 press_release: false
