@@ -24,6 +24,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 ## include future posts? (true or false)
 future: false
+## Plugins:
+plugins:
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
