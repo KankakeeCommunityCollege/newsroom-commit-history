@@ -3,11 +3,16 @@ $(document).ready(function(){
     var trigger = $('body').find('[data-toggle="modal"]');
     trigger.click(function() {
       var theModal = $(this).data( 'target' );
-      var theSource = $(theModal).find('iframe').attr('src');
-      var autoSource = $(theModal).find('iframe').attr('src') + '?rel=0&autoplay=1';
-      $(theModal).find('[id*="iframe"]').attr('src', autoSource);
+      var theVid = $(theModal).find('iframe').attr('data-theVideo');
+      var playVid = theVid + '?rel=0&autoplay=1';
+      //var theVid = $(theModal).find('iframe').data( 'theVideo' );
+      //var theSource = $(theModal).find('iframe').attr('src');
+      //var autoSource = $(theModal).find('iframe').attr('src') + '?rel=0&autoplay=1';
+      $(theModal).find('[id*="iframe"]').attr('allow', 'autoplay; encrypted-media');
+      $(theModal).find('[id*="iframe"]').attr('src', playVid);
       $(theModal).on('hidden.bs.modal', function () {
-        $(theModal).find('[id*="iframe"]').attr('src', theSource);
+        $(theModal).find('[id*="iframe"]').attr('allow', '');
+        $(theModal).find('[id*="iframe"]').attr('src', '');
       });
     });
   }
@@ -23,8 +28,25 @@ $(document).ready(function(){
 //    });
 //  }
 //  stopModalNow();
+
+  function stopVidNow() {
+    var stopTrigger = $('body').find('[id*="fullPageVideo"]');
+    stopTrigger.click(function() {
+      var theIframe = $(this).data( 'iframetarget' );
+      $(theIframe).attr('src', '');
+    });
+  }
   autoPlayModal();
+  stopVidNow();
 });
+
+//$(document).ready(function() {
+//  $('iframe').one('load', function() {
+//    console.log('one success');
+//    $('iframe').attr('allow', '');
+//    console.log('disallow');
+//  });
+//});
 
 //$(document).one('load', function() {
 //  var i;
