@@ -17,8 +17,6 @@ press_release: true
 
 College credit classes include:
 
-test.
-
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
 
 PowerPoint (COSC 1341) on Mondays from 1-2:40 p.m. beginning Oct. 15.
