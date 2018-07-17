@@ -2,7 +2,7 @@
 title: Fall 2018 classes at SEC
 date: 2018-07-07 03:23:00 -0500
 expire_date: 2019-02-13 07:00:00 -0600
-news_image: /uploads/jmccleary.jpg
+news_image: /uploads/kcc-post-placeholder.png
 news_image_alt: Color image of the KCC logo
 article_lead: ​South Extension Center has seats available in a variety of courses for fall.
 video_content: false
@@ -14,8 +14,6 @@ press_release: true
 {: .center-this-text}
 
 College credit classes include:
-
-Hello
 
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
 
