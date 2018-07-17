@@ -17,7 +17,7 @@ press_release: true
 
 College credit classes include:
 
-Hello
+Hello, how are you?
 
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
 
