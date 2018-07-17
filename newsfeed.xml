@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
   <channel>
     <title>Kankakee Community College</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jul 2018 16:59:49 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jul 2018 16:59:49 -0500</lastBuildDate>
+    <link>news.kcc.edu/</link>
+    <atom:link href="news.kcc.edu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Jul 2018 08:15:24 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2018 08:15:24 -0500</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
       <item>
@@ -42,8 +42,8 @@
 &lt;p&gt;The Miner South Extension Center is at 1488 E Walnut St. in Watseka. Registration and advising hours at the SEC are Tuesdays, 4-7 p.m. and Thursdays, 8:30 a.m. - 5 p.m. Other hours available by appointment. For more information and to schedule an appointment with an advisor, call 815-802-8780.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Jul 2018 03:23:00 -0500</pubDate>
-        <link>/2018/07/07/fall-2018-classes-at-sec.html</link>
-        <guid isPermaLink="true">/2018/07/07/fall-2018-classes-at-sec.html</guid>
+        <link>news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html</guid>
 
 
       </item>
@@ -57,8 +57,8 @@
 &lt;p&gt;Thanks for visiting! Please let us know if you have any feedback.&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Jun 2018 05:00:00 -0500</pubDate>
-        <link>/2018/06/24/new-website.html</link>
-        <guid isPermaLink="true">/2018/06/24/new-website.html</guid>
+        <link>news.kcc.edu/2018/06/24/new-website.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/06/24/new-website.html</guid>
 
 
       </item>
@@ -68,8 +68,8 @@
         <description>&lt;p&gt;For more information or to find out the latest course offerings, please visit: &lt;a href=&quot;http://www.kcc.edu/lli&quot; target=&quot;_blank&quot;&gt;http://www.kcc.edu/lli&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Jun 2018 03:23:00 -0500</pubDate>
-        <link>/2018/06/21/lifelong-learning-institute.html</link>
-        <guid isPermaLink="true">/2018/06/21/lifelong-learning-institute.html</guid>
+        <link>news.kcc.edu/2018/06/21/lifelong-learning-institute.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/06/21/lifelong-learning-institute.html</guid>
 
 
       </item>
@@ -87,8 +87,8 @@
 &lt;p&gt;C3 will be available online at &lt;a href=&quot;https://www.amazon.com/C3-Centered-Coaching-Utilizing-Athletes/dp/1632694670&quot; target=&quot;_blank&quot;&gt;Amazon&lt;/a&gt;, &lt;a href=&quot;https://www.barnesandnoble.com/w/c3-dr-db-holstein/1128310908?&quot; target=&quot;_blank&quot;&gt;Barnes and Noble&lt;/a&gt; and &lt;a href=&quot;http://deepriverbooks.com/books/c3-christ-centered-coaching/&quot; target=&quot;_blank&quot;&gt;Deep River Books&lt;/a&gt; beginning June 14.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 05:00:00 -0500</pubDate>
-        <link>/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</link>
-        <guid isPermaLink="true">/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</guid>
+        <link>news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</guid>
 
 
       </item>
@@ -120,8 +120,8 @@
 &lt;p&gt;For more information, visit the career preparation workshops page at www.kcc.edu/careerservices or phone Ken Crite, coordinator of KCC’s Career Services Center, at 815-802-8222.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jun 2018 05:00:00 -0500</pubDate>
-        <link>/2018/06/11/linkedin-seminar-june-27.html</link>
-        <guid isPermaLink="true">/2018/06/11/linkedin-seminar-june-27.html</guid>
+        <link>news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html</guid>
 
 
       </item>
@@ -133,8 +133,8 @@
 &lt;p&gt;To find out more visit KCC’s Fast Path page at &lt;a href=&quot;http://fastpath.kcc.edu&quot; target=&quot;_blank&quot;&gt;fastpath.kcc.edu&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 17:16:00 -0500</pubDate>
-        <link>/2018/05/21/fast-path.html</link>
-        <guid isPermaLink="true">/2018/05/21/fast-path.html</guid>
+        <link>news.kcc.edu/2018/05/21/fast-path.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/05/21/fast-path.html</guid>
 
 
       </item>
@@ -144,8 +144,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/uploads/jmccleary.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;ANOTHER FINE DAY FOR THE KCC MEN’s Soccer program! Congratulations to Jacob McCleary on being selected as a member of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Jacob McCleary of Bourbonnais, who will receive an Associate in Science transfer degree. He will attend the University of Illinois at Chicago.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 03:00:00 -0500</pubDate>
-        <link>/2018/05/21/jacob-makes-kcc-soccer-proud.html</link>
-        <guid isPermaLink="true">/2018/05/21/jacob-makes-kcc-soccer-proud.html</guid>
+        <link>news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html</guid>
 
 
       </item>
@@ -157,8 +157,8 @@
 &lt;p&gt;Cavs win first DII World Series ​The Cavs defeated Mercer County (NJ) 11-5 in the 2017 Division II Baseball World Series to win its first baseball championship in program history.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 03:00:00 -0500</pubDate>
-        <link>/2018/05/21/cavs-win-first-dii-world-series.html</link>
-        <guid isPermaLink="true">/2018/05/21/cavs-win-first-dii-world-series.html</guid>
+        <link>news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html</guid>
 
 
       </item>
@@ -174,8 +174,8 @@
 &lt;p&gt;&lt;strong&gt;Coach of the Year&lt;/strong&gt;&lt;br /&gt;Keith Cooper - Kankakee Community College&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 May 2018 12:00:00 -0500</pubDate>
-        <link>/2018/05/06/congratulations-softball.html</link>
-        <guid isPermaLink="true">/2018/05/06/congratulations-softball.html</guid>
+        <link>news.kcc.edu/2018/05/06/congratulations-softball.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/05/06/congratulations-softball.html</guid>
 
 
       </item>
@@ -185,8 +185,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/uploads/womens-basketball-wheelchair-game.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;On Friday, April 20th the Lady Cavaliers were able to support a local fundraising event at Watseka High School. Thank you Options Center for Independent Living for asking the KCC women’s basketball program to participate in this year’s fundraiser- and having the honor to play the U of I Wheelchair basketball team. 🏀100% of the proceeds stay in the community to provide programs and services provided by Option CIL for people with disabilities.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 05:16:00 -0500</pubDate>
-        <link>/2018/04/30/womens-basketball.html</link>
-        <guid isPermaLink="true">/2018/04/30/womens-basketball.html</guid>
+        <link>news.kcc.edu/2018/04/30/womens-basketball.html</link>
+        <guid isPermaLink="true">news.kcc.edu/2018/04/30/womens-basketball.html</guid>
 
 
       </item>
