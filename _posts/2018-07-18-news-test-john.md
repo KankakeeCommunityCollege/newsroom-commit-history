@@ -10,8 +10,6 @@ video_link:
 press_release: true
 ---
 
-&nbsp;
-
 ![](/uploads/DHolstein.jpg){: .center-image}
 {: .center-this-text}
 
