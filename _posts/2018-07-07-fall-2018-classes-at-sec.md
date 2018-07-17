@@ -15,8 +15,6 @@ press_release: true
 ![](/uploads/kcc-post-placeholder.png){: .center-image}
 {: .center-this-text}
 
-IS IT WORKING TEST???!!!
-
 College credit classes include:
 
 Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
