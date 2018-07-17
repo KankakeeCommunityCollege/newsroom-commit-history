@@ -7,5 +7,6 @@ news_image_alt: Cavaliers Baseball
 article_lead: This is the article lead that should not be more than four lines long.
 video_content: false
 video_link:
-press_release: true
+press_release: false
 ---
+
