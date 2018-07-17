@@ -5,8 +5,8 @@ expire_date: 2018-07-18 00:00:00 -0500
 news_image: /uploads/header-bg2.jpg
 news_image_alt: Cavaliers Baseball
 article_lead: This is the article lead that should not be more than four lines long.
-video_content: false
-video_link:
+video_content: true
+video_link: 'https://youtu.be/jpofLTb9Qfo'
 press_release: false
 ---
 
