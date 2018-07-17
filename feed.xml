@@ -1,22 +1,19 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
+    <title>KCC News Releases</title>
+    <link>http://www.kcc.edu/_layouts/feed.aspx?xsl=1&amp;web=/news&amp;page=1c905837-d98b-41d6-b181-c85a42bc694d&amp;wp=0e8582f2-ba10-47bb-9650-d493cb8f8993</link>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <ttl>60</ttl>
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <eventdate></eventdate>
+        <description>{{ post.content | xml_escape }}</description>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for tag in post.tags %}
         <category>{{ tag | xml_escape }}</category>
@@ -24,6 +21,7 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       </item>
     {% endfor %}
   </channel>
