@@ -2,7 +2,7 @@
 title: News Test John
 date: 2018-07-18 09:00:00 -0500
 expire_date: 2018-07-18 00:00:00 -0500
-news_image: /uploads/16-9_thumb.png
+news_image: /uploads/baseball-sophomores.jpg
 news_image_alt: Cavaliers Logo
 article_lead: This is the article lead that should not be more than four lines long.
 video_content: false
