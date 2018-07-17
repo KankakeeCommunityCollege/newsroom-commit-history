@@ -1,227 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
   <channel>
-    <title>KCC Newsroom</title>
-    <link>news.kcc.edu</link>
+    <title>KCC News Releases</title>
+    <link>http://www.kcc.edu/_layouts/feed.aspx?xsl=1&amp;web=/news&amp;page=1c905837-d98b-41d6-b181-c85a42bc694d&amp;wp=0e8582f2-ba10-47bb-9650-d493cb8f8993</link>
     <description></description>
-    <pubDate>Sat, 07 Jul 2018 03:23:00 -0500</pubDate>
-    <item>
-      <title>Fall 2018 classes at SEC</title>
-      <link>news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html</link>
-      <description><![CDATA[
-
-]]></description>
-      <pubDate>Sat, 07 Jul 2018 03:23:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html</guid>
-      <content:encoded><![CDATA[![](/uploads/kcc-post-placeholder.png){: .center-image}
-{: .center-this-text}
-
-College credit classes include:
-
-Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.
-
-PowerPoint (COSC 1341) on Mondays from 1-2:40 p.m. beginning Oct. 15.
-
-Word (COSC 1352) on Mondays and Wednesdays from 10-11:40 a.m. beginning Oct. 15.
-
-Introduction to Information Processing (COSC 1513) on Tuesdays and Thursdays from 5-6:40 p.m.
-
-English I (ENGL 1613) on Thursdays from 6-8:30 p.m.
-
-Phlebotomy Techniques (HLTH 1404) on Mondays and Wednesdays, 9:30 -11:40 a.m.
-
-Fundamentals of Mathematics (MATH 0974) on Tuesdays and Thursdays from 5-6:40 p.m.
-
-Basic Algebra (MATH 1414) on Tuesdays and Thursdays from 7-8:40 p.m.
-
-Adult Education classes include:
-
-High School Equivalency Preparation on Mondays and Wednesdays from 9 a.m. - 12:30 p.m. and 5:30-9 p.m.
-
-English as a Second Language (ESL) on Mondays and Tuesdays from 6-9 p.m.
-
-An orientation is required to enroll in high school equivalency and ESL classes. Please phone 815-802-8780 to sign up for an orientation.
-
-The Miner South Extension Center is at 1488 E Walnut St. in Watseka. Registration and advising hours at the SEC are Tuesdays, 4-7 p.m. and Thursdays, 8:30 a.m. - 5 p.m. Other hours available by appointment. For more information and to schedule an appointment with an advisor, call 815-802-8780.]]></content:encoded>
-      <dc:date>2018-07-07T03:23:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>New Website</title>
-      <link>news.kcc.edu/2018/06/24/new-website.html</link>
-      <description><![CDATA[
-
-]]></description>
-      <pubDate>Sun, 24 Jun 2018 05:00:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/06/24/new-website.html</guid>
-      <content:encoded><![CDATA[![](/uploads/kcc-night-photo.jpg)
-{: .center-this-text}
-
-This site allows us to interact more than ever before through live social media feeds, news stories, and more. Please share a link to [http://news.kcc.edu](http://news.kcc.edu) so friends and can stay up-to-date with KCC.
-
-Thanks for visiting! Please let us know if you have any feedback.
-]]></content:encoded>
-      <dc:date>2018-06-24T05:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Lifelong Learning Institute</title>
-      <link>news.kcc.edu/2018/06/21/lifelong-learning-institute.html</link>
-      <description><![CDATA[For more information or to find out the latest course offerings, please visit: http://www.kcc.edu/lli
-]]></description>
-      <pubDate>Thu, 21 Jun 2018 03:23:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/06/21/lifelong-learning-institute.html</guid>
-      <content:encoded><![CDATA[For more information or to find out the latest course offerings, please visit: [http://www.kcc.edu/lli](http://www.kcc.edu/lli){: target="_blank"}
-]]></content:encoded>
-      <dc:date>2018-06-21T03:23:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Coaching Book Author Has Deep KCC Roots</title>
-      <link>news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</link>
-      <description><![CDATA[Dr. David Holstein. a long-time junior college coach and administrator has written C3: Christ Centered Coaching, Utilizing Faith to Impact Athletes.
-
-]]></description>
-      <pubDate>Tue, 12 Jun 2018 05:00:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</guid>
-      <content:encoded><![CDATA[![](/uploads/DHolstein.jpg){: .float-image-left}Dr. David Holstein. a long-time junior college coach and administrator has written C3: Christ Centered Coaching, Utilizing Faith to Impact Athletes.
-
-A KCC alumnus, Holstein spent three decades coaching basketball at KCC, 17 as an assistant and 13 as head coach. He also was KCC’s athletic director for 15 years. After retiring from KCC in 2008, Holstein served as athletic administrator at Palm Beach State College in Florida for eight years. Holstein-Book-Cover
-
-![Photo of Dr. David Holstein's book C3: Christ Centered Coaching]({{ page.baseurl}}uploads/Holstein-Book-Cover150x150.jpg){: .img-fluid.float-right}
-
-“As it is in the athletic world where our student athletes have been bestowed with physical skills, we as believers have been provided with spiritual skills," Holstein said. "In both worlds I feel we have an obligation to develop those skills because they are gifts from the Lord Jesus Christ. Our journey as coaches of faith and our mandate is to develop our witness with the power of the platform. My prayer is that through the witness of C3, coaches of faith will continue to grow and mature in the knowledge of the Lord and transcend that in whatever way they choose is right for them. In addition, I would hope because of the leadership dialogue in C3 that non-believers picking C3 up will consider a Christian way of life as a good way to enhance their world.”
-
-C3 will be available online at [Amazon](https://www.amazon.com/C3-Centered-Coaching-Utilizing-Athletes/dp/1632694670){: target="_blank"}, [Barnes and Noble](https://www.barnesandnoble.com/w/c3-dr-db-holstein/1128310908?){: target="_blank"} and [Deep River Books](http://deepriverbooks.com/books/c3-christ-centered-coaching/){: target="_blank"} beginning June 14.
-]]></content:encoded>
-      <dc:date>2018-06-12T05:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Linkedin Seminar June 27</title>
-      <link>news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html</link>
-      <description><![CDATA[“Everyone is marketing something—whether it’s yourself or your business,” said the presenter, Wayne Breitbarth. “Don’t let another day pass without acquiring the knowledge you need to open doors and get dramatic results.”
-
-]]></description>
-      <pubDate>Mon, 11 Jun 2018 05:00:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html</guid>
-      <content:encoded><![CDATA[![](/uploads/Breitbarth_small.jpg){: .float-image-left}“Everyone is marketing something—whether it’s yourself or your business,” said the presenter, Wayne Breitbarth. “Don’t let another day pass without acquiring the knowledge you need to open doors and get dramatic results.”
-
-The seminar will have two presentations, and participants can attend one or both. Registration is not required.
-
-“LinkedIn: A Student’s Fast Track to Internships and Jobs” will be from 10 a.m. - noon.
-
-“If you’re interested in quickly and easily creating a strong LinkedIn presence and growing a network that will open doors, this class is for you,” Breitbarth said.
-
-Topics relate to using LinkedIn to finding a job, including creating a winning profile, tapping into a database of resources, developing a network, the best keywords, and connecting with school alumni to locate opportunities.
-
-“The Power Formula for LinkedIn Success” will be from 1:30-3:30 p.m.
-
-“This class has something for everyone,” Breitbarth said. “Whether you’re a social media novice or savvy user, you’ll come away with action steps that can produce immediate results.”
-
-Topics will include using your experience and relationships to meet your business and career goals, creating a compelling profile that helps the right people find you, successfully searches, engaging with LinkedIn members who can help you, and using hidden LinkedIn features to generate opportunities.
-
-![](/uploads/breitbarth-3rd-edition-3D-whitebg.jpg){: .float-image-right}Breitbarth is the CEO of Power Formula LLC. He has shared his expertise with more than 80,000 business professionals through private business consulting, dynamic presentations to worldwide audiences, and his critically acclaimed book The Power Formula for LinkedIn Success (now in its third edition). He has been featured in Forbes, Inc., Wired, and American Express Open Forum and seen on NBC and Fox Business.
-
-Breitbarth is also a certified public accountant, with degrees from the University of Wisconsin-Whitewater and Marquette University.
-
-The event is sponsored by KCC’s Office of Career Services and the KCC Young Adult Program.
-
-For more information, visit the career preparation workshops page at www.kcc.edu/careerservices or phone Ken Crite, coordinator of KCC’s Career Services Center, at 815-802-8222.
-]]></content:encoded>
-      <dc:date>2018-06-11T05:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Fast Path</title>
-      <link>news.kcc.edu/2018/05/21/fast-path.html</link>
-      <description><![CDATA[Fast Path programs are offered at two locations. Choose from either KCC’s Riverfront Campus in Kankakee, or the Miner South Extension Center in Watseka. With a predictable schedule, you’ll know class is always at the same time on the same days throughout the length of the program. That’s right. You attend classes only 2 days per week for about 3 hours per day.  A new class begins every 8-weeks.
-
-]]></description>
-      <pubDate>Mon, 21 May 2018 17:16:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/05/21/fast-path.html</guid>
-      <content:encoded><![CDATA[Fast Path programs are offered at two locations. Choose from either KCC’s Riverfront Campus in Kankakee, or the Miner South Extension Center in Watseka. With a predictable schedule, you’ll know class is always at the same time on the same days throughout the length of the program. That’s right. You attend classes only 2 days per week for about 3 hours per day. &nbsp;A new class begins every 8-weeks.
-
-To find out more visit KCC’s Fast Path page at [fastpath.kcc.edu](http://fastpath.kcc.edu){: target="_blank"}
-]]></content:encoded>
-      <dc:date>2018-05-21T17:16:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Jacob Makes KCC Soccer Proud</title>
-      <link>news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html</link>
-      <description><![CDATA[ANOTHER FINE DAY FOR THE KCC MEN’s Soccer program! Congratulations to Jacob McCleary on being selected as a member of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Jacob McCleary of Bourbonnais, who will receive an Associate in Science transfer degree. He will attend the University of Illinois at Chicago.
-]]></description>
-      <pubDate>Mon, 21 May 2018 03:00:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html</guid>
-      <content:encoded><![CDATA[![](/uploads/jmccleary.jpg){: .float-image-right}ANOTHER FINE DAY FOR THE KCC MEN’s Soccer program! Congratulations to Jacob McCleary on being selected as a member of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Jacob McCleary of Bourbonnais, who will receive an Associate in Science transfer degree. He will attend the University of Illinois at Chicago.
-]]></content:encoded>
-      <dc:date>2018-05-21T03:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Cavs win first DII World Series</title>
-      <link>news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html</link>
-      <description><![CDATA[
-
-]]></description>
-      <pubDate>Mon, 21 May 2018 03:00:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html</guid>
-      <content:encoded><![CDATA[![](/uploads/header-bg2.jpg){: .center-image}
-{: .center-this-text}
-
-Cavs win first DII World Series ​The Cavs defeated Mercer County (NJ) 11-5 in the 2017 Division II Baseball World Series to win its first baseball championship in program history.
-]]></content:encoded>
-      <dc:date>2018-05-21T03:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Congratulations Softball</title>
-      <link>news.kcc.edu/2018/05/06/congratulations-softball.html</link>
-      <description><![CDATA[Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again. 
-
-]]></description>
-      <pubDate>Sun, 06 May 2018 12:00:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/05/06/congratulations-softball.html</guid>
-      <content:encoded><![CDATA[![](/uploads/softball-region-champs.jpg){: .float-image-left}Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again.&nbsp;
-
-Congratulations to:
-
-**2018 Region IV District C All-Tournament Team**<br>Mikayla Cole - Kankakee Community College<br>Megan Lanie - Kankakee Community College<br>Emma Ledbetter - Kankakee Community College<br>Marissa West - Kankakee Community College
-
-**Coach of the Year**<br>Keith Cooper - Kankakee Community College
-]]></content:encoded>
-      <dc:date>2018-05-06T12:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Women's Basketball</title>
-      <link>news.kcc.edu/2018/04/30/womens-basketball.html</link>
-      <description><![CDATA[On Friday, April 20th the Lady Cavaliers were able to support a local fundraising event at Watseka High School. Thank you Options Center for Independent Living for asking the KCC women’s basketball program to participate in this year’s fundraiser- and having the honor to play the U of I Wheelchair basketball team. 🏀100% of the proceeds stay in the community to provide programs and services provided by Option CIL for people with disabilities.
-]]></description>
-      <pubDate>Mon, 30 Apr 2018 05:16:00 -0500</pubDate>
-      <guid>news.kcc.edu/2018/04/30/womens-basketball.html</guid>
-      <content:encoded><![CDATA[![](/uploads/womens-basketball-wheelchair-game.jpg){: .float-image-left}On Friday, April 20th the Lady Cavaliers were able to support a local fundraising event at Watseka High School. Thank you Options Center for Independent Living for asking the KCC women’s basketball program to participate in this year’s fundraiser- and having the honor to play the U of I Wheelchair basketball team. 🏀100% of the proceeds stay in the community to provide programs and services provided by Option CIL for people with disabilities.
-]]></content:encoded>
-      <dc:date>2018-04-30T05:16:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Yee Olde Post</title>
-      <link>news.kcc.edu/2017/07/02/yee-olde-post.html</link>
-      <description><![CDATA[Post content here…
-]]></description>
-      <pubDate>Sun, 02 Jul 2017 03:23:00 -0500</pubDate>
-      <guid>news.kcc.edu/2017/07/02/yee-olde-post.html</guid>
-      <content:encoded><![CDATA[Post content here...
-]]></content:encoded>
-      <dc:date>2017-07-02T03:23:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Yee Oldest Post - Internet Is Born</title>
-      <link>news.kcc.edu/1969/10/29/yee-oldest-post-internet-born.html</link>
-      <description><![CDATA[Post content here…
-]]></description>
-      <pubDate>Wed, 29 Oct 1969 02:23:00 -0600</pubDate>
-      <guid>news.kcc.edu/1969/10/29/yee-oldest-post-internet-born.html</guid>
-      <content:encoded><![CDATA[Post content here...
-]]></content:encoded>
-      <dc:date>1969-10-29T02:23:00-06:00</dc:date>
-    </item>
-    <dc:date>2018-07-07T03:23:00-05:00</dc:date>
+    <ttl>60</ttl>
+    
+      <item>
+        <title>Fall 2018 classes at SEC</title>
+        <link>news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html</link>
+        <eventdate></eventdate>
+        <description>​South Extension Center has seats available in a variety of courses for fall.</description>
+        <pubDate>Sat, 07 Jul 2018 03:23:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>New Website</title>
+        <link>news.kcc.edu/2018/06/24/new-website.html</link>
+        <eventdate></eventdate>
+        <description>The Marketing Department is thrilled to introduce our brand-new website!</description>
+        <pubDate>Sun, 24 Jun 2018 05:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Lifelong Learning Institute</title>
+        <link>news.kcc.edu/2018/06/21/lifelong-learning-institute.html</link>
+        <eventdate></eventdate>
+        <description>Stimulating intellectual and cultural pursuits, for active people 50 and up.</description>
+        <pubDate>Thu, 21 Jun 2018 03:23:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Coaching Book Author Has Deep KCC Roots</title>
+        <link>news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html</link>
+        <eventdate></eventdate>
+        <description>Dr. David Holstein. a long-time junior college coach and administrator has written . . .</description>
+        <pubDate>Tue, 12 Jun 2018 05:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Linkedin Seminar June 27</title>
+        <link>news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html</link>
+        <eventdate></eventdate>
+        <description>A free seminar to help job seekers and others harness the power of LinkedIn will be on Wednesday, June 27 at Kankakee Community College.</description>
+        <pubDate>Mon, 11 Jun 2018 05:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Fast Path</title>
+        <link>news.kcc.edu/2018/05/21/fast-path.html</link>
+        <eventdate></eventdate>
+        <description>Earn a transfer degree in 2 years! We’ve taken the guesswork out of college so you can focus on being successful.</description>
+        <pubDate>Mon, 21 May 2018 17:16:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Jacob Makes KCC Soccer Proud</title>
+        <link>news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html</link>
+        <eventdate></eventdate>
+        <description>Way to go Jacob!</description>
+        <pubDate>Mon, 21 May 2018 03:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Cavs win first DII World Series</title>
+        <link>news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html</link>
+        <eventdate></eventdate>
+        <description>The Cavs defeated Mercer County (NJ) 11-5 in the 2017 Division II Baseball World Series . . .</description>
+        <pubDate>Mon, 21 May 2018 03:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Congratulations Softball</title>
+        <link>news.kcc.edu/2018/05/06/congratulations-softball.html</link>
+        <eventdate></eventdate>
+        <description>Regional Champions</description>
+        <pubDate>Sun, 06 May 2018 12:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Women's Basketball</title>
+        <link>news.kcc.edu/2018/04/30/womens-basketball.html</link>
+        <eventdate></eventdate>
+        <description>Lady Cavaliers support Option CIL!</description>
+        <pubDate>Mon, 30 Apr 2018 05:16:00 -0500</pubDate>
+      </item>
+    
   </channel>
 </rss>
