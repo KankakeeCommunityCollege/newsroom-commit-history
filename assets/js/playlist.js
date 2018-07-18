@@ -74,16 +74,21 @@ function getVideos(yt_id) {
 //      }
       for (var i = 0; i < limit; i++) {
         var counter = '<span id="count' + (i + 1) + '" class="latest-news-widget__latest__tease__number playlist__count">' + (i + 1) + '</span>';
-        var more = '<div class="playlist__more-btn--wrapper"><a class="btn btn-danger playlist__more-btn buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="http://news.kcc.edu/assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="">&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary playlist__more-btn" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a></div>'
+        var more = '<div class="playlist__more-btn--wrapper"><a class="btn btn-danger playlist__more-btn buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="https://news.kcc.edu/assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="">&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary playlist__more-btn" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a></div>'
         var title = $('<h3 class="playlist__title playlist__title--shift">').append(data.items[i].snippet.title);
         var thumb = $("<img>").attr(
           "src",
           data.items[i].snippet.thumbnails.medium.url
         );
+        //var playSymbol = $("<img class='float-left playlist__blue-play'>").attr(
+        //  'src',
+        //  'http://news.kcc.edu/assets/img/blue-play.svg'
+        //);
         var video_id = data.items[i].snippet.resourceId.videoId;
         var holder = $("<div class='yt-item'>")
           .append(counter)
           .append(thumb)
+          //.append(playSymbol)
           .append(title);
         var link = $('<a data-videoid="' + video_id + '" class="video-link" href="#">')
           .data("videoid", video_id)
