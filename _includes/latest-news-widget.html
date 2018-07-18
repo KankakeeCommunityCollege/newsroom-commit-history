@@ -31,8 +31,8 @@
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
                       </div>
-                      <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.news_image }}')">
-                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                      <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.image }}')">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.image }}" alt="{{ post.news_image_alt }}">
                       </div>
                     </a>
                   {% endif %}
@@ -55,7 +55,7 @@
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
                       </div>
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
-                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.news_image }}" alt="{{ post.news_image_alt }}">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.image }}" alt="{{ post.news_image_alt }}">
                       </div>
                     </a>
                   {% endif %}
@@ -99,14 +99,14 @@
                   {% else %}
                     <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
                       <!--  Tease is active   -->
-                      <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
+                      <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="#modal{{ forloop.index }}" data-image="{{ post.image }}"
                         data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                         <div class="latest-news-widget__latest__tease__hgroup">
                           <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
                           <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
                           <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
                         </div>
-                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
+                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.image }}')">
                         </div>
                       </a>
                     </li>
@@ -127,14 +127,14 @@
                     </li>
                   {% else %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image">
-                      <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="#modal{{ forloop.index }}" data-image="{{ post.news_image }}"
+                      <a data-toggle="modal" id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="#modal{{ forloop.index }}" data-image="{{ post.image }}"
                         data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                         <div class="latest-news-widget__latest__tease__hgroup">
                           <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
                           <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
                           <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
                         </div>
-                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.news_image }}')">
+                        <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.image }}')">
                         </div>
                       </a>
                     </li>

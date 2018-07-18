@@ -2,7 +2,7 @@
 title: Yee Olde Post
 date: 2017-07-02 08:23:00
 expire_date: 2019-01-01 13:00:00
-news_image: /uploads/kcc-post-placeholder.png
+image: /uploads/kcc-post-placeholder.png
 news_image_alt: Color image of the KCC logo
 article_lead: >-
   ​An old post from 2017 (written in 2018).

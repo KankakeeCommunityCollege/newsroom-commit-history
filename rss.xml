@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
-  <link href="http://news.kcc.edu/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://news.kcc.edu/" rel="alternate" type="text/html" />
-  <updated>2018-07-17T15:42:15-05:00</updated>
-  <id>news.kcc.edu/</id>
+  <link href="http://http://news.kcc.edu/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://http://news.kcc.edu/" rel="alternate" type="text/html" />
+  <updated>2018-07-18T08:58:51-05:00</updated>
+  <id>http://news.kcc.edu/</id>
 
   
     <title type="html">Kankakee Community College</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Fall 2018 classes at SEC</title>
-      <link href="http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html" rel="alternate" type="text/html" title="Fall 2018 classes at SEC" />
+      <link href="http://http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html" rel="alternate" type="text/html" title="Fall 2018 classes at SEC" />
       <published>2018-07-07T03:23:00-05:00</published>
       <updated>2018-07-07T03:23:00-05:00</updated>
-      <id>news.kcc.edu/2018/07/07/fall-2018-classes-at-sec</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/kcc-post-placeholder.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+      <id>http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/kcc-post-placeholder.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;College credit classes include:&lt;/p&gt;
 
@@ -76,17 +76,17 @@
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/kcc_HD_post-placeholder.svg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/kcc-post-placeholder.png" />
       
     </entry>
   
     <entry>
       <title type="html">New Website</title>
-      <link href="http://news.kcc.edu/2018/06/24/new-website.html" rel="alternate" type="text/html" title="New Website" />
+      <link href="http://http://news.kcc.edu/2018/06/24/new-website.html" rel="alternate" type="text/html" title="New Website" />
       <published>2018-06-24T05:00:00-05:00</published>
       <updated>2018-06-24T05:00:00-05:00</updated>
-      <id>news.kcc.edu/2018/06/24/new-website</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/06/24/new-website.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/kcc-night-photo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+      <id>http://news.kcc.edu/2018/06/24/new-website</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/06/24/new-website.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/kcc-night-photo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This site allows us to interact more than ever before through live social media feeds, news stories, and more. Please share a link to &lt;a href=&quot;http://news.kcc.edu&quot;&gt;http://news.kcc.edu&lt;/a&gt; so friends and can stay up-to-date with KCC.&lt;/p&gt;
 
@@ -119,11 +119,11 @@
   
     <entry>
       <title type="html">Lifelong Learning Institute</title>
-      <link href="http://news.kcc.edu/2018/06/21/lifelong-learning-institute.html" rel="alternate" type="text/html" title="Lifelong Learning Institute" />
+      <link href="http://http://news.kcc.edu/2018/06/21/lifelong-learning-institute.html" rel="alternate" type="text/html" title="Lifelong Learning Institute" />
       <published>2018-06-21T03:23:00-05:00</published>
       <updated>2018-06-21T03:23:00-05:00</updated>
-      <id>news.kcc.edu/2018/06/21/lifelong-learning-institute</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/06/21/lifelong-learning-institute.html">&lt;p&gt;For more information or to find out the latest course offerings, please visit: &lt;a href=&quot;http://www.kcc.edu/lli&quot; target=&quot;_blank&quot;&gt;http://www.kcc.edu/lli&lt;/a&gt;&lt;/p&gt;</content>
+      <id>http://news.kcc.edu/2018/06/21/lifelong-learning-institute</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/06/21/lifelong-learning-institute.html">&lt;p&gt;For more information or to find out the latest course offerings, please visit: &lt;a href=&quot;http://www.kcc.edu/lli&quot; target=&quot;_blank&quot;&gt;http://www.kcc.edu/lli&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -149,11 +149,11 @@
   
     <entry>
       <title type="html">Coaching Book Author Has Deep KCC Roots</title>
-      <link href="http://news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html" rel="alternate" type="text/html" title="Coaching Book Author Has Deep KCC Roots" />
+      <link href="http://http://news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html" rel="alternate" type="text/html" title="Coaching Book Author Has Deep KCC Roots" />
       <published>2018-06-12T05:00:00-05:00</published>
       <updated>2018-06-12T05:00:00-05:00</updated>
-      <id>news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html">&lt;p&gt;&lt;img src=&quot;/uploads/DHolstein.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;Dr. David Holstein. a long-time junior college coach and administrator has written C3: Christ Centered Coaching, Utilizing Faith to Impact Athletes.&lt;/p&gt;
+      <id>http://news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/06/12/coaching-book-author-has-deep-kcc-roots.html">&lt;p&gt;&lt;img src=&quot;/uploads/DHolstein.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;Dr. David Holstein. a long-time junior college coach and administrator has written C3: Christ Centered Coaching, Utilizing Faith to Impact Athletes.&lt;/p&gt;
 
 &lt;p&gt;A KCC alumnus, Holstein spent three decades coaching basketball at KCC, 17 as an assistant and 13 as head coach. He also was KCC’s athletic director for 15 years. After retiring from KCC in 2008, Holstein served as athletic administrator at Palm Beach State College in Florida for eight years. Holstein-Book-Cover&lt;/p&gt;
 
@@ -190,11 +190,11 @@
   
     <entry>
       <title type="html">Linkedin Seminar June 27</title>
-      <link href="http://news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html" rel="alternate" type="text/html" title="Linkedin Seminar June 27" />
+      <link href="http://http://news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html" rel="alternate" type="text/html" title="Linkedin Seminar June 27" />
       <published>2018-06-11T05:00:00-05:00</published>
       <updated>2018-06-11T05:00:00-05:00</updated>
-      <id>news.kcc.edu/2018/06/11/linkedin-seminar-june-27</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html">&lt;p&gt;&lt;img src=&quot;/uploads/Breitbarth_small.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;“Everyone is marketing something—whether it’s yourself or your business,” said the presenter, Wayne Breitbarth. “Don’t let another day pass without acquiring the knowledge you need to open doors and get dramatic results.”&lt;/p&gt;
+      <id>http://news.kcc.edu/2018/06/11/linkedin-seminar-june-27</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/06/11/linkedin-seminar-june-27.html">&lt;p&gt;&lt;img src=&quot;/uploads/Breitbarth_small.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;“Everyone is marketing something—whether it’s yourself or your business,” said the presenter, Wayne Breitbarth. “Don’t let another day pass without acquiring the knowledge you need to open doors and get dramatic results.”&lt;/p&gt;
 
 &lt;p&gt;The seminar will have two presentations, and participants can attend one or both. Registration is not required.&lt;/p&gt;
 
@@ -245,11 +245,11 @@
   
     <entry>
       <title type="html">Fast Path</title>
-      <link href="http://news.kcc.edu/2018/05/21/fast-path.html" rel="alternate" type="text/html" title="Fast Path" />
+      <link href="http://http://news.kcc.edu/2018/05/21/fast-path.html" rel="alternate" type="text/html" title="Fast Path" />
       <published>2018-05-21T17:16:00-05:00</published>
       <updated>2018-05-21T17:16:00-05:00</updated>
-      <id>news.kcc.edu/2018/05/21/fast-path</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/05/21/fast-path.html">&lt;p&gt;Fast Path programs are offered at two locations. Choose from either KCC’s Riverfront Campus in Kankakee, or the Miner South Extension Center in Watseka. With a predictable schedule, you’ll know class is always at the same time on the same days throughout the length of the program. That’s right. You attend classes only 2 days per week for about 3 hours per day.  A new class begins every 8-weeks.&lt;/p&gt;
+      <id>http://news.kcc.edu/2018/05/21/fast-path</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/05/21/fast-path.html">&lt;p&gt;Fast Path programs are offered at two locations. Choose from either KCC’s Riverfront Campus in Kankakee, or the Miner South Extension Center in Watseka. With a predictable schedule, you’ll know class is always at the same time on the same days throughout the length of the program. That’s right. You attend classes only 2 days per week for about 3 hours per day.  A new class begins every 8-weeks.&lt;/p&gt;
 
 &lt;p&gt;To find out more visit KCC’s Fast Path page at &lt;a href=&quot;http://fastpath.kcc.edu&quot; target=&quot;_blank&quot;&gt;fastpath.kcc.edu&lt;/a&gt;&lt;/p&gt;</content>
 
@@ -277,11 +277,11 @@
   
     <entry>
       <title type="html">Jacob Makes KCC Soccer Proud</title>
-      <link href="http://news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html" rel="alternate" type="text/html" title="Jacob Makes KCC Soccer Proud" />
+      <link href="http://http://news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html" rel="alternate" type="text/html" title="Jacob Makes KCC Soccer Proud" />
       <published>2018-05-21T03:00:00-05:00</published>
       <updated>2018-05-21T03:00:00-05:00</updated>
-      <id>news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html">&lt;p&gt;&lt;img src=&quot;/uploads/jmccleary.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;ANOTHER FINE DAY FOR THE KCC MEN’s Soccer program! Congratulations to Jacob McCleary on being selected as a member of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Jacob McCleary of Bourbonnais, who will receive an Associate in Science transfer degree. He will attend the University of Illinois at Chicago.&lt;/p&gt;</content>
+      <id>http://news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/05/21/jacob-makes-kcc-soccer-proud.html">&lt;p&gt;&lt;img src=&quot;/uploads/jmccleary.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;ANOTHER FINE DAY FOR THE KCC MEN’s Soccer program! Congratulations to Jacob McCleary on being selected as a member of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Jacob McCleary of Bourbonnais, who will receive an Associate in Science transfer degree. He will attend the University of Illinois at Chicago.&lt;/p&gt;</content>
 
       
       
@@ -310,11 +310,11 @@
   
     <entry>
       <title type="html">Cavs win first DII World Series</title>
-      <link href="http://news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html" rel="alternate" type="text/html" title="Cavs win first DII World Series" />
+      <link href="http://http://news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html" rel="alternate" type="text/html" title="Cavs win first DII World Series" />
       <published>2018-05-21T03:00:00-05:00</published>
       <updated>2018-05-21T03:00:00-05:00</updated>
-      <id>news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/header-bg2.jpg&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+      <id>http://news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/05/21/cavs-win-first-dii-world-series.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/header-bg2.jpg&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cavs win first DII World Series ​The Cavs defeated Mercer County (NJ) 11-5 in the 2017 Division II Baseball World Series to win its first baseball championship in program history.&lt;/p&gt;</content>
 
@@ -345,11 +345,11 @@
   
     <entry>
       <title type="html">Congratulations Softball</title>
-      <link href="http://news.kcc.edu/2018/05/06/congratulations-softball.html" rel="alternate" type="text/html" title="Congratulations Softball" />
+      <link href="http://http://news.kcc.edu/2018/05/06/congratulations-softball.html" rel="alternate" type="text/html" title="Congratulations Softball" />
       <published>2018-05-06T12:00:00-05:00</published>
       <updated>2018-05-06T12:00:00-05:00</updated>
-      <id>news.kcc.edu/2018/05/06/congratulations-softball</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/05/06/congratulations-softball.html">&lt;p&gt;&lt;img src=&quot;/uploads/softball-region-champs.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again. &lt;/p&gt;
+      <id>http://news.kcc.edu/2018/05/06/congratulations-softball</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/05/06/congratulations-softball.html">&lt;p&gt;&lt;img src=&quot;/uploads/softball-region-champs.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;Softball won their 20th consecutive Regional championship, making Kankakee Community College proud once again. &lt;/p&gt;
 
 &lt;p&gt;Congratulations to:&lt;/p&gt;
 
@@ -384,11 +384,11 @@
   
     <entry>
       <title type="html">Women’s Basketball</title>
-      <link href="http://news.kcc.edu/2018/04/30/womens-basketball.html" rel="alternate" type="text/html" title="Women's Basketball" />
+      <link href="http://http://news.kcc.edu/2018/04/30/womens-basketball.html" rel="alternate" type="text/html" title="Women's Basketball" />
       <published>2018-04-30T05:16:00-05:00</published>
       <updated>2018-04-30T05:16:00-05:00</updated>
-      <id>news.kcc.edu/2018/04/30/womens-basketball</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/04/30/womens-basketball.html">&lt;p&gt;&lt;img src=&quot;/uploads/womens-basketball-wheelchair-game.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;On Friday, April 20th the Lady Cavaliers were able to support a local fundraising event at Watseka High School. Thank you Options Center for Independent Living for asking the KCC women’s basketball program to participate in this year’s fundraiser- and having the honor to play the U of I Wheelchair basketball team. 🏀100% of the proceeds stay in the community to provide programs and services provided by Option CIL for people with disabilities.&lt;/p&gt;</content>
+      <id>http://news.kcc.edu/2018/04/30/womens-basketball</id>
+      <content type="html" xml:base="http://http://news.kcc.edu/2018/04/30/womens-basketball.html">&lt;p&gt;&lt;img src=&quot;/uploads/womens-basketball-wheelchair-game.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;On Friday, April 20th the Lady Cavaliers were able to support a local fundraising event at Watseka High School. Thank you Options Center for Independent Living for asking the KCC women’s basketball program to participate in this year’s fundraiser- and having the honor to play the U of I Wheelchair basketball team. 🏀100% of the proceeds stay in the community to provide programs and services provided by Option CIL for people with disabilities.&lt;/p&gt;</content>
 
       
       

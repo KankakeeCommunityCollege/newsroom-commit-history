@@ -2,7 +2,7 @@
 title: Coaching Book Author Has Deep KCC Roots
 date: 2018-06-12 10:00:00
 expire_date: 2019-01-01 13:00:00
-news_image: /uploads/DHolstein.jpg
+image: /uploads/DHolstein.jpg
 news_image_alt: 'Photo of Dr. David Holstein'
 article_lead: >-
   Dr. David Holstein. a long-time junior college coach and administrator has written . . .

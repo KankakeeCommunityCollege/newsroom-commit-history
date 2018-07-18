@@ -2,7 +2,7 @@
 title: Yee Oldest Post - Internet Is Born
 date: 1969-10-29 08:23:00
 expire_date: 2019-01-01 13:00:00
-news_image: /uploads/kcc-post-placeholder.png
+image: /uploads/kcc-post-placeholder.png
 news_image_alt: Color image of the KCC logo
 article_lead: >-
   ​Houston, We have internet! Hello World!

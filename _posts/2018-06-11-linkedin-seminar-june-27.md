@@ -1,8 +1,8 @@
 ---
 title: Linkedin Seminar June 27
 date: 2018-06-11 10:00:00
-expire_date: 2018-07-11 13:56:00 
-news_image: /uploads/Breitbarth-Headshot-July-2015.jpg
+expire_date: 2018-07-11 13:56:00
+image: /uploads/Breitbarth-Headshot-July-2015.jpg
 news_image_alt: 'Photo of Wayne Breitbarth'
 article_lead: >-
   A free seminar to help job seekers and others harness the power of LinkedIn will be on Wednesday, June 27 at Kankakee Community College.

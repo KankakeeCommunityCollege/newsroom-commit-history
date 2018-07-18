@@ -2,7 +2,7 @@
 title: New Website
 date: 2018-06-24 10:00:00
 expire_date: 2019-01-01 13:00:00
-news_image: /uploads/article1.jpg
+image: /uploads/article1.jpg
 news_image_alt: ''
 article_lead: The Marketing Department is thrilled to introduce our brand-new website!
 video_content: false
