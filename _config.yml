@@ -1,4 +1,6 @@
 title: "Kankakee Community College"
+name: "KCC Newsroom"
+url: news.kcc.edu
 timezone: America/Chicago
 google_analytics_key: UA-4328282-19
 collections:
@@ -25,8 +27,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 ## include future posts? (true or false)
 future: false
 ## Plugins:
-#plugins:
-#  - jekyll-feed
+plugins:
+#  - rssgenerator
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
