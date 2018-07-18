@@ -9,6 +9,11 @@ collections:
     output: false
 defaults:
 - scope:
+    type: ''
+  values:
+    _defaults:
+      image_path: "/uploads/kcc_HD_post-placeholder.svg"
+- scope:
     path: ''
     type: posts
   values:
@@ -28,9 +33,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 ## include future posts? (true or false)
 future: false
 ## Plugins:
-plugins:
+#plugins:
 #  - rssgenerator
-  - jekyll-feed
+#  - jekyll-feed
 
 # Build settings
 markdown: kramdown
