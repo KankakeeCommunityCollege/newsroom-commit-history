@@ -9,6 +9,11 @@ collections:
     output: false
 defaults:
 - scope:
+    type: ''
+  values:
+    _defaults:
+      image_path: "/uploads/kcc_HD_post-placeholder.svg"
+- scope:
     path: ''
     type: posts
   values:
