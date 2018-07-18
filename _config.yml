@@ -21,6 +21,8 @@ defaults:
     title: ''
     baseurl: ../../../../
     permalink: /:year/:month/:day/:title:output_ext
+    _defaults:
+      image_path: "/uploads/kcc_HD_post-placeholder.svg"
 permalink: pretty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
