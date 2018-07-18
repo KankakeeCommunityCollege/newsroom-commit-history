@@ -12,13 +12,13 @@ defaults:
     type: ''
   values:
     _defaults:
-      image_path: "/uploads/kcc_HD_post-placeholder.svg"
+      image_path: "/uploads/kcc_default_post-placeholder.png"
 - scope:
     path: ''
     type: drafts
   values:
     _defaults:
-      image_path: "/uploads/kcc_HD_post-placeholder.svg"
+      image_path: "/uploads/kcc_default_post-placeholder.png"
 - scope:
     path: ''
     type: posts
@@ -96,3 +96,6 @@ _options:
     undo: true
     redo: true
     styles: /assets/css/content.css
+
+_defaults:
+  image_path: "/uploads/kcc_default_post-placeholder.png"
