@@ -1,6 +1,6 @@
 ---
 title: Ellen's Future Post Test
-date: 2018-07-19 13:00:00 -0500
+date: 2018-07-18 13:00:00 -0500
 expire_date: 2018-07-31 00:00:00 -0500
 image: /uploads/article1.jpg
 news_image_alt: KCC at night
