@@ -15,6 +15,12 @@ defaults:
       image_path: "/uploads/kcc_HD_post-placeholder.svg"
 - scope:
     path: ''
+    type: drafts
+  values:
+    _defaults:
+      image_path: "/uploads/kcc_HD_post-placeholder.svg"
+- scope:
+    path: ''
     type: posts
   values:
     layout: post
