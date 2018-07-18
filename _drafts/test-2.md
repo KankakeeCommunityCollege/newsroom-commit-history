@@ -1,6 +1,6 @@
 ---
 title: test 2
-date: 2018-07-07 03:23:00 -0500
+date: 2018-07-18 10:00:00 -0500
 expire_date: 2019-02-13 07:00:00 -0600
 image: /uploads/Breitbarth_small.jpg
 news_image_alt: Color image of the KCC logo
