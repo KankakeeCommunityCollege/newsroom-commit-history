@@ -10,7 +10,7 @@ video_link:
 press_release: true
 ---
 
-![](/uploads/kcc-post-placeholder.png){: .center-image}
+&nbsp;
 {: .center-this-text}
 
 College credit classes include:
