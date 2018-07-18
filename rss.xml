@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
   <link href="http://news.kcc.edu/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://news.kcc.edu/" rel="alternate" type="text/html" />
-  <updated>2018-07-18T12:42:51-05:00</updated>
+  <updated>2018-07-18T16:01:05-05:00</updated>
   <id>http://news.kcc.edu/</id>
 
   
@@ -18,6 +18,41 @@
   
 
   
+  
+    <entry>
+      <title type="html">Ellen’s Future Post Test</title>
+      <link href="http://news.kcc.edu/2018/07/18/ellens-future-post-test.html" rel="alternate" type="text/html" title="Ellen's Future Post Test" />
+      <published>2018-07-18T11:00:00-05:00</published>
+      <updated>2018-07-18T11:00:00-05:00</updated>
+      <id>http://news.kcc.edu/2018/07/18/ellens-future-post-test</id>
+      <content type="html" xml:base="http://news.kcc.edu/2018/07/18/ellens-future-post-test.html">&lt;p&gt;&lt;img src=&quot;/uploads/breitbarth-small.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;This site allows us to interact more than ever before through live social media feeds, news stories, and more. Please share a link to http://news.kcc.edu so friends and can stay up-to-date with KCC.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting! Please let us know if you have any feedback.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      <summary type="html">This is my four line headline. Not really.</summary>
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/article1.jpg" />
+      
+    </entry>
   
     <entry>
       <title type="html">Fall 2018 classes at SEC</title>
@@ -385,39 +420,6 @@
       
         
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/softball-region-champs.jpg" />
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Women’s Basketball</title>
-      <link href="http://news.kcc.edu/2018/04/30/womens-basketball.html" rel="alternate" type="text/html" title="Women's Basketball" />
-      <published>2018-04-30T05:16:00-05:00</published>
-      <updated>2018-04-30T05:16:00-05:00</updated>
-      <id>http://news.kcc.edu/2018/04/30/womens-basketball</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/04/30/womens-basketball.html">&lt;p&gt;&lt;img src=&quot;/uploads/womens-basketball-wheelchair-game.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;On Friday, April 20th the Lady Cavaliers were able to support a local fundraising event at Watseka High School. Thank you Options Center for Independent Living for asking the KCC women’s basketball program to participate in this year’s fundraiser- and having the honor to play the U of I Wheelchair basketball team. 🏀100% of the proceeds stay in the community to provide programs and services provided by Option CIL for people with disabilities.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      <summary type="html">Lady Cavaliers support Option CIL!</summary>
-
-      
-      
-        
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/womens-basketball-wheelchair-game.jpg" />
       
     </entry>
   

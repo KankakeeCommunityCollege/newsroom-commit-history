@@ -29,6 +29,15 @@ copy:
   dist: "_site/assets/"
   notification: "Running Copy"
 
+copyrss:
+  assets:
+    - "./_site/feed.xml"
+  filename:
+    - "rss.xml"
+  dist:
+    - "./"
+  notification: "Running Copy RSS"
+
 sass:
   # Autoprefixer will make sure your CSS works with these browsers
   compatibility:    # These are pretty standard autoprefixer compatibility settings
@@ -125,3 +134,5 @@ watch: # 'Watch' for changes in all the following:
     # !exlclusions:
     - "!_site/**/*.*"
     - "!assets/**/*.*"
+  copyrss:
+    - "_site/rss.xml"
