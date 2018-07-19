@@ -5,9 +5,8 @@ expire_date: 2018-08-03 00:00:00 -0500
 image: /uploads/radiography-dsc-2162.jpg
 news_image_alt: Radiography student uses X-ray equipment during a simulation exercise.
 article_lead: >-
-  For the 11th consecutive year, Kankakee Community College graduates have a 100
-  percent pass rate on the American Registry of Radiologic Technologists
-  National Certification Examination.
+  For 11 straight years, KCC grads have a 100% pass rate on the ARRT National
+  Certification Examination.
 video_content: false
 video_link:
 press_release: false
