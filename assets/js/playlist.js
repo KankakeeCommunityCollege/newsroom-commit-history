@@ -170,8 +170,6 @@ $("#yt_list").on("scroll", function() {
 $("#yt_list").on("click", "a.video-link", function() {
 //  playTrigger.click(function() {
   var theVideoId = $(this).data( 'videoid' );
-  console.log('playTrigger clicked');
-  console.log(theVideoId);
   var iframePlay =  'https://youtube.com/embed/' + theVideoId + '?controls=1&showinfo=0&rel=0&autoplay=1';
   //var theModal = $(this).data( 'target' );
   //var theSource = $(theModal).find('iframe').attr('src');
