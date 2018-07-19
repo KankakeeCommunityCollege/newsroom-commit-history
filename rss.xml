@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
   <link href="http://news.kcc.edu/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://news.kcc.edu/" rel="alternate" type="text/html" />
-  <updated>2018-07-18T16:01:05-05:00</updated>
+  <updated>2018-07-19T09:26:10-05:00</updated>
   <id>http://news.kcc.edu/</id>
 
   
@@ -20,14 +20,43 @@
   
   
     <entry>
-      <title type="html">Ellen’s Future Post Test</title>
-      <link href="http://news.kcc.edu/2018/07/18/ellens-future-post-test.html" rel="alternate" type="text/html" title="Ellen's Future Post Test" />
-      <published>2018-07-18T11:00:00-05:00</published>
-      <updated>2018-07-18T11:00:00-05:00</updated>
-      <id>http://news.kcc.edu/2018/07/18/ellens-future-post-test</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/07/18/ellens-future-post-test.html">&lt;p&gt;&lt;img src=&quot;/uploads/breitbarth-small.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;This site allows us to interact more than ever before through live social media feeds, news stories, and more. Please share a link to http://news.kcc.edu so friends and can stay up-to-date with KCC.&lt;/p&gt;
+      <title type="html">Register Now for Fall 2018</title>
+      <link href="http://news.kcc.edu/2018/07/19/register-now-for-fall-2018.html" rel="alternate" type="text/html" title="Register Now for  Fall 2018" />
+      <published>2018-07-19T03:23:00-05:00</published>
+      <updated>2018-07-19T03:23:00-05:00</updated>
+      <id>http://news.kcc.edu/2018/07/19/register-now-for-fall-2018</id>
+      <content type="html" xml:base="http://news.kcc.edu/2018/07/19/register-now-for-fall-2018.html">&lt;p&gt;Kankakee Community College is offering a variety of fall enrollment options.&lt;/p&gt;
 
-&lt;p&gt;Thanks for visiting! Please let us know if you have any feedback.&lt;/p&gt;</content>
+&lt;p&gt;Options are listed at &lt;a href=&quot;http://www.kcc.edu/schedule&quot;&gt;www.kcc.edu/schedule&lt;/a&gt;, and include viewing classes by subject, location, time of day, or course type—such as online or hybrid. &lt;/p&gt;
+
+&lt;p&gt;The college’s fall semester begins the week of Monday, Aug. 21. Early registration is encouraged for the best selection of classes. &lt;/p&gt;
+
+&lt;p&gt;Registration and advisement is available in person in Student Services at KCC, which is located on the second floor of the Workforce Development Center KCC is south of downtown Kankakee, off River Road, near U.S. 45 52, or take Interstate 57 to Exit 308 and follow the signs. &lt;/p&gt;
+
+&lt;p&gt;Registration hours are 8 a.m. - 6 p.m. Monday through Thursday and 8 a.m. - 5 p.m. Fridays. College offices will be closed July 20 and 27. Qualified returning students can register online. &lt;/p&gt;
+
+&lt;p&gt;New and returning students unsure of the enrollment process can contact the Office of Student Services, 815-802-8500 or visit &lt;a href=&quot;http://www.kcc.edu/register&quot;&gt;www.kcc.edu/register&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;The KCC Miner South Extension Center, 1488 E. Walnut St. in Watseka, also offers registration and advisement. The extension center is open Monday through Thursday 8:30 a.m. - 9 p.m., and closed Fridays. Advisement in Watseka is available Tuesdays and Thursdays, and by appointment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/sidewalk-dsc-0293.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8-interesting-kcc-facts&quot;&gt;8 interesting KCC facts&lt;/h2&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rated #1 in Illinois by Zippia.com for helping students land a job after graduation.&lt;/li&gt;
+  &lt;li&gt;Top 10% of community colleges in the nation for students who complete a career program and find employment in a related field.&lt;/li&gt;
+  &lt;li&gt;Top 15% of community colleges in the nation for first-time, full-time students who transfer within 2 years.&lt;/li&gt;
+  &lt;li&gt;The latest pass rates for all health career licensure exams are above the national average, with most at 100%.&lt;/li&gt;
+  &lt;li&gt;Ranked #2 in North America among associate degree colleges for sustainability practices.&lt;/li&gt;
+  &lt;li&gt;Average age of Dec. 2017 &amp;amp; May 2018 Associate degree graduates is 26.&lt;/li&gt;
+  &lt;li&gt;Practical Nursing program ranked No. 2 in Illinois.&lt;/li&gt;
+  &lt;li&gt;More high school graduates in this area enroll at KCC than any other college.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sources: KCC Office of Institutional Research, National Community College Benchmark Project (comparison to other participating community colleges); &lt;a href=&quot;http://www.aashe.org/news/2017-sustainable-campus-index-released/&quot;&gt;Association for the Advancement of Sustainability in Higher Education&lt;/a&gt;; &lt;a href=&quot;http://www.zippia.com&quot;&gt;zippia.com&lt;/a&gt; and &lt;a href=&quot;http://www.practicalnursing.org&quot;&gt;www.practicalnursing.org&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -45,12 +74,12 @@
 
       
 
-      <summary type="html">This is my four line headline. Not really.</summary>
+      <summary type="html">Kankakee Community College is offering a variety of fall enrollment options.</summary>
 
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/article1.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/art-class-dsc-4391.jpg" />
       
     </entry>
   
@@ -60,9 +89,7 @@
       <published>2018-07-07T03:23:00-05:00</published>
       <updated>2018-07-07T03:23:00-05:00</updated>
       <id>http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/kcc-post-placeholder.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;College credit classes include:&lt;/p&gt;
+      <content type="html" xml:base="http://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html">&lt;p&gt;College credit classes include:&lt;/p&gt;
 
 &lt;p&gt;Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.&lt;/p&gt;
 
@@ -111,7 +138,7 @@
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/kcc-post-placeholder.png" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/kcc_default_post-placeholder.png" />
       
     </entry>
   
