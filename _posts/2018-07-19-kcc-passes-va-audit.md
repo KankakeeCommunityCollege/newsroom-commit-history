@@ -20,4 +20,4 @@ The college expects to receive an official letter to confirm the results within 
 
 “This is a team effort, as many of us work with the veterans; completing vouchers, registering them, approving degree audits, certifying, payments, etc.,” said Deanna Liacone, director of financial aid. Liacone made special mention of contributions made by Kendra Souligne, coordinator in the Financial Aid Office; Michele Buikema, administrative assistant for the Information/Finance Office; and Vanessa Lopez, specialist II in the Financial Aid Office.
 
-KCC offers a number of services for veterans, including a Veterans Resource Center.&nbsp;
+KCC offers a number of services for veterans, including a Veterans Resource Center.
