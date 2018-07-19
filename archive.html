@@ -12,7 +12,7 @@ baseurl: ../
           {% assign currentDate = post.date | date: "%Y" %}
           {% if currentDate != myDate %}
               {% unless forloop.first %}</ul>{% endunless %}
-              <h1>{{ currentDate }}</h1>
+              <h2>{{ currentDate }}</h2>
               <ul class="archive__list">
               {% assign myDate = currentDate %}
           {% endif %}
@@ -20,6 +20,13 @@ baseurl: ../
           {% if forloop.last %}</ul>{% endif %}
       {% endfor %}
 
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="editable">
+        <h2>2017</h2>
+      </div>
     </div>
   </div>
 </div>
