@@ -4,9 +4,7 @@ date: 2018-07-19 03:23:00 -0500
 expire_date: 2018-08-03 00:00:00 -0500
 image: /uploads/radiography-dsc-2162.jpg
 news_image_alt: Radiography student uses X-ray equipment during a simulation exercise.
-article_lead: >-
-  For 11 straight years, KCC grads have a 100% pass rate on the ARRT National
-  Certification Examination.
+article_lead: KCC grads earn 100% pass rate on the ARRT National Certification Exam.
 video_content: false
 video_link:
 press_release: false
