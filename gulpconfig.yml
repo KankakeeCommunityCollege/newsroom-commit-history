@@ -73,6 +73,7 @@ javascript:
     # Inclusions: (included in JS compile)
     - "!assets/js/test.js" # test js file
     - "!assets/js/all.bloat.js"
+    - "assets/js/ieOnly.js"
     - "assets/js/date.js"
     - "assets/js/newsWidget.js"
     - "assets/js/currentPage.js"

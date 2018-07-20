@@ -166,21 +166,20 @@
 .latest-news-widget__latest__tease__img-mod--default {
   background-size: cover;
   background-position: 50% 50%;
-  width: 50px;
-  height: 50px;
-  min-width: 50px;
-  min-height: 50px;
-  margin: 0 0 0 5px;
+  width: 50px !important;
+  height: 50px !important;
+  margin: 0;
+  min-width: 50px !important;
+  min-height: 50px !important;
   float: right;
-  border-radius: 50%
 }
 
 @media (min-width:450px) {
   .latest-news-widget__latest__tease__img-mod--default {
-    width: 80px;
-    height: 80px;
-    min-width: 80px;
-    min-height: 80px
+    width: 80px !important;
+    height: 80px !important;
+    min-width: 80px !important;
+    min-height: 80px !important
   }
 }
 
@@ -995,4 +994,30 @@
   margin-bottom: 10px;
   margin-right: 10px;
   max-width: 200px;
+}
+
+.latest-news-widget__img-mod--crop {
+  border-bottom-left-radius: 25px !important;
+  border-bottom-right-radius: 25px !important;
+  border-top-left-radius: 25px !important;
+  border-top-right-radius: 25px !important;
+  height: 50px !important;
+  margin-right: 5px;
+  min-height: 50px !important;
+  min-width: 50px !important;
+  overflow: hidden;
+  width: 50px !important;
+}
+
+@media screen and (min-width: 480px) {
+  .latest-news-widget__img-mod--crop {
+    border-bottom-left-radius: 40px !important;
+    border-bottom-right-radius: 40px !important;
+    border-top-left-radius: 40px !important;
+    border-top-right-radius: 40px !important;
+    height: 80px !important;
+    min-height: 80px !important;
+    min-width: 80px !important;
+    width: 80px !important;
+  }
 }
