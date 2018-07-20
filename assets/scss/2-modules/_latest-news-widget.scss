@@ -168,18 +168,28 @@
   background-position: 50% 50%;
   width: 50px !important;
   height: 50px !important;
-  margin: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 5px;
+  margin-top: 0;
   min-width: 50px !important;
   min-height: 50px !important;
   float: right;
+  border-radius: 50%;
 }
 
-@media (min-width:450px) {
+@media (min-width: 450px) {
   .latest-news-widget__latest__tease__img-mod--default {
     width: 80px !important;
     height: 80px !important;
     min-width: 80px !important;
     min-height: 80px !important
+  }
+}
+
+@media (min-width: 1700px) {
+  .latest-news-widget__latest__tease__img-mod--default {
+    margin-right: 10px
   }
 }
 
