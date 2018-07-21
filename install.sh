@@ -6,7 +6,7 @@ sleep 1
 # Create local Gemfile from Gemfile.txt
 cp Gemfile.txt Gemfile
 
-echo "running npm isntall"
+echo "running npm install"
 
 sleep .5
 
@@ -24,4 +24,4 @@ sleep 1
 # Bundle install
 bundle install
 
-echo "Installation Complete!"
+echo "Project Installation Complete!"
