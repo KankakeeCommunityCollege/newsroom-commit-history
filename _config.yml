@@ -59,6 +59,9 @@ exclude:
   - "yarn.lock"
   - "/assets/adobe/"
   - "gulp-tasks"
+  - "assets/js/*.js"
+  - "install.sh"
+  - "siteicon.png"
 
 uploads_dir: # specifies the default uploads directory for CloudCannon
   - "uploads/"
