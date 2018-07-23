@@ -59,7 +59,6 @@ exclude:
   - "yarn.lock"
   - "/assets/adobe/"
   - "gulp-tasks"
-  - "assets/js/*.js"
   - "install.sh"
   - "siteicon.png"
 
