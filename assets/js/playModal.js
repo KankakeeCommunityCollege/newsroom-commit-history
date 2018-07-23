@@ -1,3 +1,4 @@
+// Play a YouTube embed when you click it's modal link that opens it
 $(document).ready(function(){
   function autoPlayModal(){
     var trigger = $('body').find('[data-toggle="modal"]');

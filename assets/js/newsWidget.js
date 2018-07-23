@@ -1,3 +1,4 @@
+// CUSTOM JS FOR LATEST-NEWS-WIDGET
 $(document).ready(function () {
   var img1 =  $('#latestNewsImage1').attr('src');
   var img2 =  $('#latestNewsImage2').attr('src');

@@ -1,3 +1,4 @@
+// Custom YouTube playlist used on videos.html page
 var default_user_name = "kankakeecommcollege";
 selectChannel(default_user_name);
 /* API shits */

@@ -1,3 +1,4 @@
+// Highlights the current page in local navigation bar
 $(document).ready(function () {
   var currentUrl = window.location.href;
   var noProto = currentUrl.replace(/(^\w+:|^)\/\//, '');

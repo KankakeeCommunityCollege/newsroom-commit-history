@@ -1,3 +1,4 @@
+// Custom JS to toggle the search form on mobile devices
 var imgsrc = $('#searchImg').attr('src');
 //function toggler() {
 //  if (imgsrc.indexOf('assets/img/search.svg') != -1) {
