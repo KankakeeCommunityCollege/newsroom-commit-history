@@ -7,7 +7,7 @@
         <title>{{page.title}} - {{site.title}}</title>
         <meta name="description" content="{{page.description}}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        {% if jekyll.environment == "production" %}
+        {% if jekyll.environment == "publish" %}
           <!-- include Google Tag Manager script on production -->
           {% include google-tag.html %}
         {% endif %}
@@ -33,7 +33,7 @@
         <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
     </head>
     <body id="page-top">
-      {% if jekyll.environment == "production" %}
+      {% if jekyll.environment == "publish" %}
         <!-- include Google Tag Manager noscript on production -->
         {% include google-noscript.html %}
       {% endif %}
