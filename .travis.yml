@@ -1,47 +1,40 @@
 language: ruby
 rvm:
-  - 2.5.0
-
+- 2.5.0
 before_install:
-  - chmod +x _scripts/gemfile.sh
-  - _scripts/gemfile.sh
-  - npm i -g npm@6.1.0
-
+- chmod +x _scripts/gemfile.sh
+- _scripts/gemfile.sh
+- npm i -g npm@6.1.0
 install:
-  - npm install
-  - bundle install
-  - gem install jekyll
-  - gem install jekyll-feed
-  - gem install jekyll-sitemap
-
+- npm install
+- bundle install
+- gem install jekyll
+- gem install jekyll-feed
+- gem install jekyll-sitemap
 branches:
   only:
-    - publish
-
+  - publish
 env:
   global:
-    - JEKYLL_ENV=publish
-
+  - JEKYLL_ENV=publish
+  - secure: XQJuOMmoAmlqdTwo5bugbJZs4GFQEGbxQ6kbqF0SywFDn2UafiHSMbMVFNuHKIErLnrUumqDIQzWDV3TPaA3uG/ot6aiqD9KiQaDRpVU7phzOFZQCKQGIIjPbcUfpGBa8xwnTV4+glH1RCUIRfzHacckzr8LEph7yrj0fA2d0jD2QRGZ4WcRZqn9M9Q3wQvhB7N44T7Ti0PhfK02nZ8HorxTIfX8pwWdYKHIgq0FJO8W0YZCYHbf04/cVHFs0kIbUe8brRuKefoWMuEwi8Yw9eg3ngdhxGfWImgAkQoqNK+Ovf1N01K3qKLO+5hQy4BO03uNLrzLWd0pOW/EXpjHqoXUNZHhjqFcct+Qq1u1I+jIkOAE/lHkt8at03yOCOPdThC8zyepTyBXaNSEEiCFrcV7N/4jjQPFsD/EQT1Hz+5M6zaTlnZQkurcf5uidz7U76LIwaoqzkU9WHA+bpJjxlFE1de78UFy4jY9gAsyVz0rWhyb6833gUEff6GcYqXx+jgQy02DSA4jiDvF+4SKK0JwDW1dIn8Fr/Qy000R8YrgSdPyNACqHmg7Me/HSNyk07CJUZOglkEsN8lnMqlqM3WGr+U5F0pmHhFpCEFfHdWhbUTZv47VDUItJTjWrTWAcXkNWuVU/jXBFKDDxzZasiNzQl6Fi4gGBA3CJgtKxts=
+  - secure: O5mpWj9kP3TksmB6xQC836xWcnD3QQ9yAHBbxUMwEnT+pVpeYS1hpDie33qnBXVAuz27aITc8MWhApervLir1/eBjFUGZDLA55gbHh7WcpIux+e84uYvCoL3lNlhxAzZgmDcFOUlFz0QDSGILZusKfTwtiVT3/KR2Vwsl7t/u68x7ZBLBGg2WKrrUyjddTXTytaDYvGsI5Lbj3NO6jYafRfLRDIdr/Qn5Jo0L0HXNmX/nAE5Irr1lsnoM1z8ORtJiky0aIaP1bAAGKrPRyzw7BXOUf+kEwVOgktQICi4EHrE+1bj26eypia+abjaYVZSRPcetzPqcY4BCAVl/uLBSCJoLPgEEDdEnmy8xZXy1H7PDNVpONety4tpxVlu7mgxE30cIUGzhcuO95peqNXOow4Os3AjDLavZp2eyiNzHQdb/jVuS4lx3uiuYIQ4IQ2Yfu16kurDiuLWg5f04PQsVaNWpf61PBuqhJy0xys0NJ1lsULUUogxUV9QuWvs6cmL0m49WpAXYo9G6B7pk70DIQkcg/0Gebp9t86huqbZwSt5okRvhml3TX0Vs37Z+pMPaQl4kd9eYUdzFGzwNdnu0J7Ng+UFZQoU0H2N0rz986+aWwLpTn5BklJS8XhMO/XsdHP/s9vCX/p5K709fVoWa0XWJoO4W7UVieO7EaHQb6E=
+  - secure: oSGWYyVyiBCc3+GnW7+djRxbjtiGE4/Dodrt6NI1Z3mQIwJv1KaGn1O1RjYbiLKWmZOvBvyKxZ3Nt79cwJEhhhY2NRt2G4V3Yt4MHOvFtpcRuqsHXHYC1NVEg0rOdtxR9OhWsJTLOHWmnNPk248ThASWQ+aDAnvcXcXu3YF4NvKkH1ITHQeTbbgO2Is9/6y0OThpaTbNn4vsZYqWq8NKRjOJKvfYBSUnglc2EHr2Q6mNqG2hyIRYsDEdbAC7/7yDz4imFFas0TTRr1DPs4RcYn9YSswajRuqqOymuGuHi5pmSkKIgLtJqo8l5Ny8cv7ESHekN8sxD5SHQiFcAvDEjBxW5nJrtJed+WEHPk50azslAPdFq5R5r4BXOOXvcRZTv6xpeelLTlMIgTpAUH12iutMJCiK1neGI8NO25RuFlACJd21+YJxdkW/6eXI+sEdHM547ytYg6TkxGaewNXAls/QXZU7c3kOSFsY0+FFON58ff/bsiGKsgxSXjZwlfu5Yp/PK7nuysV4KnOP1+1ISSmxfhBkNtMuVQ0elynvLkjpWEYkGw8r0+3jG5Ipovw53amoG1DS/1aci1SkX6MG52e0pnng2UzUxlnOPFQHj8cw9gl72nlyRdou3YKWgcUMvrJVQ+YrxUL3CodyFqkB0K7lPu7R3QSBMvSbhhYTXUY=
 notifications:
   email:
     recipients:
-      - mediastudent@kcc.edu
+    - $EMAIL_RECIPIENT1
+    - $EMAIL_RECIPIENT2
+    - $EMAIL_RECIPIENT3
     on_success: always
     on_failure: always
-
 before_script:
 - npm install -g gulp-cli
-
 script:
-  - chmod +x _scripts/build.sh
-  - _scripts/build.sh
-#
-#after_success:
-#  - chmod +x _scripts/deploy.sh
-#  - _scripts/deploy.sh
-
+- chmod +x _scripts/build.sh
+- _scripts/build.sh
 sudo: false
 addons:
   apt:
     packages:
-      - ncftp
+    - ncftp
