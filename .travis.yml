@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.3.1
+  - 2.5.0
 
 before_install:
   - chmod +x _scripts/gemfile.sh
