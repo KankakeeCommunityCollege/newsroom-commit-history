@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gulp --production
+gulp travis
