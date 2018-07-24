@@ -1,0 +1,47 @@
+language: ruby
+rvm:
+  - 2.3.1
+
+before_install:
+  - chmod +x _scripts/gemfile.sh
+  - _scripts/gemfile.sh
+  - npm i -g npm@6.1.0
+
+install:
+  - npm install
+  - bundle install
+  - gem install jekyll
+  - gem install jekyll-feed
+  - gem install jekyll-sitemap
+
+branches:
+  only:
+    - publish
+
+env:
+  global:
+    - JEKYLL_ENV=publish
+
+notifications:
+  email:
+    recipients:
+      - mediastudent@kcc.edu
+    on_success: always
+    on_failure: always
+
+before_script:
+- npm install -g gulp-cli
+
+script:
+  - chmod +x _scripts/build.sh
+  - _scripts/build.sh
+#
+#after_success:
+#  - chmod +x _scripts/deploy.sh
+#  - _scripts/deploy.sh
+
+sudo: false
+addons:
+  apt:
+    packages:
+      - ncftp
