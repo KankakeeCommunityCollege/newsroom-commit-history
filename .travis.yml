@@ -22,9 +22,9 @@ env:
 notifications:
   email:
     recipients:
-    - $EMAIL1
-    - $EMAIL2
-    - $EMAIL3
+    - EMAIL1
+    - EMAIL2
+    - EMAIL3
     - rehmpke@kcc.edu
     on_success: always
     on_failure: always
