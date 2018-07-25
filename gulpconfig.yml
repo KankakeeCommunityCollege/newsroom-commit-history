@@ -121,6 +121,7 @@ javascript:
     - "assets/js/playModal.js" # Play a YouTube embed when you click it's modal link that opens it
     - "assets/js/searchToggle.js" # Custom JS to toggle the search form on mobile devices
     - "assets/js/modalFix.js" # Fix for Bootstrap 4's issues displaying modals with fixed navigation
+    - "assets/js/jumpLink.js"
 
 # Main travis-ci JS compile task for all.min.js
 travisScript:
