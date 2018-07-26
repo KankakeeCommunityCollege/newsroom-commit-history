@@ -1,8 +1,28 @@
 var gulp = require('gulp');
+var sequence = require('run-sequence');
 var ftp = require('vinyl-ftp');
 var gutil = require('gulp-util');
 var minimist = require('minimist');
 var args = minimist(process.argv.slice(2));
+
+gulp.task('deploy', function(done) {
+  sequence( 'cleanFTP', 'newerFTP', done);
+});
+
+gulp.task('cleanFTP', function() {
+  var conn = ftp.create({
+    host: 'Web03.kcc.edu',
+    //user: args.user,
+    user: args.user,
+    //password: args.password,
+    password: args.password,
+    log: gutil.log
+  });
+
+    // using base = '.' will transfer everything to /public_html correctly
+    // turn off buffering in gulp.src for best performance
+  return gulp.pipe( conn.clean( [ '/**' ], '_site/', { base: '.' } ) );
+} );
 
 gulp.task('newerFTP', function() {
   var remotePath = '/';
@@ -30,3 +50,24 @@ gulp.task('newerFTP', function() {
     .pipe( conn.newer( remotePath ) ) // only upload newer files
     .pipe( conn.dest( remotePath ) );
 } );
+
+// Remove dist/scripts directory
+gulp.task( 'deleteFiles', function ( cb ) {
+  var conn = ftp.create({
+    host: 'Web03.kcc.edu',
+    user: args.user,
+    password: args.password,
+    log: gutil.log
+  });
+  conn.delete( [ ], cb );
+});
+
+gulp.task( 'deleteDirs', function ( cb ) {
+  var conn = ftp.create({
+    host: 'Web03.kcc.edu',
+    user: args.user,
+    password: args.password,
+    log: gutil.log
+  });
+  conn.rmdir( [ '*/**' ], cb );
+});
