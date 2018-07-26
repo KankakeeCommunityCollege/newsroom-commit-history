@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/KankakeeCommunityCollege/newsroom.svg?branch=publish)](https://travis-ci.org/KankakeeCommunityCollege/newsroom)
 
-#### Jekyll + Gulp + Sass + BrowserSync + ...
+#### Jekyll + Gulp + Sass + JS-YAML + Yargs + requireDir() + BrowserSync + ...
+
+##### Modular Gulp tasks using requireDir(), Gulp config with JS-YAML, minified/uglified assets on --production flag using Yargs. 
 
 Development of the new KCC Newsroom site based off of design-mockups
 
