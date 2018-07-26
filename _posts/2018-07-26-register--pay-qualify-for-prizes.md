@@ -12,13 +12,13 @@ video_link:
 press_release: false
 ---
 
-Registered students can save their seats in classes by paying for courses—or making payment arrangements—before the deadline of 5 p.m. Friday, Aug. 3.&nbsp;
+Registered students can save their seats in classes by paying for courses—or making payment arrangements—before the deadline of 5 p.m. Friday, Aug. 3. 
 
 Payment details are at [www.kcc.edu/payinfo](http://www.kcc.edu/payinfo). Students also can check on financial aid status or inquire about student loans at 815-802-8550.
 
-Those who do not pay by the deadline may be withdrawn from classes.&nbsp;
+Those who do not pay by the deadline may be withdrawn from classes. 
 
-All students who register and pay--or making payment arrangements--before the Aug. 3 deadline are also qualified for "thank you" prizes. There will be six prizes (2 of each):
+All students who register and pay–or making payment arrangements–before the Aug. 3 deadline are also qualified for "thank you" prizes. There will be six prizes (2 of each):
 
 * $100 KCC Hammes Bookstore Gift Certificate
 * $50 Amazon.com gift card
@@ -26,8 +26,8 @@ All students who register and pay--or making payment arrangements--before the Au
 
 Qualified students will automatically be entered and do not have to complete any additional paperwork or entry forms. Recipients will be selected at random by the close of business on Aug. 6, and will be notified by phone.
 
-The Fall 2018 semester begins Aug. 20. More information on the registration process is at&nbsp;[www.kcc.edu/register](http:www.kcc.edu/register) and by phone at 815-802-8500.
+The Fall 2018 semester begins Aug. 20. More information on the registration process is at [www.kcc.edu/register](http:www.kcc.edu/register) and by phone at 815-802-8500.
 
-&nbsp;
+ 
 
 Photo by rawpixel.com from Pexels.
