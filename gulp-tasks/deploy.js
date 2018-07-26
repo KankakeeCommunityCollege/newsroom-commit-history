@@ -43,5 +43,5 @@ gulp.task( 'cleanDir', function (cb) {
     password: args.password,
     log: gutil.log
   });
-  conn.rmdir( '.', cb );
+  conn.rmdir( '/', cb );
 });
