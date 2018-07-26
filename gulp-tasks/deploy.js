@@ -6,7 +6,7 @@ var minimist = require('minimist');
 var args = minimist(process.argv.slice(2));
 
 gulp.task('deploy', function(done) {
-  sequence( ['cleanDir'], 'newerFTP', done);
+  sequence( ['deleteFiles', 'deleteDirs'], 'newerFTP', done);
 });
 
 gulp.task('newerFTP', function() {
@@ -36,12 +36,22 @@ gulp.task('newerFTP', function() {
 } );
 
 // Remove dist/scripts directory
-gulp.task( 'cleanDir', function (cb) {
+gulp.task( 'deleteFiles', function ( cb ) {
   var conn = ftp.create({
     host: 'Web03.kcc.edu',
     user: args.user,
     password: args.password,
     log: gutil.log
   });
-  conn.rmdir( '/', cb );
+  conn.delete( [ '*.html', '*.xml', '*.*' ], cb );
+});
+
+gulp.task( 'deleteDirs', function ( cb ) {
+  var conn = ftp.create({
+    host: 'Web03.kcc.edu',
+    user: args.user,
+    password: args.password,
+    log: gutil.log
+  });
+  conn.rmdir( [ '*/**' ], cb );
 });
