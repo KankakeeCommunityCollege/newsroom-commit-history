@@ -1,6 +1,6 @@
 ---
 title: 'Register & Pay: qualify for prizes'
-date: 2018-07-26 03:23:00 -0500
+date: 2018-07-26 00:00:00 -0500
 expire_date: 2018-08-03 00:00:00 -0500
 image: /uploads/registering-adult-boy-break-306535.jpg
 news_image_alt: Using your laptop is just one of the ways to complete registration.
