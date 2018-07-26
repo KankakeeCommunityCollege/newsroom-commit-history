@@ -1,6 +1,8 @@
 # KCC Newsroom Template
 
-#### Jekyll + Gulp + Sass + Yarn + BrowserSync + ...
+[![Build Status](https://travis-ci.org/KankakeeCommunityCollege/newsroom.svg?branch=publish)](https://travis-ci.org/KankakeeCommunityCollege/newsroom)
+
+#### Jekyll + Gulp + Sass + BrowserSync + ...
 
 Development of the new KCC Newsroom site based off of design-mockups
 
