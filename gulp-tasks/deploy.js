@@ -36,12 +36,12 @@ gulp.task('newerFTP', function() {
 } );
 
 // Remove dist/scripts directory
-gulp.task( 'cleanDir', function () {
+gulp.task( 'cleanDir', function (cb) {
   var conn = ftp.create({
     host: 'Web03.kcc.edu',
     user: args.user,
     password: args.password,
     log: gutil.log
   });
-  return conn.clean( ['/**', '/*.*', '/**/*.*', '/**/**/*.*', '/**/**/**/*.*'], './_site/', { base: '.' });
+  conn.rmdir( '.', cb );
 });
