@@ -20,7 +20,10 @@ gulp.task('cleanFTP', function() {
     log: gutil.log
   });
   var globs = [
-    '_site/*.*',
+    '_site/*.html',
+    '_site/*.txt',
+    '_site/*.xml',
+    '_site/*.ico',
     '_site/**/*.*',
     '_site/**/**/*.*',
     '_site/**/**/**/*.*',
@@ -29,7 +32,7 @@ gulp.task('cleanFTP', function() {
     // using base = '.' will transfer everything to /public_html correctly
     // turn off buffering in gulp.src for best performance
   return gulp.src( globs, { base: './_site/', buffer: false } )
-    .pipe( conn.clean( [ '*.*', '**/*.*', '**/**/*.*', '**/**/**/*.*', '/**' ], '_site/', { base: '.' } ) )
+    .pipe( conn.clean( [ '*.html', '*.ico', '*.xml', '*.txt', '**/*.*', '**/**/*.*', '**/**/**/*.*', '/**' ], '_site/', { base: '.' } ) )
     .pipe( conn.dest( remotePath ) );
 } );
 
@@ -44,7 +47,10 @@ gulp.task('newerFTP', function() {
     log: gutil.log
   });
   var globs = [
-    '_site/*.*',
+    '_site/*.html',
+    '_site/*.txt',
+    '_site/*.xml',
+    '_site/*.ico',
     '_site/**/*.*',
     '_site/**/**/*.*',
     '_site/**/**/**/*.*',
