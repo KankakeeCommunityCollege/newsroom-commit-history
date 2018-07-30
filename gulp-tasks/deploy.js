@@ -16,6 +16,7 @@ gulp.task('cleanFTP', function() {
     //user: args.user,
     user: args.user,
     //password: args.password,
+    parallel: 1,
     password: args.password,
     log: gutil.log
   });
@@ -43,6 +44,7 @@ gulp.task('newerFTP', function() {
     //user: args.user,
     user: args.user,
     //password: args.password,
+    parallel: 1,
     password: args.password,
     log: gutil.log
   });
