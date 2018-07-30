@@ -27,6 +27,16 @@ script:
 - _scripts/build.sh
 - chmod +x _scripts/deploy.sh
 - _scripts/deploy.sh
+after_failure:
+- chmod +x _scripts/gemfile.sh
+- _scripts/gemfile.sh
+- npm i -g npm@6.1.0
+- npm install
+- bundle install
+- chmod +x _scripts/build.sh
+- _scripts/build.sh
+- chmod +x _scripts/deploy.sh
+- _scripts/deploy.sh
 env:
   global:
   - secure: UXS4WAMKaUFb/WIv0bam2q7T36hNXKTgUVeWSSISyxkU+Rvd5rDpkLNNC21N7NqNBF1DHUPhBMpwoYKjvTVbUfgsF7bBPLOTPAvz9Fyl7kJjkVTzk+usqFOxm5vYiJrogBro1BH7ZJKMmEqrzYIJtw+2KIvE826E6kxMAVyOHMeRiPXHH8fz2mNoE6D9hYgAL2pOOPFZ6VKQOHWqWSimXGEPH0M2vMp8MO5NFlu3rLJs/30LdeUM7evOOzl1iftLYqNgt9H56jlY0ztjYWOsSr6tIYfpWyKcSgSA5ZnAnP3MVDS3/ym5xOfSe7vNfDuGfbBKYBx9NKlwL6MVAFMsqJyBIz14wjvBT1cl6YHh8o+2su3gUvsn6uDIDk7m2T3WPXylN9/+jNvvzN2Cvi2QeSi/m/jZKBfrH6bL+4KAklpgRl69oek891Zfwln1Yu87bWXsHuT7nXcw+gGHg4xifbQu95RRlMYyhTnMZKC0UwTBwUK7uLsH3/GnwLh9Mzi8Hg4NLMMZIZ5kn2eIeb691Y84she/ZwNuvuHM6ThFWm+L9vT7CBkZP5oKJRRVOvgunv0uh1UpybSsdcyLnyx1mbEW/8X0q3zTvSa2euUsFHkBlfNefr4Q26b+93pS5di6ufpGRBuVrBQKHZdsjJD6FVPZg2oOI1vCgyZsWZO0DM4=
