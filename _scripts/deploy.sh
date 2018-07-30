@@ -6,7 +6,7 @@ sleep 1
 
 gulp cleanFTP --user $FTP_USER --password $FTP_PASSWORD
 
-sleep 10
+sleep 15
 
 echo 'Sending Files to Server via FTP'
 
