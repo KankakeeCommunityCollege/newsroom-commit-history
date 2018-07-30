@@ -23,3 +23,8 @@
 .buttons__btn-margin-top {
   margin-top: 20px;
 }
+
+.btn-primary {
+  background-color: $btn-hover-bg !important;
+  border-color: $btn-hover-border !important;
+}
