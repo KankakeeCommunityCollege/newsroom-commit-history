@@ -25,6 +25,11 @@
 }
 
 .btn-primary {
-  background-color: $btn-hover-bg !important;
-  border-color: $btn-hover-border !important;
+  background-color: $btn-primary-bg;
+  border-color: $btn-primary-border;
+}
+
+.btn-primary:hover {
+  background-color: $btn-hover-bg;
+  border-color: $btn-hover-border;
 }
