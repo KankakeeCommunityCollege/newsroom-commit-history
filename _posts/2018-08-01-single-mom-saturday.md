@@ -12,6 +12,6 @@ press_release: false
 
 Single moms are invited to sign up for a free car wash and oil change for “Single Mom Saturday.”
 
-To participate:  sign up on the [WBGL website](https://www.wbgl.org/) during August. The station will contact you back for a scheduled time for your car on the morning of morning Saturday, Sept. 22 from 8 a.m. - noon at Court Street Ford, 558 William R. Latham Sr. Drive, Bourbonnais.
+To participate:&nbsp; sign up on the [WBGL website](https://www.wbgl.org/) during August. The station will contact you back for a scheduled time for your car on the morning of morning Saturday, Sept. 22 from 8 a.m. - noon at Court Street Ford, 558 William Latham Sr. Drive, Bourbonnais.
 
 This event is not sponsored by KCC. It is being posted as a service to the community.
