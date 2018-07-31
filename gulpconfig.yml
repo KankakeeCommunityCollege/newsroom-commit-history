@@ -48,6 +48,15 @@ copyrss:
     - "./"
   notification: "Running Copy RSS"
 
+travisCopyRss:
+  assets:
+    - "./_site/feed.xml"
+  filename:
+    - "rss.xml"
+  dist:
+    - "./"
+  notification: "Running Copy RSS"
+
 # Main Gulp Sass task (for main.css).
 # Any changes to Sass should be also be made to travisSass.
 sass:

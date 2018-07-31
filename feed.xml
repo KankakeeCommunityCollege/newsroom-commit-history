@@ -37,7 +37,14 @@ layout: null
   {% assign posts = site.posts | where_exp: "post", "post.draft != true" %}
   {% for post in posts limit: 10 %}
     <entry{% if post.lang %}{{" "}}xml:lang="{{ post.lang }}"{% endif %}>
-      <title type="html">{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
+      {% assign post_title = post.title %}
+      {% if post_title contains "&" %}
+        {% assign title_no_amp = post_title | replace: "&", "NO_AMP" %}
+        {% assign title_escape = title_no_amp | smartify | strip_html | normalize_whitespace | xml_escape %}
+        <title type="html">{{ title_escape | replace: "NO_AMP", "&amp;" }}</title>
+      {% else %}
+        <title type="html">{{ post_title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
+      {% endif %}
       <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
       <published>{{ post.date | date: "%-m/%-d/%Y" }}</published>
       <updated>{{ post.date | date: "%-m/%-d/%Y" }}</updated>
