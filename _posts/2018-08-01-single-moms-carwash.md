@@ -2,7 +2,7 @@
 title: Single Moms Carwash
 date: 2018-08-01 07:58:00 -0500
 expire_date: 2018-09-22 00:00:00 -0500
-image:
+image: /uploads/Car wash.jpg
 news_image_alt:
 article_lead:
 video_content: false
