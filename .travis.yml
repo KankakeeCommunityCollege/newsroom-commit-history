@@ -2,6 +2,7 @@ language: ruby
 rvm:
 - 2.5.0
 sudo: false
+cache: bundler
 before_install:
 - chmod +x _scripts/gemfile.sh
 - _scripts/gemfile.sh
