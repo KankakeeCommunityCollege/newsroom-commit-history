@@ -12,4 +12,4 @@ press_release: false
 
 this is my first news post
 
-![](/uploads/Breitbarth_small.jpg){: .no-float}&nbsp;asjsal fj asljdf&nbsp; asdlj asdl j
+![](/uploads/Breitbarth_small.jpg){: .no-float} asjsal fj asljdf  asdlj asdl j
