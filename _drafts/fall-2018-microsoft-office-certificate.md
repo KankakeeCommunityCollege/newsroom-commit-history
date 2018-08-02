@@ -1,10 +1,10 @@
 ---
 title: Fall 2018 Microsoft Office Certificate
 date: 2018-08-02 04:58:00 -0500
-expire_date: 2018-09-06 00:00:00 -0500
-image:
-news_image_alt: Candace Martell - presidents list
-article_lead: Microsoft Office Certificate training at SEC
+expire_date: 2018-09-27 00:00:00 -0500
+image: /uploads/computer-ballpen-blur-close-up-pexels-461078.jpg
+news_image_alt: Computer
+article_lead: Training can be completed in 3 semesters
 video_content: false
 video_link:
 press_release: false
