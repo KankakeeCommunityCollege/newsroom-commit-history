@@ -4,9 +4,7 @@ date: 2018-08-02 04:58:00 -0500
 expire_date: 2018-08-18 00:00:00 -0500
 image: /uploads/haley-hirano---honors-list-james-ryder-on-the-right.JPG
 news_image_alt: 'Hayley Hiroan - honors list, James Ryder is on the right'
-article_lead: >-
-  The following students have been named to the Honors List at Kankakee
-  Community College for the Summer 2018 term.
+article_lead: Summer 2018 honors students
 video_content: false
 video_link:
 press_release: false
@@ -56,7 +54,7 @@ Watseka: Nikki Buckner, Brittany Crouch, Tondra Mann-Niswander and Megan Trumann
 
 Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is “Enhancing quality of life through learning.” The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee.
 
-###
+## #
 
 More KCC news is available at kcc.edu, Facebook, Twitter and YouTube. Licensed college photos and official logos available upon request.
 
