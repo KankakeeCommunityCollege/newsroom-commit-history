@@ -1,5 +1,5 @@
 ---
-title: Fall 2018 Microsoft Office Certificate
+title: Microsoft Office Certificate
 date: 2018-08-02 04:58:00 -0500
 expire_date: 2018-09-27 00:00:00 -0500
 image: /uploads/computer-ballpen-blur-close-up-pexels-461078.jpg
@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-Date&nbsp; August 2, 2018
+Date  August 2, 2018
 
 Kankakee Community College’s Harold and Jean Miner South Extension Center in Watseka is offering Microsoft Office Suite Certification training.
 
