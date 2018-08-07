@@ -10,6 +10,8 @@ video_link:
 press_release: false
 ---
 
-The co-curricular transcript system is no longer available. The company which provided the co-curricular transcript service has chosen to sunset the project.&nbsp;<br>KCC's Office of Student Life is researching new programs to possibly replace the co-curricular transcript system.<br>A co-curricular transcript is a record of your campus and community involvement and leadership experiences. It can be sent to other colleges, universities or employers to highlight your achievements, experiences and skills.&nbsp;
+![](/uploads/pexels-blank-book-calendar-1059383.jpg)&nbsp;The co-curricular transcript system is no longer available. The company which provided the co-curricular transcript service has chosen to sunset the project.&nbsp;<br>KCC's Office of Student Life is researching new programs to possibly replace the co-curricular transcript system.
+
+A co-curricular transcript is a record of your campus and community involvement and leadership experiences. It can be sent to other colleges, universities or employers to highlight your achievements, experiences and skills.&nbsp;
 
 <br>Photo credit: Bich Tran from Pexels.
