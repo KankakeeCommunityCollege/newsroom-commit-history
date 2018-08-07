@@ -4,9 +4,7 @@ date: 2018-08-07 04:58:00 -0500
 expire_date: 2018-10-11 00:00:00 -0500
 image: /uploads/inernet-icon.jpg
 news_image_alt: Internet "www" icon
-article_lead: >-
-  Continuing Education Department offers professional development classes
-  online.
+article_lead: Professional development classes are offered online.
 video_content: false
 video_link:
 press_release: false
