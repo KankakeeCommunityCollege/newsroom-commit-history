@@ -11,14 +11,14 @@ function GetIEVersion() {
     return 11;
   }
   else {
-    console.log('Not IE. Im proud of you for not using IE!');
+    // console.log('Not IE. Im proud of you for not using IE!');
     return 0; //It is not IE
   }
 }
 
 if (GetIEVersion() > 10) {
-  console.log('CONGRATULATIONS! Your using the worst internet browser possible!');
-  console.log('This is IE ' + GetIEVersion());
+  // console.log('CONGRATULATIONS! Your using the worst internet browser possible!');
+  // console.log('This is IE ' + GetIEVersion());
   $('[id*="jsTeaseLink"]').addClass('ie-only__no-flex');
   $('.latest-news-widget__latest__tease__img-mod--default').addClass('ie-only__float-right');
   $('.latest-news-widget__latest__tease__hgroup').addClass('ie-only__hgroup');
