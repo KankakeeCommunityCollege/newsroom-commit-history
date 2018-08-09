@@ -12,6 +12,6 @@ press_release: false
 
 Donations of school supplies for Lorenzo R. Smith Elementary School in Hopkins Park are being accepted at two locations on KCC's Riverfront Campus.
 
-The drop off sites are Room L355 and Room R308. Donation deadline is Tuesday, Aug. 14. Supplies needed include pens, erases, paper, folders, notebooks, crayons, markers and backpacks.&nbsp;
+The drop off sites are Room L355 and Room R308. Donation deadline is Tuesday, Aug. 14. Supplies needed include pens, erases, paper, folders, notebooks, crayons, markers and backpacks. 
 
 Thank you for your generosity!
