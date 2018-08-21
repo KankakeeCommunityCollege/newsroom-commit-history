@@ -34,7 +34,7 @@ The classes are part of the KCC Lifelong Learning Institute, which offers non-cr
 
 Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is “Enhancing quality of life through learning.” The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee.
 
-###
+## #
 
 More KCC news and photos are available at our Newsroom, and on Facebook, Twitter and YouTube. Official college logos are available online.
 
