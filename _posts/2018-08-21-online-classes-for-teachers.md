@@ -1,6 +1,6 @@
 ---
 title: Online classes for teachers
-date: 2018-08-09 07:58:00 -0500
+date: 2018-08-21 07:58:00 -0500
 expire_date: 2018-12-12 00:00:00 -0600
 image:
 news_image_alt:
@@ -22,7 +22,7 @@ In the subject area of “Tools for Teachers,” the course selection includes: 
 
 The “Classroom Computing” area includes the following courses: “Integrating Technology in the Classroom,” “Teaching Smarter with SMART Boards” and “Using the Internet in the Classroom.”
 
-Language courses for teachers include: “Spanish in the Classroom,” “Enhancing Language Development in Childhood” and “Introduction to Teaching&nbsp; ESL/EFL.”
+Language courses for teachers include: “Spanish in the Classroom,” “Enhancing Language Development in Childhood” and “Introduction to Teaching  ESL/EFL.”
 
 Science & math teachers might find these options to be helpful: “Teaching Science: Grades 4-6,” “Introduction to Algebra” and “Teaching Math Grade 4-6.”
 
