@@ -1,5 +1,5 @@
 ---
-title: Seminar - 1st Six Session of Therapy
+title: Seminar - 1st Six Sessions of Therapy
 date: 2018-08-09 07:58:00 -0500
 expire_date: 2018-09-14 00:00:00 -0500
 image:
