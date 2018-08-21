@@ -16,7 +16,7 @@ The Continuing Education Department at Kankakee Community College is offering a 
 
 The “Shampoos, Tattoos & Barbeques” seminar will offer an up-to-the minute update on issues in infectious diseases.
 
-The presenter, Barb Bancroft, will share information about new vaccines, diseases and drugs. Bancroft also will review eight new trends, including global warming and travel; bioterrorism; bood-borne illnesses; and infectious agents and their relationship to acute and chronic disease.
+The presenter, Barb Bancroft, will share information about new vaccines, diseases and drugs. Bancroft also will review eight new trends, including global warming and travel; bioterrorism; blood-borne illnesses; and infectious agents and their relationship to acute and chronic disease.
 
 The session meets Thursday, Sept. 20 form 8:30 a.m. - 4 p.m. at KCC in the Auditorium. Course no. is HLTH 394A.A13. Cost is $79, and includes materials and six contact hours for respiratory care technicians, nurses, and nursing home administrators. Contact hours will be awarded following successful attendance at the event.
 
