@@ -2,15 +2,17 @@
 title: Online classes for teachers
 date: 2018-08-21 07:58:00 -0500
 expire_date: 2018-12-12 00:00:00 -0600
-image: /uploads/pexel-tools-teachers-access-book-business-1329066.jpg
-news_image_alt:
+image: /uploads/pexel-tools-teachers-access-book-business-1329067.jpg
+news_image_alt: Computer desk
 article_lead:
 video_content: false
 video_link:
 press_release: false
 ---
 
-![](/uploads/pexel-tools-teachers-access-book-business-1329066.jpg)The Continuing Education Department at Kankakee Community College is offering online classes for teachers. Upcoming start dates are Sept. 12, Oct. 17, Nov. 14 and Dec. 12.
+![](/uploads/pexel-tools-teachers-access-book-business-1329068.jpg)
+
+The Continuing Education Department at Kankakee Community College is offering online classes for teachers. Upcoming start dates are Sept. 12, Oct. 17, Nov. 14 and Dec. 12.
 
 The courses meet for six weeks and offer 24 professional development contact hours after successful completion. Cost is $94 per course.
 
