@@ -4,7 +4,7 @@ date: 2018-08-22 04:58:00 -0500
 expire_date: 2018-09-19 00:00:00 -0500
 image: /uploads/lli-whitebackground.jpg
 news_image_alt: Lifelong Learning Institute logo - tree and owl
-article_lead: A variety of topics offered in September by KCC's LIfelong Learning Institute
+article_lead: 7 classes offered for people ages 55 and better
 video_content: false
 video_link:
 press_release: false
