@@ -1,12 +1,10 @@
 ---
-title: Online classes personal enrichment
-date: 2018-08-30 07:58:00 -0500
+title: Online classes offered for personal enrichment
+date: 2018-08-22 07:58:00 -0500
 expire_date: 2018-12-12 00:00:00 -0600
-image:
-news_image_alt:
-article_lead: >-
-  The Continuing Education Department at Kankakee Community College is offering
-  online classes for personal enrichment this fall.
+image: /uploads/pexel-design-expression-learn-247819.jpg
+news_image_alt: Scrabble letters spell "learn."
+article_lead: Fall classes offer various learning opportunities.
 video_content: false
 video_link:
 press_release: false
@@ -24,4 +22,4 @@ The “Conversational Japanese” class will be guided by a native Japanese inst
 
 The “SAT/ACT Prep Series” has two courses, one to prepare for the math section and the other to prepare for the verbal questions. It helps students maximize time on each portion of the tests. Weekly assignments encourage work with your classmates and the instructor to maximize performance on the ACT/SAT. Cost is $199.
 
-The start date options for all courses are Sept. 12, Oct. 17, Nov. 14 and Dec. 12. These courses do not award college credit. More information and registration is at ed2go.com/kankakeecc. For more information or to make a payment, phone KCC at 815-802-8206.
+The start date options for all courses are Sept. 12, Oct. 17, Nov. 14 and Dec. 12. These courses do not award college credit. More information and registration is at [ed2go.com/kankakeecc](https://www.ed2go.com/kankakeecc/). For more information or to make a payment, phone KCC at 815-802-8206.
