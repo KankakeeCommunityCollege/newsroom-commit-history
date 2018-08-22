@@ -1,14 +1,16 @@
 ---
-title: Con Ed classes September 2018
-date: 2018-08-07 04:58:00 -0500
-expire_date: 2018-09-27 00:00:00 -0500
-image:
-news_image_alt:
-article_lead: A variety of topics offered by KCC's continuing education office.
+title: Continuing Education classes for September 2018
+date: 2018-08-22 04:58:00 -0500
+expire_date: 2018-09-20 00:00:00 -0500
+image: /uploads/pexel-computer-electronics-laptop-755416.jpg
+news_image_alt: Microphone in front of a laptop with audio blips.
+article_lead: A variety of topics are being offered.
 video_content: false
 video_link:
 press_release: false
 ---
+
+![](/uploads/2018-fall-coned-banner-650x365.jpg)
 
 Civil War history, Voiceovers and Meditation are among topics being offered in September through Kankakee Community College’s continuing education office.
 
@@ -27,3 +29,7 @@ In “An Introduction to Voiceovers” explore the fun, rewarding possibilities 
 The “Basic Personal Computer Skills” class teaches how to navigate and customize the desktop, create, find, and save files. It also includes opening, creating, and saving Microsoft Word files, plus much more. Meets Tuesdays, Sept. 18 to Oct. 9 from 2:30-4:30 p.m. at KCC in Room D121. Facilitator is Amber Gocken. Course no.: LLLI 9090.A13; cost is $125, includes textbook.
 
 During the “Basket Weaving” seminar wiith local artisan Sharon Taylor, participants will create their own cute baskets. Everyone gets to keep their creations. Meets Thursday, Sept. 27 form 6-9 p.m. at KCC in Room D151. Facilitator is Sharon Taylor. Course no.: LLLI 9980.Q13; cost is $35, includes supplies.
+
+These courses do not award college credit. To register or for more information, call 815-802-8207; go to www.kcc.edu/comejoinus/; or visit the Welcome Center.
+
+Photo by Seej Nguyen from Pexels.
