@@ -1,7 +1,7 @@
 ---
 title: Online classes offered for personal enrichment
 date: 2018-08-22 07:58:00 -0500
-expire_date: 2018-12-12 00:00:00 -0600
+expire_date: 2018-11-22 00:00:00 -0600
 image: /uploads/pexel-design-expression-learn-247819.jpg
 news_image_alt: Scrabble letters spell "learn."
 article_lead: Fall classes offer various learning opportunities.
