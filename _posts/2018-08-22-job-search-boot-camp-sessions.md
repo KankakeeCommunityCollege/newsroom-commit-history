@@ -1,8 +1,8 @@
 ---
 title: Job Search Boot Camp sessions
-date: 2018-08-09 07:58:00 -0500
+date: 2018-08-22 07:58:00 -0500
 expire_date: 2018-11-14 00:00:00 -0600
-image:
+image: /uploads/group-photo-job-fair.jpg
 news_image_alt:
 article_lead:
 video_content: false
@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-The Career Services Center at Kankakee Community College is offering five free seminars on job search skills this fall at Kankakee Community College.
+![](/uploads/group-photo-job-fair.jpg)&nbsp;The Career Services Center at Kankakee Community College is offering five free seminars on job search skills this fall.
 
 “Job Search: What Works & What Doesn’t” includes how to properly complete an employment application, find and use various job searching tools, best practices for submitting resumes and proper follow up techniques. Meets 5:30-7 p.m. Wednesday, Aug. 29 at KCC in Room D122. Course number is LECT 8920.Q13.
 
