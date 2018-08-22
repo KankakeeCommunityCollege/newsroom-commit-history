@@ -20,7 +20,7 @@ Kankakee Community College Foundation Announces Foundation Scholarship Recipient
 
 15 To Finish- FT (15+hrs): Luke Engelman.
 
-Al & Emma Lou Lemon Scholarship for Education Students: &nbsp;Kylee Boudreau and Kristen Bodemer.
+Al & Emma Lou Lemon Scholarship for Education Students:  Kylee Boudreau and Kristen Bodemer.
 
 Americo Vespucci Lodge 1722 Scholarship: Andrew Douglas.
 
@@ -46,13 +46,13 @@ Chuck Smead Scholarship: Lexie McCleary.
 
 Clancy-Gernon Scholarship: Hannah Salzman.
 
-Commonwealth Credit Union Scholarship:&nbsp; Ben Randak.
+Commonwealth Credit Union Scholarship:  Ben Randak.
 
 Cora S. Speicher Scholarship: ElyseGustafson.
 
 Cora S. Speicher Scholarship: HollyLease, ChloeeSchuldt, HannahAskew and KaileyGash.
 
-Coyote Canyon Scholarship: &nbsp;LaurenBuschek.
+Coyote Canyon Scholarship:  LaurenBuschek.
 
 CSL Behring, L.L.C. Endowed Scholarship: Emmanuel Bannerman-Blankson, Quinnton Becker and Haley McDaniel.
 
@@ -110,9 +110,9 @@ Eastern Illinois Law Enforcement Administrators Association Criminal Justice/ La
 
 Eileen Van Voorst Memorial Endowed Scholarship: Faith Keller.
 
-Elmer & Bonnie Gilbert Scholarship: &nbsp;Hannia Garcia.
+Elmer & Bonnie Gilbert Scholarship:  Hannia Garcia.
 
-Fegan Family Scholarship: &nbsp;Selah White and Monique Mays.
+Fegan Family Scholarship:  Selah White and Monique Mays.
 
 Fegan Family Welding Scholarship: Quinnton Becker and Manuel Sanchez.
 
@@ -122,7 +122,7 @@ Foundation Student Liaison: Candace Martell.
 
 Francis & Jean Smith Scholarship: Megan Lumbrezer.
 
-Frey Family GED Scholarship:&nbsp; Christine Kampe.
+Frey Family GED Scholarship:  Christine Kampe.
 
 GED Recipient Scholarship: lma Vazquez.
 
@@ -132,7 +132,7 @@ George Homer and Amy T. Ryan Scholarship: Marshayla Thomas.
 
 George Kreider Memorial Scholarship: Kailey Gash.
 
-Governor George H. and Lura Lynn Ryan Scholarship: &nbsp;Andy Pham.
+Governor George H. and Lura Lynn Ryan Scholarship:  Andy Pham.
 
 Gerry Sikma Scholarship: Zachary Langlois.
 
@@ -158,7 +158,7 @@ Kankakee Community College President's Scholarship: Jayce Hansen and Holly Coult
 
 Kankakee County Home & Community Education Scholarship: Marianna Craighead.
 
-Kankakee Kultivators Horticulture Scholarship: &nbsp;Katie Price.
+Kankakee Kultivators Horticulture Scholarship:  Katie Price.
 
 Kankakee River Valley Exchange Club Scholarship: Megan Lumbrezer.
 
@@ -214,7 +214,7 @@ Peoples Bank Scholars Scholarship: Tiana Binion, Blair Huffman, Zoey Berwanger, 
 
 Psychology Scholarship: Elyse Gustafson.
 
-Reddish Family Scholarship:&nbsp; Emily Stewart.
+Reddish Family Scholarship:  Emily Stewart.
 
 Ric Edwards & Sonia Baspiniero Edwards Scholarship: Jose Batana.
 
@@ -241,5 +241,3 @@ VanDrunen Farms Scholarship: Diego Gonzalez.
 William F. Brandenburg Endowed Scholarship: Kyla Brychta.
 
 Zeglis Family Endowed Scholarship: Amy Leach.
-
-&nbsp;&nbsp;&nbsp;
