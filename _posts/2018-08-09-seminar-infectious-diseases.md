@@ -4,9 +4,7 @@ date: 2018-08-09 07:58:00 -0500
 expire_date: 2018-09-20 00:00:00 -0500
 image: /uploads/shampoos tattoos barbeques brochure_Page_1.jpg
 news_image_alt: 'Shampoos, Tattoos and Barbeques'
-article_lead: >-
-  The Continuing Education Department at Kankakee Community College is offering
-  a seminar on infectious diseases for health care professionals.
+article_lead: Health care professionals are invited to this informative session.
 video_content: false
 video_link:
 press_release: false
