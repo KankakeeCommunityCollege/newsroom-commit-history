@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/group-photo-job-fair.jpg) The Career Services Center at Kankakee Community College is offering five free seminars on job search skills this fall.
+![](/uploads/group-photo-job-fair.jpg)&nbsp;The [Career Services Center](http://www.kcc.edu/coned/careerservices/Pages/jobfairs.aspx) at Kankakee Community College is offering five free seminars on job search skills this fall.
 
 “Job Search: What Works & What Doesn’t” includes how to properly complete an employment application, find and use various job searching tools, best practices for submitting resumes and proper follow up techniques. Meets 5:30-7 p.m. Wednesday, Aug. 29 at KCC in Room D122. Course number is LECT 8920.Q13.
 
@@ -22,4 +22,4 @@ press_release: false
 
 “Develop Your Job Search Tool Kit Using Social Media” helps participants develop a job search tool kit by using traditional and nontraditional job search methods such as social media outlets, College Central, LinkedIn and much more. Meets 5:30-7 p.m. Wednesday Nov. 14 at KCC in Room D123. Course number is LECT 8920.Q23.
 
-Instructor for each session is Ken Crite, coordinator of career services for KCC. The sessions do not award college credit. To register for any of these free sessions, or for more information, call 815-802-8207; go to www.kcc.edu/comejoinus (choose KCConnect and search by course number); or visit the KCC Welcome Center on the first floor of the Workforce Development Center.
+Instructor for each session is Ken Crite, coordinator of career services for KCC. The sessions do not award college credit. To register for any of these free sessions, or for more information, call 815-802-8207; go to [www.kcc.edu/comejoinus](http://www.kcc.edu/comejoinus) (choose KCConnect and search by course number); or visit the KCC Welcome Center on the first floor of the Workforce Development Center.
