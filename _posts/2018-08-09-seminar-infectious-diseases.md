@@ -1,5 +1,5 @@
 ---
-title: Seminar - Infectious Diseases
+title: 'Seminar: Infectious Diseases'
 date: 2018-08-09 07:58:00 -0500
 expire_date: 2018-09-20 00:00:00 -0500
 image: /uploads/shampoos tattoos barbeques brochure_Page_1.jpg
@@ -20,4 +20,4 @@ The presenter, Barb Bancroft, will share information about new vaccines, disease
 
 The session meets Thursday, Sept. 20 form 8:30 a.m. - 4 p.m. at KCC in the Auditorium. Course no. is HLTH 394A.A13. Cost is $79, and includes materials and six contact hours for respiratory care technicians, nurses, and nursing home administrators. Contact hours will be awarded following successful attendance at the event.
 
-This course does not award college credit. To register or for more information. Call 815-802-8207; go to www.kcc.edu/comejoinus (choose KCC Connect and search by course number); or visit the Welcome Center, located on the first floor of the KCC Workforce Development Center.
+This course does not award college credit. To register or for more information. Call 815-802-8207; go to [www.kcc.edu/comejoinus](http://www.kcc.edu/comejoinus){: target="_blank"} (choose KCC Connect and search by course number); or visit the Welcome Center, located on the first floor of the KCC Workforce Development Center.
