@@ -1,7 +1,7 @@
 ---
 title: Professor earns master-level certification
 date: 2018-08-23 07:58:00 -0500
-expire_date: 2018-09-24 00:00:00 -0500
+expire_date: 2018-09-07 00:00:00 -0500
 image: /uploads/computer-gaming-green-51415.jpg
 news_image_alt: Keyboard.
 article_lead: Condon earns credential for Microsoft Office Specialist 2016.
