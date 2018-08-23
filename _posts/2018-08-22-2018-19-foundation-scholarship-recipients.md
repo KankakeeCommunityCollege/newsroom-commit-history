@@ -1,7 +1,7 @@
 ---
 title: 2018-19 Foundation Scholarship Recipients
 date: 2018-08-22 07:58:00 -0500
-expire_date: 2018-09-07 00:00:00 -0500
+expire_date: 2018-08-22 00:00:00 -0500
 image: /uploads/molly--1.jpg
 news_image_alt: Student holds sign that says "My Dreams Came True Because of You."
 article_lead: Congratulations to students who earned these awards
@@ -13,7 +13,7 @@ press_release: false
 Following are scholarships and the recipients for 2018-19 scholarships awarded by the [KCC Foundation](http://www.kcc.edu/foundation).
 
 * 15 To Finish: Zachary Bacon, Piaget Felix and Antonio Petrongelli.
-* 15 To Finish-FT (15+hrs): Luke Engelman.Al & Emma Lou Lemon Scholarship for Education Students: &nbsp;Kylee Boudreau and Kristen Bodemer.
+* 15 To Finish-FT (15+hrs): Luke Engelman.Al & Emma Lou Lemon Scholarship for Education Students:  Kylee Boudreau and Kristen Bodemer.
 * Americo Vespucci Lodge 1722 Scholarship: Andrew Douglas.
 * Azzarelli, Raymond and Carmella Memorial Nursing Endowed Scholarship: Emma Goudreau and MeghannHeck.
 * Azzarelli, Raymond and CarmellaGeneral Academic Memorial Endowed Scholarship: Austin Ziman.
@@ -26,10 +26,10 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * Charlton Family Visual and Fine Arts Endowed Scholarship: Gabrielle Schultz.
 * Chuck Smead Scholarship: Lexie McCleary.
 * Clancy-Gernon Scholarship: Hannah Salzman.
-* Commonwealth Credit Union Scholarship:&nbsp; Ben Randak.
+* Commonwealth Credit Union Scholarship:  Ben Randak.
 * Cora S. Speicher Scholarship: ElyseGustafson.
 * Cora S. Speicher Scholarship: HollyLease, ChloeeSchuldt, HannahAskew and KaileyGash.
-* Coyote Canyon Scholarship: &nbsp;LaurenBuschek.
+* Coyote Canyon Scholarship:  LaurenBuschek.
 * CSL Behring, L.L.C. Endowed Scholarship: Emmanuel Bannerman-Blankson, Quinnton Becker and Haley McDaniel.
 * Cultural Diversity Awareness Scholarship: Mackenzie Delby.
 * Cynthia Steury-Lattz Memorial Scholarship: Lisa Schamber.
@@ -46,17 +46,17 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * E. Kenneth Chipman Memorial Scholarship: Nicholas Barnes and Megan Lanie.
 * Eastern Illinois Law Enforcement Administrators Association Criminal Justice/ Law Enforcement Annual Scholarship: Elan Benge.
 * Eileen Van Voorst Memorial Endowed Scholarship: Faith Keller.
-* Elmer & Bonnie Gilbert Scholarship: &nbsp;Hannia Garcia.
-* Fegan Family Scholarship: &nbsp;Selah White and Monique Mays.
+* Elmer & Bonnie Gilbert Scholarship:  Hannia Garcia.
+* Fegan Family Scholarship:  Selah White and Monique Mays.
 * Fegan Family Welding Scholarship: Quinnton Becker and Manuel Sanchez.
 * Florence McMullen Workforce Development Scholarship: Desneiges Hansen.
 * Foundation Student Liaison: Candace Martell.
 * Francis & Jean Smith Scholarship: Megan Lumbrezer.
-* Frey Family GED Scholarship:&nbsp; Christine Kampe.
+* Frey Family GED Scholarship:  Christine Kampe.
 * GED Recipient Scholarship: lma Vazquez and Marshayla Thomas.
 * George Homer and Amy T. Ryan Scholarship: Marshayla Thomas.
 * George Kreider Memorial Scholarship: Kailey Gash.
-* Gov. George H. and Lura Lynn Ryan Scholarship: &nbsp;Andy Pham.
+* Gov. George H. and Lura Lynn Ryan Scholarship:  Andy Pham.
 * Gerry Sikma Scholarship: Zachary Langlois.
 * High School Art Exhibit Scholarship: Harley Rudish.
 * Hispanic Latino Advisory Committee Scholarship: Hazibeth Morales.
@@ -69,7 +69,7 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * John Ennen Memorial Scholarship: Makenzie Overacker.
 * KCC President's Scholarship: Jayce Hansen and Holly Coulter.
 * Kankakee County Home & Community Education Scholarship: Marianna Craighead.
-* Kankakee Kultivators Horticulture Scholarship: &nbsp;Katie Price.
+* Kankakee Kultivators Horticulture Scholarship:  Katie Price.
 * Kankakee River Valley Exchange Club Scholarship: Megan Lumbrezer.
 * Kankakee Valley Beverage Association Scholarship: Taylor Roach.
 * KCC Alumni Association Scholarship: Avery Norwick.
@@ -97,7 +97,7 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * PEO Chapter JR Scholarship: Candace Martell.
 * Peoples Bank Scholars Scholarship: Tiana Binion, Blair Huffman, Zoey Berwanger, Tiffany Chouinard, Catherine Gray, Aidan Klipp, Mattison Lanie and Courtney Reno.
 * Psychology Scholarship: Elyse Gustafson.
-* Reddish Family Scholarship:&nbsp; Emily Stewart.
+* Reddish Family Scholarship:  Emily Stewart.
 * Ric Edwards & Sonia Baspiniero Edwards Scholarship: Jose Batana.
 * Richard Gibbs Memorial Scholarship: Riley Spenard.
 * Richard Yohnka Fine Arts Scholarship: Gabrielle Schultz.
