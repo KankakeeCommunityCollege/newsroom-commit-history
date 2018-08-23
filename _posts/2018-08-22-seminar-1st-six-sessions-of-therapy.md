@@ -4,7 +4,7 @@ date: 2018-08-22 07:58:00 -0500
 expire_date: 2018-09-07 00:00:00 -0500
 image: /uploads/pexels-advise-answer-arrow-208494.jpg
 news_image_alt: Sign that says "questions" "answers"
-article_lead:
+article_lead: Learn to get clients to increase attendance at therapy sessions.
 video_content: false
 video_link:
 press_release: false
