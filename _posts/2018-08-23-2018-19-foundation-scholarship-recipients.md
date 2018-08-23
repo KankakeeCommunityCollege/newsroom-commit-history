@@ -1,41 +1,44 @@
 ---
 title: 2018-19 Foundation Scholarship Recipients
-date: 2018-08-22 07:58:00 -0500
-expire_date: 2018-09-07 00:00:00 -0500
+date: 2018-08-23 07:58:00 -0500
+expire_date: 2018-09-24 00:00:00 -0500
 image: /uploads/molly--1.jpg
-news_image_alt: Student holds sign that says "My Dreams Came True Because of You."
-article_lead: Congratulations to students who earned these awards
+news_image_alt: Scholarship recipient
+article_lead: 2018-19 scholarships awarded.
 video_content: false
 video_link:
 press_release: false
 ---
 
-Following are scholarships and the recipients for 2018-19 scholarships awarded by the [KCC Foundation](http://www.kcc.edu/foundation).
+Following are scholarships and the recipients for 2018-19 scholarships awarded by the KCC Foundation.
 
 * 15 To Finish: Zachary Bacon, Piaget Felix and Antonio Petrongelli.
-* 15 To Finish-FT (15+hrs): Luke Engelman.Al & Emma Lou Lemon Scholarship for Education Students: &nbsp;Kylee Boudreau and Kristen Bodemer.
-* Americo Vespucci Lodge 1722 Scholarship: Andrew Douglas.
-* Azzarelli, Raymond and Carmella Memorial Nursing Endowed Scholarship: Emma Goudreau and MeghannHeck.
-* Azzarelli, Raymond and CarmellaGeneral Academic Memorial Endowed Scholarship: Austin Ziman.
+* 15 To Finish-FT (15+hrs): Luke Engelman.
+* Al & Emma Lou Lemon Scholarship for Education Students:  Kylee Boudreau and Kristen Bodemer.
+* Anthony Samfay Memorial Scholarship: Andrew Douglas.
+* Americo Vespucci Lodge 1722 Scholarship: Toni Grayling.
+* Azzarelli, Raymond and Carmella Memorial Nursing Endowed Scholarship: Emma Goudreau and Meghann Heck.
+* Azzarelli, Raymond and Carmella General Academic Memorial Endowed Scholarship: Dayanaira Thurman.
 * Beulah Cromwell Scholarship: Austin Boudreau.
+* Beta Sigma Phi Scholarship: Austin Ziman.
 * C. Max Hoover Scholarship: Joseph Roach.
-* Cavalier Scholarship for Academic Excellence: Andrew Boudreau, Ianeli Medina, Nickolas Pomykala, Abbey Boudreau, Michael Boyd, Noah Bramer, Jacob Duffy, Aurora Rivera and Preston VanSwol.
+* Cavalier Scholarship for Academic Excellence: Abbey Boudreau, Andrew Boudreau, Michael Boyd, Noah Bramer, Jacob Duffy, Ianeli Medina, Nickolas Pomykala, Aurora Rivera and Preston VanSwol.
 * Central Illinois Green Club Agriculture/Horticulture Scholarship: Donna Beland.
-* Century Scholarship: Damon Myers Karla Rodriguez-Ramirez and ErronSmith.
+* Century Scholarship: Damon Myers, Karla Rodriguez-Ramirez and Erron Smith.
 * Charles E. Hubbard Jr. Memorial Scholarship: Emmanuel Bannerman-Blankson.
 * Charlton Family Visual and Fine Arts Endowed Scholarship: Gabrielle Schultz.
 * Chuck Smead Scholarship: Lexie McCleary.
 * Clancy-Gernon Scholarship: Hannah Salzman.
-* Commonwealth Credit Union Scholarship:&nbsp; Ben Randak.
-* Cora S. Speicher Scholarship: ElyseGustafson.
-* Cora S. Speicher Scholarship: HollyLease, ChloeeSchuldt, HannahAskew and KaileyGash.
-* Coyote Canyon Scholarship: &nbsp;LaurenBuschek.
+* Commonwealth Credit Union Scholarship:  Ben Randak.
+* Cora S. Speicher Scholarship: Elyse Gustafson.
+* Cora S. Speicher Scholarship: Hannah Askew, Kailey Gash, Holly Lease and Chloee Schuldt.
+* Coyote Canyon Scholarship:  Lauren Buschek.
 * CSL Behring, L.L.C. Endowed Scholarship: Emmanuel Bannerman-Blankson, Quinnton Becker and Haley McDaniel.
 * Cultural Diversity Awareness Scholarship: Mackenzie Delby.
 * Cynthia Steury-Lattz Memorial Scholarship: Lisa Schamber.
 * Dennis J. Smith Legacy Endowed Scholarship: Luke Engelman.
-* Divisional Scholarships – Business: Alisha Wright; Health Careers: Kaelyn Anderson and Megan Lumbrezer; Humanities: Andrew Boudreau and Yaneli Pizano; Technology: Felicia Goodrich and RileyThomas; Math, Science, and Engineering: Connor Jumonville and Claire Tanner.
-* Do It Stevie's Way- Proven IT- BBCHS: Ben Randak; Central: Gabriella Griffith; Grace Christian Academy: Lauren Hertz; Kankakee High School: Ianeli Medina; Manteno High School: Nickolas Pomykala; Milford High School: Hailey Osborn; Momence: Noah Bramer; St. Anne: Payton Kerness; Watseka (District 9): Emily Bunting
+* Divisional Scholarships – Business: Alisha Wright; Health Careers: Kaelyn Anderson and Megan Lumbrezer; Humanities: Andrew Boudreau and Yaneli Pizano; Technology: Felicia Goodrich and Riley Thomas; Math, Science, and Engineering: Connor Jumonville and Claire Tanner.
+* Do It Stevie’s Way- Proven IT- BBCHS: Ben Randak; Central: Gabriella Griffith; Grace Christian Academy: Antonio Petrongelli; Herscher High School: Kyla Brychta; Kankakee Area Career Center: Lauren Hertz; Kankakee High School: Ianeli Medina; Manteno High School: Nickolas Pomykala; Milford High School: Hailey Osborn; Momence: Noah Bramer; St. Anne: Payton Kerness; Watseka (District 9): Emily Bunting.
 * Don James Memorial Scholarship: Andrew Boudreau.
 * Donald L. Haley Memorial Endowed Scholarship: Jeffery Gifford.
 * Dorothy and Walter Franklin Endowed Scholarship: Hannia Garcia and Monique Mays.
@@ -46,17 +49,17 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * E. Kenneth Chipman Memorial Scholarship: Nicholas Barnes and Megan Lanie.
 * Eastern Illinois Law Enforcement Administrators Association Criminal Justice/ Law Enforcement Annual Scholarship: Elan Benge.
 * Eileen Van Voorst Memorial Endowed Scholarship: Faith Keller.
-* Elmer & Bonnie Gilbert Scholarship: &nbsp;Hannia Garcia.
-* Fegan Family Scholarship: &nbsp;Selah White and Monique Mays.
+* Elmer & Bonnie Gilbert Scholarship:  Hannia Garcia.
+* Fegan Family Scholarship: Monique Mays and Selah White.
 * Fegan Family Welding Scholarship: Quinnton Becker and Manuel Sanchez.
 * Florence McMullen Workforce Development Scholarship: Desneiges Hansen.
 * Foundation Student Liaison: Candace Martell.
 * Francis & Jean Smith Scholarship: Megan Lumbrezer.
-* Frey Family GED Scholarship:&nbsp; Christine Kampe.
-* GED Recipient Scholarship: lma Vazquez and Marshayla Thomas.
+* Frey Family GED Scholarship:  Christine Kampe.
+* GED Recipient Scholarship: Marshayla Thomas and Alma Vazquez.
 * George Homer and Amy T. Ryan Scholarship: Marshayla Thomas.
 * George Kreider Memorial Scholarship: Kailey Gash.
-* Gov. George H. and Lura Lynn Ryan Scholarship: &nbsp;Andy Pham.
+* Gov. George H. and Lura Lynn Ryan Scholarship:  Andy Pham.
 * Gerry Sikma Scholarship: Zachary Langlois.
 * High School Art Exhibit Scholarship: Harley Rudish.
 * Hispanic Latino Advisory Committee Scholarship: Hazibeth Morales.
@@ -67,16 +70,16 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * Jerald Hoekstra Family Endowed Scholarship: Rhonda Addison.
 * Jerry Jaffe Memorial Scholarship: Wade Brychta.
 * John Ennen Memorial Scholarship: Makenzie Overacker.
-* KCC President's Scholarship: Jayce Hansen and Holly Coulter.
+* KCC President’s Scholarship: Holly Coulter and Jayce Hansen.
 * Kankakee County Home & Community Education Scholarship: Marianna Craighead.
-* Kankakee Kultivators Horticulture Scholarship: &nbsp;Katie Price.
+* Kankakee Kultivators Horticulture Scholarship:  Katie Price.
 * Kankakee River Valley Exchange Club Scholarship: Megan Lumbrezer.
 * Kankakee Valley Beverage Association Scholarship: Taylor Roach.
 * KCC Alumni Association Scholarship: Avery Norwick.
-* KCC Faculty Association Scholarship: Thresia Babiaka.
+* KCC Faculty Association Scholarship: Theresia Babiaka.
 * Larry Forbes Nursing Scholarship: Paul Staneart.
 * Law Enforcement/Paramedic Scholarship: Alannah Anker, Andrew Douglas and James Langer.
-* Lawrence "Bud" Schipper Memorial Endowed Scholarship: Kelsey Boudreau.
+* Lawrence “Bud” Schipper Memorial Endowed Scholarship: Kelsey Boudreau.
 * Lester & Virginia Soucie Memorial Scholarship: Skyler Brown.
 * Lisa Dugan Annual Community Service Scholarship for GED Graduates: Belinda Emery.
 * Lucille W. Devine Memorial Endowed Scholarship: Karen Snyder.
@@ -85,7 +88,7 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * Marian Ruth Davenport Nursing: Lachelle Paden.
 * Mary M. Tatge Scholarship: Jamisha Jones.
 * Maureen Bushman Endowed Scholarship for Education: Emily Bunting and Danielle Swisher.
-* Maureen Bushman Endowed Scholarship for Nursing: Ethan Stone and Chelsea Henning.
+* Maureen Bushman Endowed Scholarship for Nursing: Chelsea Henning and Ethan Stone.
 * Mildred Smith Memorial Endowed Scholarship: Katrina Whitten.
 * Milner Broadcasting WVLI/ WIVR/WFAV Scholarship: Mackenzie Delby.
 * Minnetta Fiene Scholarship: Jennifer High.
@@ -93,11 +96,12 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * Olde Time Farm Show Scholarship: Piaget Felix.
 * Patricia Martin Memorial Scholarship: Clara Capriotti.
 * Patricia M. Paul Memorial Scholarship: Jill Grieff.
-* Peg Reeves Scholarship: Hayley Hirano and Lauren Buschek.
+* Patsy A. Lower/LEX Legal Professional Scholarship: Karen Snyder.
+* Peg Reeves Scholarship: Lauren Buschek and Hayley Hirano.
 * PEO Chapter JR Scholarship: Candace Martell.
-* Peoples Bank Scholars Scholarship: Tiana Binion, Blair Huffman, Zoey Berwanger, Tiffany Chouinard, Catherine Gray, Aidan Klipp, Mattison Lanie and Courtney Reno.
+* Peoples Bank Scholars Scholarship: Zoey Berwanger, Tiana Binion, Tiffany Chouinard, Catherine Gray, Blair Huffman, Aidan Klipp, Mattison Lanie and Courtney Reno.
 * Psychology Scholarship: Elyse Gustafson.
-* Reddish Family Scholarship:&nbsp; Emily Stewart.
+* Reddish Family Scholarship:  Emily Stewart.
 * Ric Edwards & Sonia Baspiniero Edwards Scholarship: Jose Batana.
 * Richard Gibbs Memorial Scholarship: Riley Spenard.
 * Richard Yohnka Fine Arts Scholarship: Gabrielle Schultz.
@@ -107,7 +111,7 @@ Following are scholarships and the recipients for 2018-19 scholarships awarded b
 * Rudy & Margaret Minton Memorial Scholarship: Berenice Cintora Villagomez.
 * Sara Lagacy Memorial Nursing Scholarship: Sarah Senesac.
 * Steven L. Smith & Kathryn A. Smith Endowed Entrepreneurship Scholarship: Justin Coggins.
-* Tom and Judy O’Brien Family Comes First Endowed Scholarship: Lauran Hickson and Loretta Cousins.
+* Tom and Judy O’Brien Family Comes First Endowed Scholarship: Loretta Cousins and Lauran Hickson.
 * VanDrunen Farms Scholarship: Diego Gonzalez.
 * William F. Brandenburg Endowed Scholarship: Kyla Brychta.
 * Zeglis Family Endowed Scholarship: Amy Leach.
