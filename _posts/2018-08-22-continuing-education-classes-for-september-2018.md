@@ -10,7 +10,8 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/2018-fall-coned-banner-650x365.jpg)
+![](/uploads/2018-fall-coned-banner-650x365.jpg){: .center-image}
+{: .center-this-text}
 
 Civil War history, Voiceovers and Meditation are among topics being offered in September through Kankakee Community College’s continuing education office.
 
