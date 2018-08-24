@@ -10,4 +10,5 @@ video_link:
 press_release: false
 ---
 
-![](blob:https://app.cloudcannon.com/510d3650-e3cf-47dc-b51b-1db2fda65f9b)
+![](/uploads/valuemenuwk2-1.jpg){: .center-image}![](blob:https://app.cloudcannon.com/510d3650-e3cf-47dc-b51b-1db2fda65f9b)
+{: .center-this-text}
