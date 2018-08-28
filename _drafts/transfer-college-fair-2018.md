@@ -9,7 +9,7 @@ article_lead: >-
   fair.
 video_content: false
 video_link:
-press_release: false
+press_release: true
 ---
 
 ![](/uploads/2017-transfer-fair-news-page.jpg){: .float-image-left}Kankakee Community College will host a Transfer Fair from noon - 1:30 p.m. Wednesday, Sept. 12 in the college’s atrium area and College Center.
@@ -18,7 +18,7 @@ More than 50 public and private colleges and universities are expected to attend
 
 For information and a current list of colleges which have responded that they will attend, visit http://www.kcc.edu/transfer and choose “Transfer Fairs” under events.
 
-Illinois public universities invited to attend are: Chicago State University, Chicago; Eastern Illinois University, Charleston; Governors State University, University Park; Illinois State University, Normal; Northern Illinois University, DeKalb; Southern Illinois University, Carbondale; Southern Illinois University, Edwardsville; University of Illinois at Chicago; University of Illinois at Springfield; University of Illinois at Urbana-Champaign; and Western Illinois University, Macomb.&nbsp;
+Illinois public universities invited to attend are: Chicago State University, Chicago; Eastern Illinois University, Charleston; Governors State University, University Park; Illinois State University, Normal; Northern Illinois University, DeKalb; Southern Illinois University, Carbondale; Southern Illinois University, Edwardsville; University of Illinois at Chicago; University of Illinois at Springfield; University of Illinois at Urbana-Champaign; and Western Illinois University, Macomb. 
 
 Illinois private colleges and universities invited to attend include: Augustana College, Rock Island; Benedictine University, Lisle; Columbia College, Chicago; Concordia University, River Forest; DeVry University, Tinley Park; Eureka College, Eureka; Illinois Institute of Art, Tinley Park; Illinois Wesleyan University, Bloomington; Lakeview College of Nursing, Danville; Lincoln College, Normal; MacMurray College, Jacksonville; Millikin University, Decatur; North Central College, Naperville; North Park University, Chicago; Olivet Nazarene University, Bourbonnais; Rockford College, Rockford; Roosevelt University, Chicago; Trinity Christian College, Palos Heights; Trinity International University, Deerfield; and University of St. Francis, Joliet.
 
