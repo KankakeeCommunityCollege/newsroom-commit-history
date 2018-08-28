@@ -14,7 +14,7 @@ press_release: true
 
 More than 50 public and private colleges and universities are expected to attend. The event is an opportunity for students to talk with college and university representatives about enrollment at the four-year school. It also offers a chance to discuss transferring to the four-year college.
 
-For information and a current list of colleges which have responded that they will attend, visit the T[ransfer Fair website](http://www.kcc.edu/students/helpful/transfer/Pages/transferfair.aspx).
+For information and a current list of colleges which have responded that they will attend, visit the [Transfer Fair website](http://www.kcc.edu/students/helpful/transfer/Pages/transferfair.aspx).
 
 **Illinois public universities invited to attend are:** Chicago State University, Chicago; Eastern Illinois University, Charleston; Governors State University, University Park; Illinois State University, Normal; Northern Illinois University, DeKalb; Southern Illinois University, Carbondale; Southern Illinois University, Edwardsville; University of Illinois at Chicago; University of Illinois at Springfield; University of Illinois at Urbana-Champaign; and Western Illinois University, Macomb.&nbsp;
 
