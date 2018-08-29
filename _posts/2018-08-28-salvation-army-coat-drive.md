@@ -10,7 +10,7 @@ video_link:
 press_release: true
 ---
 
-The Salvation Army is collecting gently used and new coats during September.
+![](/uploads/coat-245240.jpg){: .float-image-right}The Salvation Army is collecting gently used and new coats during September.
 
 A barrel will be placed near the first floor receptionist desk on the Riverfront Campus from Sept. 4-30. Coats which are donated will be given to those in need in October.
 
