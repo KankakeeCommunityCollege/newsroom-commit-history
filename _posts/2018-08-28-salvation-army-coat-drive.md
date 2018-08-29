@@ -17,3 +17,7 @@ A barrel will be placed near the first floor receptionist desk on the Riverfront
 Thank you for your generosity!
 
 For more information, please contact [Mary Posing](mailto:mposing@kcc.edu), 815-802-8202.
+
+&nbsp;
+
+Photo by Roman Pohorecki from Pexels.
