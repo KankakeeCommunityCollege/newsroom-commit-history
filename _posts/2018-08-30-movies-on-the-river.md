@@ -14,7 +14,7 @@ Enjoy a night at the movies on the Riverfront Campus of Kankakee Community Colle
 
 Gates open at 6 p.m., the event begins at 7 p.m. "*The Avengers" will begin at dusk.*&nbsp;*Black Panther will be shown after the first film. Both movies*&nbsp;are rated PG-13.
 
-The event will feature free admission and give aways! Concessions will be available for purchase. KCC alumni are invited to check in with the alumni table for a FREE GIFT!
+The event will feature free admission and giveaways! Concessions will be available for purchase. KCC alumni are invited to check in with the alumni table for a FREE GIFT!
 
 Moviegoers are encourages to bring chairs and blankets are encouraged. Indoor restrooms will be available.&nbsp;
 
