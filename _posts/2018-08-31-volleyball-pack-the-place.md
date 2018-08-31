@@ -25,5 +25,5 @@ Fans are invited to wear a 'Scarlet Fever" T-shirt to show school pride. They wi
 For information phone Linh Williams, student life coordinator, at 815-802-8628.
 {: .present-before-paste}
 
-*Note to KCC employees:&nbsp;*[Spirit Day/Casual Day guidelines](https:my.kcc.edu/employees/Documents/CasualDenimGuidelines-8-31-2018.pdf)&nbsp;can be followed on Sept. 18.
+*Note to KCC employees:&nbsp;*[Spirit Day/Casual Day guidelines](http://www.kcc.edu/FacultyStaff/update/Documents/CasualDenimGuidelines-8-31-2018.pdf)&nbsp;can be followed on Sept. 18.
 {: .present-before-paste}
