@@ -19,7 +19,7 @@ Admission game will be free, and there will be free refreshments while supplies 
 The game will be in the KCC Ryan Gymnasium at 6:30 p.m., KCC vs. Malcolm X College.
 {: .present-before-paste}
 
-Fans are invited to wear a 'Scarlet Fever" T-shirt to show school pride. They will be for sale–$5 each–at the game and the main information desk on the first floor during the week before the event $5.
+Fans are invited to wear a 'Scarlet Fever" T-shirt to show school pride. They will be for sale–$5 each–at the game and the main information desk on the first floor for a week before the event.
 {: .present-before-paste}
 
 For information phone Linh Williams, student life coordinator, at 815-802-8628.
