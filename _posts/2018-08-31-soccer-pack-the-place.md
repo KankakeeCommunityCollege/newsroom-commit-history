@@ -4,7 +4,7 @@ date: 2018-08-31 07:58:00 -0500
 expire_date: 2018-09-26 00:00:00 -0500
 image: /uploads/soccer-action-d51-3526.jpg
 news_image_alt: Cavaliers Soccer
-article_lead: Support the Cavaliers soccer team.
+article_lead: Free Game! Support the Cavs!
 video_content: false
 video_link:
 press_release: true
@@ -18,4 +18,4 @@ Fans are invited to wear a 'Scarlet Fever" T-shirt to show school pride. They wi
 
 For information phone Linh Williams, student life coordinator, at 815-802-8628.
 
-Note to KCC employees:&nbsp;[Spirit Day/Casual Day guidelines](https://my.kcc.edu/employees/Documents/CasualDenimGuidelines-8-31-2018.pdf)&nbsp;can be followed on Sept. 26.
+Note to KCC employees: [Spirit Day/Casual Day guidelines](https://my.kcc.edu/employees/Documents/CasualDenimGuidelines-8-31-2018.pdf) can be followed on Sept. 26.
