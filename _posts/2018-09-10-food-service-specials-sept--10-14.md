@@ -1,6 +1,6 @@
 ---
 title: Food Service Specials Sept. 10-14
-date: 2018-09-12 07:58:00 -0500
+date: 2018-09-10 07:58:00 -0500
 expire_date: 2018-09-14 00:00:00 -0500
 image: /uploads/fork and knife on plate.jpg
 news_image_alt: Place setting
