@@ -32,22 +32,22 @@ Dr. John Avendano
 
 Community involvement/awards
 
-2006 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Named among Waubonsee Community College’s “Fab 40” Alumni in conjunction with the college’s 40th anniversary
+2006                    Named among Waubonsee Community College’s “Fab 40” Alumni in conjunction with the college’s 40th anniversary
 
-2009-present &nbsp; &nbsp; Grundy Livingston Kankakee Workforce Board member
+2009-present     Grundy Livingston Kankakee Workforce Board member
 
-2012 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Waubonsee Community College Athletic Hall of Fame Induction
+2012                     Waubonsee Community College Athletic Hall of Fame Induction
 
-2013 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phi Theta Kappa Shirley B. Gordon Award for Distinction
+2013                       Phi Theta Kappa Shirley B. Gordon Award for Distinction
 
-2014 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Illinois State University College of Education Hall of Fame &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+2014                       Illinois State University College of Education Hall of Fame             
 
-2009-present &nbsp; &nbsp; Riverside Medical Center Board of Directors
+2009-present     Riverside Medical Center Board of Directors
 
-2012-present &nbsp; &nbsp; Economic Alliance of Kankakee County; chair of the board of directors, 2017-2019
+2012-present     Economic Alliance of Kankakee County; chair of the board of directors, 2017-2019
 
-2017-18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Illinois Council of Community College Presidents, president
+2017-18               Illinois Council of Community College Presidents, president
 
-2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Illinois Community College Trustees Association Advocacy Award
+2018                    Illinois Community College Trustees Association Advocacy Award
 
-2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skyway Conference Hall of Fame Induction
+2018                       Skyway Conference Hall of Fame Induction
