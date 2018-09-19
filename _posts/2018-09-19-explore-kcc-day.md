@@ -1,6 +1,6 @@
 ---
 title: Explore KCC Day
-date: 2018-09-18 07:58:00 -0500
+date: 2018-09-19 07:58:00 -0500
 expire_date: 2018-10-08 00:00:00 -0500
 image: /uploads/explore-kcc-day-facebook-ads-183.jpg
 news_image_alt: Explore Day image
@@ -25,5 +25,5 @@ KCC is located south of downtown Kankakee near River Road, off U.S. 45-52, or ta
 ![](/uploads/explore-kcc-day-social-media-graphic-552x108-1.jpg)
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
