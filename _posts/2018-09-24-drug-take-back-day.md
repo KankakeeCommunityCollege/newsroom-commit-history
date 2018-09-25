@@ -18,7 +18,7 @@ Members of the community are invited to attend and safely and anonymously turn i
 
 The program at KCC is being sponsored by the college's Police Department and Criminal Justice Club.
 
-KCC is located KCC is located south of downtown Kankakee off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at&nbsp;[www.kcc.edu/directions](http://www.kcc.edu/directions).
+KCC is located south of downtown Kankakee off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at&nbsp;[www.kcc.edu/directions](http://www.kcc.edu/directions).
 
 More information is on the [DEA National Drug Take Back program website](https://www.deadiversion.usdoj.gov/drug_disposal/takeback/){: target="_blank"}.
 
