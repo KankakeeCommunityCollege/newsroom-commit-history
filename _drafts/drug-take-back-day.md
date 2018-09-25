@@ -3,14 +3,14 @@ title: Drug Take Back Day
 date: 2018-09-24 07:58:00 -0500
 expire_date: 2018-09-28 00:00:00 -0500
 image: /uploads/take-back.jpg
-news_image_alt: Fork and knife on a plate
-article_lead: Seminars share tips for improved quality of life.
+news_image_alt: DEA National Prescription TakeBack graphic
+article_lead: Safe disposal option offered Oct. 25
 video_content: false
 video_link:
 press_release: true
 ---
 
-Kankakee Community College, in conjunction with Kankakee Area Metropolitan Enforcement Group, will host a Drug Take Back event on Thursday, Oct. 25.&nbsp;
+Kankakee Community College, in conjunction with Kankakee Area Metropolitan Enforcement Group, will host a Drug Take Back event on Thursday, Oct. 25. 
 
 "Drug Take Back" will be from 10 a.m. - 2 p.m. Thursday, Oct. 25 in KCC's atrium area, on the first floor near the main entrance.
 
@@ -20,5 +20,5 @@ The program at KCC is being sponsored by the college's Police Department and Cri
 
 More information is on the [DEA National Drug Take Back program website](https://www.deadiversion.usdoj.gov/drug_disposal/takeback/).
 
-![](/uploads/got-drugs.jpg){: .center-image}<br>&nbsp;
+![](/uploads/got-drugs.jpg){: .center-image}<br> 
 {: .center-this-text}
