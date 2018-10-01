@@ -1,10 +1,10 @@
 ---
-title: Tim Boone - WIOA
+title: WIOA program leads to new career path
 date: 2018-10-04 07:58:00 -0500
 expire_date: 2018-10-19 00:00:00 -0500
 image: /uploads/tim-boone-small-1.JPG
 news_image_alt: Tim Boone
-article_lead: WIOA helps student.
+article_lead: Tim Boone doesn't let much keep him down
 video_content: false
 video_link:
 press_release: true
@@ -50,6 +50,6 @@ Even before graduating, Boone secured a full-time position at IKO in Kankakee, a
 
 After all, Boone says “I never really ate Oreos.” He is more a fan of another Nabisco product: the Nutter Butter Sandwich cookie.
 
-The Workforce Innovation & Opportunity Act, which provided Boone’s assistance, is open to people who lost their jobs through plant closings or layoffs, low-income individuals and youth ages 16 to 24. More information is at www.kcc.edu/wioa, wiaoffice@kcc.edu and 815-802-8963.
+The [Workforce Innovation & Opportunity Act](http://www.kcc.edu/wioa), which provided Boone’s assistance, is open to people who lost their jobs through plant closings or layoffs, low-income individuals and youth ages 16 to 24. More information is at [www.kcc.edu/wioa](http://www.kcc.edu/wioa), wiaoffice@kcc.edu and 815-802-8963.
 
 KCC provides support at two local offices. The Bradley site is in the KCC North Extension Center, 450 N. Kinzie Ave.; and the Pontiac site is at 211 E. Madison St.
