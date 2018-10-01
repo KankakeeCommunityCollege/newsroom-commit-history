@@ -24,7 +24,7 @@ His last day working at Nabisco was May 27, 2016. At age 50-plus, Boone was unem
 
 Boone was not ready to accept part-time employment, or transition into retirement. He wanted to get back to working full-time as quickly as possible.
 
-“There are a million reasons why working is good for you -- psychologically, socially, philosophically,” he said.
+“There are a million reasons why working is good for you – psychologically, socially, philosophically,” he said.
 
 Boone found the Workforce Innovation and Opportunity Act Program, which is administered locally by the Grundy Kankakee Workforce Board and Kankakee Community College. Because his company closed or moved from the region, he was eligible for career training and other college-related expenses up to $12,000.
 
