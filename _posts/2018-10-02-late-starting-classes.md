@@ -1,6 +1,6 @@
 ---
 title: Late starting classes
-date: 2018-10-05 07:58:00 -0500
+date: 2018-10-02 07:58:00 -0500
 expire_date: 2018-10-19 00:00:00 -0500
 image: /uploads/books-education-school-literature-51342.jpg
 news_image_alt: Books
