@@ -12,7 +12,7 @@ press_release: true
 
 ![](/uploads/food-pantry.jpg){: .float-image-left}Kankakee Community College’s Manufacturing Technology program is hosting a food drive during October to benefit the college’s Food Pantry.
 
-Non-perishable and canned items will be accepted. Especially welcome are “grab-and-go” options for a quick meal or snack, such as ramen noodle cups, macaroni and cheese cups, popcorn, cereal, granola bars or fruit cups. See the complete recommended [list](http://www.kcc.edu/students/studentlife/Documents/Food-Pantry-donations.pdf){: target="_blank"}.&nbsp;
+Non-perishable and canned items will be accepted. Especially welcome are “grab-and-go” options for a quick meal or snack, such as ramen noodle cups, macaroni and cheese cups, popcorn, cereal, granola bars or fruit cups. See the complete recommended [list](http://www.kcc.edu/students/studentlife/Documents/Food-Pantry-donations.pdf){: target="_blank"}. 
 
 Donation bins are located on KCC’s Riverfront Campus, outside Rooms L340 and W102; and at the entrance of the Manufacturing and Industrial Technology Center (MITC).
 
