@@ -26,15 +26,15 @@ Boone was not ready to accept part-time employment, or transition into retiremen
 
 “There are a million reasons why working is good for you – psychologically, socially, philosophically,” he said.
 
-Boone found the Workforce Innovation and Opportunity Act Program, which is administered locally by the Grundy Kankakee Workforce Board and Kankakee Community College. Because his company closed or moved from the region, he was eligible for career training and other college-related expenses up to $12,000.
+Boone found the Workforce Innovation and Opportunity Act Program, which is administered locally by the Grundy Kankakee Workforce Board and Kankakee Community College. Because his company closed or moved from the region, he was eligible for career training and other college-related expenses up to $12,000.&nbsp;![](/uploads/tim-boone-dsc-0480.jpg){: .float-image-right}
 
 “I worked with the IDES (Illinois Department of Employment Security) office to secure Tim’s unemployment benefits; making sure he could go to school and receive his unemployment benefits at the same time,” said Dr. Dana Washington, Boone’s program contact.
 
-Boone started taking classes at KCC in August 2016. Unemployment benefits and the separation funds from Mondelēz supported his family while he returned to school.
+Boone started taking classes at KCC in August 2016. Unemployment benefits and the separation funds from Mondelēz supported his family while he returned to school.&nbsp;
 
 Boone chose to build on his existing skills and study electrical technology at KCC. He also expanded his employability by taking Renewable Energy courses.
 
-“I will always remember two thing about Tim Boone,” said Patrick Klette, coordinator of KCC’s Electrical Technology programs. “One, his upbeat attitude. You could always count Tim for a smile, a good joke and a great laugh. The only thing better than his attitude is his work ethic. Tim always worked hard. He was always early, stayed late if needed and always got his work done. Tim is the type of student that KCC’s Electrical Technology program thrives on.”
+“I will always remember two thing about Tim Boone,” said Patrick Klette, coordinator of KCC’s Electrical Technology programs. “One, his upbeat attitude. You could always count Tim for a smile, a good joke and a great laugh. The only thing better than his attitude is his work ethic. Tim always worked hard. He was always early, stayed late if needed and always got his work done. Tim is the type of student that KCC’s Electrical Technology program thrives on.”&nbsp;![](/uploads/tim-boone-dsc-0510.JPG){: .float-image-left}
 
 “Boone did not take his occupational goals lightly,” Washington said. “He shouldered the maximum amount of coursework, which is characteristic of outstanding academic achievement.”
 
