@@ -10,10 +10,18 @@ video_link:
 press_release: true
 ---
 
-![](/uploads/gsa-less-than250.jpg)Please join us on Saturday, October 13th from 11 – 2:30 in the Iroquois Room for the KCC Sponsored GSA Statewide Summit. 
+![](/uploads/gsa-less-than250.jpg)On Saturday, Oct. 13, from 11 a.m. - 2:30 p.m., KCC will host and sponsor the Gay Straight Alliance (GSA) Statewide Summit in the Iroquois Room. Students and the community are invited.&nbsp;
 
-The keynote speaker will be Brian Johnson, the CEO of Equality Illinois and will include the following breakout sessions: Starting and Sustaining a GSA (with Mr. Robert DeOliverira and Ms. Katie Bretzlaff Kankakee School District),  Mental health and the LGBTQ+ community (Dr. Jessica Norman from Transformative Growth Counseling) and Supporting Transgender Students (Daniel Julius, Transcend Program Assistant from Youth Outlook). 
+The keynote speaker will be Brian Johnson, the CEO of Equality Illinois. The event also includes the following breakout sessions:
 
-Lunch will be provided.  A $5 donation is suggested to offset the cost. 
+* Starting and Sustaining a GSA - presented by Robert &nbsp;De Oliveira and Katie Bretzlaff of Kankakee School District
+* Mental Health and the LGBTQ+ community - presented by Dr. Jessica Norman from Transformative Growth Counseling
+* Supporting Transgender Students - presented by Daniel Julius, Transcend Program Assistant from Youth Outlook
 
-Please email Francesca if you have any questions: fcatalano@kcc.edu
+Lunch will be provided.&nbsp; A $5 donation is suggested to offset the cost.&nbsp;
+
+Please email [Dr. Francesca Catalano](mailto:fcatalano@kcc.edu), advisor of the [KCC Gay Straight Alliance](http://www.kcc.edu/students/studentlife/clubs/Pages/gaystraightalliance.aspx) for additional details.
+
+KCC is located south of downtown Kankakee off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are online at&nbsp;[kcc.edu/directions](http://www.kcc.edu/directions).
+
+&nbsp;
