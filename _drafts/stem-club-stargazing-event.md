@@ -10,10 +10,16 @@ video_link:
 press_release: true
 ---
 
-The KCC STEM Club had a cookout and stargazing event on Monday, Oct. 8.
+The [KCC STEM Club](http://www.kcc.edu/students/studentlife/clubs/Pages/stem-club.aspx) had a cookout and stargazing event on Monday, Oct. 8.
 
-The event started at the East Pavilion. Fun was had with Frisbees, good food, and meeting the new baby of Dr. Jessica Greminger, one of the club's advisors.
+STEM stands for Science, Technology, Engineering and Math.
+
+The event started at the East Pavilion. Fun was had with Frisbees, good food, and meeting Dr. Jessica Greminger's new baby. Greminger is one of the club's sponsors.
 
 Then, as darkness fell, the group went out to the middle of KCC's golf course, set up the KCC telescope and checked out Mars.
 
-"We tried to get Saturn too, but it went behind some trees!" said Michael Caparula, the other&nbsp;&nbsp;
+"We tried to get Saturn, too, but it went behind some trees!" said Michael Caparula, one of the club's sponsors.
+
+![](/uploads/stem-event2.jpg){: .float-image-left}&nbsp; &nbsp;![](/uploads/stem-event1-1.jpg){: .float-image-left}&nbsp;&nbsp;
+
+![](/uploads/stem-event3.jpg){: .float-image-left}&nbsp;![](/uploads/stem-event4.jpg){: .float-image-left}&nbsp;&nbsp;![](/uploads/stem-event5.jpg){: .float-image-left}
