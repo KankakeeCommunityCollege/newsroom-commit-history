@@ -1,7 +1,7 @@
 ---
 title: New! Waitlist option
-date: 2018-10-22 05:58:00 -0500
-expire_date: 2018-10-26 00:00:00 -0500
+date: 2018-10-25 05:58:00 -0500
+expire_date: 2018-12-28 00:00:00 -0600
 image: /uploads/waiting.jpg
 news_image_alt: Graphic of a group of people
 article_lead: New option offered when some classes fill
@@ -10,7 +10,7 @@ video_link:
 press_release: true
 ---
 
-![](/uploads/waiting250x250.jpg){: .float-image-right}Beginning in Spring 2019, KCC will offer a waitlist for some courses in the credit divisions.
+![](/uploads/waiting250x250.jpg){: .float-image-right}Beginning in Spring 2019, KCC will offer a waitlist for some courses in the credit division.
 
 Here's how it works:
 
