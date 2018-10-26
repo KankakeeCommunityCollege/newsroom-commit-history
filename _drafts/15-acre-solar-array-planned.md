@@ -1,11 +1,35 @@
 ---
 title: 15 acre solar array planned
-date: 2018-10-25 05:58:00 -0500
-expire_date: 2018-11-12 00:00:00 -0600
-image: /uploads/farm--fleet---copy.jpg
-news_image_alt: Graphic of a group of people
-article_lead: 'Job event: Nov. 12'
+date: 2018-10-27 05:58:00 -0500
+expire_date: 2018-11-16 00:00:00 -0600
+image: /uploads/solar-array---mid-day-photo-credit-pivot-energy---copy.jpg
+news_image_alt: Solar array to be installed at KCC.
+article_lead: KCC to have a solar array at Riverfront Campus.
 video_content: false
 video_link:
 press_release: true
 ---
+
+![](/uploads/solar-array---mid-day-photo-credit-pivot-energy---copy-1.jpg){: .float-image-left}A new energy solution is coming to Kankakee Community College’s Riverfront Campus, with a 15-acre solar array scheduled for completion early in 2019.<br>The photovoltaic field will be an educational tool for students in the college’s Electrical Technology program, and also will tie into its electric service to provide significant savings on electricity costs.<br>Pivot Energy will provide the equipment, and will be responsible for installation and maintenance.<br>According to Pivot Energy’s project development manager, Liz Reddington, the solar array at the college will produce about 4,000 megawatt hours per year.<br>The anticipated savings to KCC is more than $40,000 per year for the first 10 years, and more than $140,000 per year for up to two decades after that, said Todd Jenkins, project liaison for KCC. Jenkins said cumulative savings over 25 years are estimated at $3.2 million. This figure represents more than 30 percent of the college’s electric bill.<br>"This solar project is being donated to the college by Dr. Sarode Pundaleeka," said Kelly Myers, executive director of the KCC Foundation. "Normally, the power purchase agreement is for a 20 year term or longer, but KCC is using a unique donation model for the project, and system ownership will be turned over to KCC after 10 years.”<br>“The solar electric system will give students, in the short term, a view on the process of installing a large PV (photovoltaic) array, construction, layout, connections, integration into the college's electrical system,” said Clay Sterling, a KCC professor who coordinates renewable energy-related programs. “In the long term, the large solar PV array will give students in the Renewable Energy program the opportunity to be involved with semiannual operations and maintenance activities that will be required as a part of validating the operations of the PV system.”<br>![](/uploads/solar-array-with-plantings-2---photo-credit-pivot-energy---copy.jpg){: .float-image-right}Sterling said operations and maintenance, or the validation of operations, is a growing field and one that does not yet offer much training.<br>“KCC students will now have the classroom as well as the field experience to test the existing system, create reports, analyze data from previous tests, maintain records etc.,” Sterling said. “Students will build upon the work of previous classes on a living system here on campus that will be here for, potentially, the next half century.”<br>![](/uploads/overhead-view--proposed-solar-array-at-kcc---photo-credit-pivot-energy---copy.jpg){: .float-image-left}The installation site is on the south edge of the campus, near River Road and the college’s wind turbine. It will be set back from River Road by at least 250 yards, and surrounded by a 7-foot chain link. Before full operation begins, ComEd will test the system.<br>Approvals from several government bodies, including the Kankakee City Council, are still needed. If those approvals are granted, it is hoped that land preparation work can begin in winter 2018, with construction and completion of the project in spring 2019.<br>KCC offers an Associate in Applied Science in Electrical Technology with a renewable energy track, as well as certificates in solar-PV technology, solar-thermal technology and small wind technology. Four courses within the programs are accredited by the North American Board of Certified Energy Practitioners: Fundamentals of Electricity, National Electric Code & Wiring Methods, Survey of Renewable Energy, and Intro to Solar-Photovoltaic Tech.
+
+KCC’s commitment to sustainability
+
+• In November 2018, KCC was named No. 2 in North America for sustainability performance among associate degree colleges by the Association for the Advancement of Sustainability in Higher Education (AASHE)<br>• The college was a charter signatory of the American College and University Presidents Climate Commitment.<br>• A 50kW wind turbine was installed in 2012 It offsets some of the college’s electric expenses.<br>• More than 95% of exterior lighting at the college is LED lighting.<br>• 11 water fountains at the college have bottle fillers.<br>• The college’s North Extension Center in Bradley was Kankakee County’s first LEED Gold building.<br>• The new Advanced Technology Education Center (set to open in January) is being built to meet LEED Gold specifications.
+
+Environmental impact of solar arrays<br>Provided by Pivot Energy
+
+• No pollution or emissions.<br>• Virtually no glare – Reflected light from solar PV modules have less intensity than direct sunlight.<br>• Minimal noise.<br>• Low-growth, native vegetation plantings will be added. No chemicals or pesticides will be used to maintain the native vegetation.<br>• The land under the panels will not be in agricultural use, allowing soil to rebuild. At the end of the system’s life (30-40 years), the college will be able to restore the land to its original condition.
+
+Media contacts:
+
+Kankakee Community College<br>Kari Nugent, Director of Marketing and Public Relations<br>815-802-8256, knugent@kcc.edu<br>&nbsp; &nbsp;&nbsp;
+
+Pivot Energy<br>Matthew Hargarten<br>Pivot Energy Communications<br>414-745-8408, matthew@rival-communications.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+About Kankakee Community College
+
+Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is “Enhancing quality of life through learning.” The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee. Learn more at www.kcc.edu.
+
+About Pivot Energy
+
+Pivot Energy is a Denver-based solar energy company that is focused on helping accelerate the rapid transition taking place in the energy industry to a more decentralized and cleaner approach to power generation. Pivot offers a distributed energy platform that includes a range of services and software aimed at serving the full commercial solar ecosystem, including retail customers, project developers, system operators, utilities, and financiers. The company develops, finances, builds, and manages community and commercial solar projects around the country. Pivot operates on a triple bottom line basis, measuring success by the positive impact to people, planet, and profit. Learn more at pivotenergy.net.
