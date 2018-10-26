@@ -1,6 +1,6 @@
 ---
 title: 15-acre solar array planned
-date: 2018-10-27 05:58:00 -0500
+date: 2018-10-26 05:58:00 -0500
 expire_date: 2018-11-16 00:00:00 -0600
 image: /uploads/solar-array---mid-day-photo-credit-pivot-energy---copy.jpg
 news_image_alt: Sample solar array - Image credit Pivot Energy.
@@ -22,9 +22,9 @@ The anticipated savings to KCC is more than $40,000 per year for the first 10 ye
 
 "This solar project is being donated to the college by Dr. Sarode Pundaleeka," said Kelly Myers, executive director of the KCC Foundation. "Normally, the power purchase agreement is for a 20 year term or longer, but KCC is using a unique donation model for the project, and system ownership will be turned over to KCC after 10 years.”
 
-“The solar electric system will give students, in the short term, a view on the process of installing a large PV (photovoltaic) array, construction, layout, connections, integration into the college's electrical system,” said Clay Sterling, a KCC professor who coordinates renewable energy-related programs. “In the long term, the large solar PV array will give students in the Renewable Energy program the opportunity to be involved with semiannual operations and maintenance activities that will be required as a part of validating the operations of the PV system.”&nbsp;
+“The solar electric system will give students, in the short term, a view on the process of installing a large PV (photovoltaic) array, construction, layout, connections, integration into the college's electrical system,” said Clay Sterling, a KCC professor who coordinates renewable energy-related programs. “In the long term, the large solar PV array will give students in the Renewable Energy program the opportunity to be involved with semiannual operations and maintenance activities that will be required as a part of validating the operations of the PV system.” 
 
-![](/uploads/solar-array-with-plantings-2---photo-credit-pivot-energy---copy.jpg){: .float-image-right}Sterling said operations and maintenance, or the validation of operations, is a growing field and one that does not yet offer much training.<br>“KCC students will now have the classroom as well as the field experience to test the existing system, create reports, analyze data from previous tests, maintain records etc.,” Sterling said. “Students will build upon the work of previous classes on a living system here on campus that will be here for, potentially, the next half century.”&nbsp;
+![](/uploads/solar-array-with-plantings-2---photo-credit-pivot-energy---copy.jpg){: .float-image-right}Sterling said operations and maintenance, or the validation of operations, is a growing field and one that does not yet offer much training.<br>“KCC students will now have the classroom as well as the field experience to test the existing system, create reports, analyze data from previous tests, maintain records etc.,” Sterling said. “Students will build upon the work of previous classes on a living system here on campus that will be here for, potentially, the next half century.” 
 
 ![](/uploads/overhead-view--proposed-solar-array-at-kcc---photo-credit-pivot-energy---copy.jpg){: .float-image-left}The installation site is on the south edge of the campus, near River Road and the college’s wind turbine. It will be set back from River Road by at least 250 yards, and surrounded by a 7-foot chain link. Before full operation begins, ComEd will test the system.
 
