@@ -22,9 +22,9 @@ Environmental impact of solar arrays<br>Provided by Pivot Energy
 
 Media contacts:
 
-Kankakee Community College<br>Kari Nugent, Director of Marketing and Public Relations<br>815-802-8256, knugent@kcc.edu<br>&nbsp; &nbsp;&nbsp;
+Kankakee Community College<br>Kari Nugent, Director of Marketing and Public Relations<br>815-802-8256, knugent@kcc.edu<br>    
 
-Pivot Energy<br>Matthew Hargarten<br>Pivot Energy Communications<br>414-745-8408, matthew@rival-communications.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+Pivot Energy<br>Matthew Hargarten<br>Pivot Energy Communications<br>414-745-8408, matthew@rival-communications.com<br>          
 
 About Kankakee Community College
 
