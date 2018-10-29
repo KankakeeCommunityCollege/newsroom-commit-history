@@ -1,6 +1,6 @@
 ---
 title: Veterans Day Events 2018
-date: 2018-10-26 05:58:00 -0500
+date: 2018-10-29 05:58:00 -0500
 expire_date: 2018-11-16 00:00:00 -0600
 image: /uploads/andrew-johnston-singing-national-anthem---2017---copy.jpg
 news_image_alt: Veterans Day ceremony 2017
