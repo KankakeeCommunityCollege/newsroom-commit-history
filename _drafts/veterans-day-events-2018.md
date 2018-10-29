@@ -2,10 +2,14 @@
 title: Veterans Day Events 2018
 date: 2018-10-26 05:58:00 -0500
 expire_date: 2018-11-16 00:00:00 -0600
-image: /uploads/solar-array---mid-day-photo-credit-pivot-energy---copy.jpg
+image: /uploads/andrew-johnston-singing-national-anthem---2017---copy.jpg
 news_image_alt: Sample solar array - Image credit Pivot Energy.
 article_lead: This educational tool also saves money
 video_content: false
 video_link:
 press_release: true
 ---
+
+Editor’s note: Members of the media are invited to attend the event. Photographs will be welcome.<br>![](/uploads/andrew-johnston-singing-national-anthem---2017---copy-2.jpg){: .float-image-right}On Thursday, Nov. 8, Kankakee Community College will commemorate Veterans Day with a reception and recognition ceremony.<br>The day will begin with a reception and viewing of artwork from 10-11 a.m. A ceremony honoring veterans will be at 11 a.m. Nov. 8 in the lower-level of the KCC Harold and Jean Miner Memorial Library.<br>![](/uploads/ray-olley-wwii-veteran-at-the-podium---2017---copy.jpg){: .float-image-left}The event is free and the public is invited.<br>The art exhibit—which will be on display Nov. 7 to Dec. 7—features works of Yvette Pino, a veteran who served in Iraq.<br>At the recognition ceremony, posting of the colors will be from the Marine Corps League Detachment 1253.<br>For more information, contact Kendra Souligne, co-sponsor of KCC’s Veteran’s Association, at ksouligne@kcc.edu or phone 815-802-8556.
+
+KCC is located south of downtown Kankakee near River Road, off U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at www.kcc.edu/directions.
