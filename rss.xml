@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
-  <link href="http://news.kcc.edu/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://news.kcc.edu/" rel="alternate" type="text/html" />
-  <updated>10/3/2018</updated>
-  <id>http://news.kcc.edu/</id>
+  <link href="https://news.kcc.edu/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://news.kcc.edu/" rel="alternate" type="text/html" />
+  <updated>10/30/2018</updated>
+  <id>https://news.kcc.edu/</id>
 
   
     <title type="html">Kankakee Community College</title>
@@ -24,96 +24,111 @@
     <entry>
       
       
-        <title type="html">Late starting classes</title>
+        <title type="html">Veterans Day Events 2018</title>
       
-      <link href="http://news.kcc.edu/2018/10/02/late-starting-classes.html" rel="alternate" type="text/html" title="Late starting classes" />
-      <published>10/2/2018</published>
-      <updated>10/2/2018</updated>
-      <id>http://news.kcc.edu/2018/10/02/late-starting-classes</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/10/02/late-starting-classes.html">&lt;p&gt;Kankakee Community College is offering a variety of fall courses which begin mid-October and meet for eight weeks or less.&lt;/p&gt;
+      <link href="https://news.kcc.edu/2018/10/29/veterans-day-events-2018.html" rel="alternate" type="text/html" title="Veterans Day Events 2018" />
+      <published>10/29/2018</published>
+      <updated>10/29/2018</updated>
+      <id>https://news.kcc.edu/2018/10/29/veterans-day-events-2018</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/10/29/veterans-day-events-2018.html">&lt;p&gt;&lt;img src=&quot;/uploads/andrew-johnston-singing-national-anthem---2017---copy-2.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;On Thursday, Nov. 8, Kankakee Community College will commemorate Veterans Day with a reception and recognition ceremony.&lt;/p&gt;
 
-&lt;p&gt;Classes are held at the KCC Riverfront Campus in Kankakee, the Manufacturing and Industrial Technology Center in Kankakee, the North Extension Center in Bradley and the South Extension Center in Watseka. There also are online and hybrid classes.&lt;/p&gt;
+&lt;p&gt;The day will begin with a reception and viewing of artwork from 10-11 a.m. A ceremony honoring veterans will be at 11 a.m. Nov. 8 in the lower-level of the KCC Harold and Jean Miner Memorial Library.&lt;/p&gt;
 
-&lt;p&gt;Registration is in Student Services at KCC, 100 College Drive in Kankakee, from 8 a.m. - 6 p.m. Monday through Thursday, and 8 a.m. - 5 p.m. Fridays. Students can phone 815-802-8500 to make an advisement appointment. Registration also is available at KCC’s South Extension Center in Watseka. Phone 815-802-8780 or visit &lt;a href=&quot;http://www.kcc.edu/sec&quot;&gt;www.kcc.edu/sec&lt;/a&gt; for information.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/ray-olley-wwii-veteran-at-the-podium---2017---copy.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;The event is free and the public is invited.&lt;/p&gt;
 
-&lt;h2 id=&quot;kcc-riverfront-campus&quot;&gt;&lt;strong&gt;KCC Riverfront Campus&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The art exhibit—which will be on display Nov. 7 to Dec. 7—features works of &lt;a href=&quot;http://yvettempino.com/&quot;&gt;Yvette Pino&lt;/a&gt;, a veteran who served in Iraq.&lt;/p&gt;
 
-&lt;h3 id=&quot;100-college-drive-kankakee&quot;&gt;&lt;strong&gt;100 College Drive, Kankakee&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;At the recognition ceremony, posting of the colors will be from the Marine Corps League Detachment 1253.&lt;/p&gt;
+
+&lt;p&gt;For more information, contact Kendra Souligne, co-sponsor of KCC’s &lt;a href=&quot;http://www.kcc.edu/students/studentlife/clubs/pages/veterans.aspx&quot;&gt;Veteran’s Association&lt;/a&gt;, at &lt;a href=&quot;mailto:ksouligne@kcc.edu?subject=Veteran's%20Day%20Ceremony&quot;&gt;ksouligne@kcc.edu&lt;/a&gt; or phone 815-802-8556.&lt;/p&gt;
+
+&lt;p&gt;KCC is located south of downtown Kankakee near River Road, off U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at &lt;a href=&quot;http://www.kcc.edu/directions&quot;&gt;www.kcc.edu/directions&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      <summary type="html">Reception &amp; ceremony Nov. 8</summary>
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/andrew-johnston-singing-national-anthem---2017---copy.jpg" />
+      
+    </entry>
+  
+    <entry>
+      
+      
+        <title type="html">15-acre solar array planned</title>
+      
+      <link href="https://news.kcc.edu/2018/10/26/15-acre-solar-array-planned.html" rel="alternate" type="text/html" title="15-acre solar array planned" />
+      <published>10/26/2018</published>
+      <updated>10/26/2018</updated>
+      <id>https://news.kcc.edu/2018/10/26/15-acre-solar-array-planned</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/10/26/15-acre-solar-array-planned.html">&lt;p&gt;&lt;img src=&quot;/uploads/solar-array---mid-day-photo-credit-pivot-energy---copy-1.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;A new energy solution is coming to Kankakee Community College’s Riverfront Campus, with a 15-acre solar array scheduled for completion early in 2019.&lt;/p&gt;
+
+&lt;p&gt;The photovoltaic field will be an educational tool for students in the college’s Electrical Technology program, and also will tie into its electric service to provide significant savings on electricity costs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pivotenergy.net/&quot;&gt;Pivot Energy&lt;/a&gt; will provide the equipment, and will be responsible for installation and maintenance.&lt;/p&gt;
+
+&lt;p&gt;According to Pivot Energy’s project development manager, Liz Reddington, the solar array at the college will produce about 4,000 megawatt hours per year.&lt;/p&gt;
+
+&lt;p&gt;The anticipated savings to KCC is more than $40,000 per year for the first 10 years, and more than $140,000 per year for up to two decades after that, said Todd Jenkins, project liaison for KCC. Jenkins said cumulative savings over 25 years are estimated at $3.2 million. This figure represents more than 30 percent of the college’s electric bill.&lt;/p&gt;
+
+&lt;p&gt;“This solar project is being donated to the college by Dr. Sarode Pundaleeka,” said Kelly Myers, executive director of the KCC Foundation. “Normally, the power purchase agreement is for a 20 year term or longer, but KCC is using a unique donation model for the project, and system ownership will be turned over to KCC after 10 years.”&lt;/p&gt;
+
+&lt;p&gt;“The solar electric system will give students, in the short term, a view on the process of installing a large PV (photovoltaic) array, construction, layout, connections, integration into the college’s electrical system,” said Clay Sterling, a KCC professor who coordinates renewable energy-related programs. “In the long term, the large solar PV array will give students in the Renewable Energy program the opportunity to be involved with semiannual operations and maintenance activities that will be required as a part of validating the operations of the PV system.” &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/solar-array-with-plantings-2---photo-credit-pivot-energy---copy.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;Sterling said operations and maintenance, or the validation of operations, is a growing field and one that does not yet offer much training.&lt;br /&gt;“KCC students will now have the classroom as well as the field experience to test the existing system, create reports, analyze data from previous tests, maintain records etc.,” Sterling said. “Students will build upon the work of previous classes on a living system here on campus that will be here for, potentially, the next half century.” &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/overhead-view--proposed-solar-array-at-kcc---photo-credit-pivot-energy---copy.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;The installation site is on the south edge of the campus, near River Road and the college’s wind turbine. It will be set back from River Road by at least 250 yards, and surrounded by a 7-foot chain link. Before full operation begins, ComEd will test the system.&lt;/p&gt;
+
+&lt;p&gt;Approvals from several government bodies, including the Kankakee City Council, are still needed. If those approvals are granted, it is hoped that land preparation work can begin in winter 2018, with construction and completion of the project in spring 2019.&lt;/p&gt;
+
+&lt;p&gt;KCC offers an &lt;a href=&quot;http://kcc.smartcatalogiq.com/en/2018-2019/Academic-Catalog/Programs/Occupational-Programs/Technology/Electrical-Technology-Renewable-Energy-Technology-Track-AAS&quot;&gt;Associate in Applied Science in Electrical Technology with a renewable energy track&lt;/a&gt;, as well as certificates in &lt;a href=&quot;http://kcc.smartcatalogiq.com/2018-2019/Academic-Catalog/Programs/Occupational-Programs/Technology/Electrical-Technology-Certificates&quot;&gt;solar-PV technology&lt;/a&gt;, &lt;a href=&quot;http://kcc.smartcatalogiq.com/2018-2019/Academic-Catalog/Programs/Occupational-Programs/Technology/Electrical-Technology-Certificates&quot;&gt;solar-thermal technology&lt;/a&gt; and &lt;a href=&quot;http://kcc.smartcatalogiq.com/2018-2019/Academic-Catalog/Programs/Occupational-Programs/Technology/Electrical-Technology-Certificates&quot;&gt;small wind technology&lt;/a&gt;. Four courses within the programs are accredited by the &lt;a href=&quot;http://www.nabcep.org/&quot;&gt;North American Board of Certified Energy Practitioners&lt;/a&gt;: &lt;a href=&quot;http://kcc.smartcatalogiq.com/current/Academic-Catalog/Courses/ELTR-Electricity-Electronics/ELTR-1064&quot;&gt;Fundamentals of Electricity&lt;/a&gt;, &lt;a href=&quot;http://kcc.smartcatalogiq.com/current/Academic-Catalog/Courses/ELTR-Electricity-Electronics/ELTR-1174&quot;&gt;National Electric Code &amp;amp; Wiring Methods&lt;/a&gt;, &lt;a href=&quot;http://kcc.smartcatalogiq.com/en/current/Academic-Catalog/Courses/ELTR-Electricity-Electronics/ELTR-1503&quot;&gt;Survey of Renewable Energy&lt;/a&gt;, and &lt;a href=&quot;http://kcc.smartcatalogiq.com/en/current/Academic-Catalog/Courses/ELTR-Electricity-Electronics/ELTR-2334&quot;&gt;Intro to Solar-Photovoltaic Tech&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;kccs-commitment-to-sustainability&quot;&gt;KCC’s commitment to sustainability&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Heat Pumps, AIRC 1222.810, 5:30-8 p.m., Mondays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Service Shop Operations I, AUTO 1021.020, 2-3:50 p.m., Tuesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Internal Combustion Engines, AUTO 1064.020, 9 a.m. - 2 p.m., Mondays and Wednesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Ignition &amp;amp; Electrical Systems I, AUTO 1073.010, 9 a.m. - 1 p.m., Tuesdays and Thursdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Alignment, Steering and Suspension, AUTO 2242.810, 5:30-9:30 p.m., Mondays and Wednesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Anatomy &amp;amp; Physiology II, BIOL 2654.010, 8 a.m. - 12:45 p.m., Mondays and Wednesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Successful Customer Service, BSNS 2311.820, 5:30-7:10 p.m., Tuesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Access, COSC 1362.810, 7:15-8:55 p.m., Tuesdays and Thursdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Excel, COSC 1372.020, 3-4:40 p.m., Tuesdays and Thursdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Introduction to Information Processing, COSC 1513.020, 1-4:30 p.m., Mondays and Wednesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Manufacturing Processes, MAFT 1232.810, 7:30-9:10 p.m., Tuesdays and Thursdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Introduction to Manufacturing Maintenance, MAFT 1312.810, 5:30-7:10 p.m., Tuesdays and Thursdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Introduction to Dosage Calculations, MATH 1141.010, 1-2:40 p.m., Tuesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
+  &lt;li&gt;In November 2018, KCC was named No. 2 in North America for sustainability performance among associate degree colleges by the Association for the Advancement of Sustainability in Higher Education (AASHE)&lt;/li&gt;
+  &lt;li&gt;The college was a charter signatory of the American College and University Presidents Climate Commitment.&lt;/li&gt;
+  &lt;li&gt;A 50kW wind turbine was installed in 2011. It offsets some of the college’s electric expenses.&lt;/li&gt;
+  &lt;li&gt;More than 95% of exterior lighting at the college is LED lighting.&lt;/li&gt;
+  &lt;li&gt;11 water fountains at the college have bottle fillers.&lt;/li&gt;
+  &lt;li&gt;The college’s North Extension Center in Bradley was Kankakee County’s first LEED Gold building.&lt;/li&gt;
+  &lt;li&gt;The new Advanced Technology Education Center (set to open in January) is being built to meet LEED Gold specifications.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;manufacturing-and-industrial-technology-center&quot;&gt;&lt;strong&gt;Manufacturing and Industrial Technology Center&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;2580-s-route-45-52-kankakee&quot;&gt;&lt;strong&gt;2580 S. Route 45-52, Kankakee:&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;environmental-impact-of-solar-arraysprovided-by-pivot-energy&quot;&gt;Environmental impact of solar arrays&lt;br /&gt;Provided by Pivot Energy&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Millwright, MCHN 1432.960, 7:30-9:20 p.m., Thursdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Precision Measurement, MCHN 1311.962, 6-8:15 p.m., Wednesdays, Oct. 31 to Dec. 5.&lt;/li&gt;
-  &lt;li&gt;Manufacturing Forklift, MAFT 1102.960, 8-11:20 a.m., Saturdays, Oct. 20-Dec. 8.&lt;/li&gt;
+  &lt;li&gt;No pollution or emissions.&lt;/li&gt;
+  &lt;li&gt;Virtually no glare – Reflected light from solar PV modules have less intensity than direct sunlight.&lt;/li&gt;
+  &lt;li&gt;Minimal noise.&lt;/li&gt;
+  &lt;li&gt;Low-growth, native vegetation plantings will be added. No chemicals or pesticides will be used to maintain the native vegetation.&lt;/li&gt;
+  &lt;li&gt;The land under the panels will not be in agricultural use, allowing soil to rebuild. At the end of the system’s life (30-40 years), the college will be able to restore the land to its original condition.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;the-north-extension-center&quot;&gt;&lt;strong&gt;The North Extension Center&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;about-kankakee-community-college&quot;&gt;About Kankakee Community College&lt;/h3&gt;
 
-&lt;h3 id=&quot;450-n-kinzie-ave-bradley&quot;&gt;&lt;strong&gt;450 N. Kinzie Ave., Bradley&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is “Enhancing quality of life through learning.” The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee. Learn more at &lt;a href=&quot;http://www.kcc.edu&quot;&gt;www.kcc.edu&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;English II, ENGL 1623.950, 6-8:30 p.m., Mondays and Wednesday, Oct. 15 to Dec. 7.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;about-pivot-energy&quot;&gt;About Pivot Energy&lt;/h3&gt;
 
-&lt;h2 id=&quot;south-extension-center&quot;&gt;&lt;strong&gt;South Extension Center&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;1488-e-walnut-st-watseka&quot;&gt;&lt;strong&gt;1488 E Walnut St., Watseka&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PowerPoint, COSC 1341.941, 1-2:40 p.m., Mondays, Oct. 15 to Dec. 7.&lt;/li&gt;
-  &lt;li&gt;Word, COSC 1352.941, 10-11:40 a.m., Monday and Wednesdays, Oct. 15 to Dec. 7.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hybrid-classes&quot;&gt;&lt;strong&gt;Hybrid classes&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;The following classes are taught mostly online, but require some classroom time. All of these hybrid classes meet the week of Oct. 15 through Dec. 7.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Figure Drawing II, ARTS 2613.9H0&lt;/li&gt;
-  &lt;li&gt;Principles of Management, BSNS 2553.9H0&lt;/li&gt;
-  &lt;li&gt;Principles of Marketing, MKTG 1553.9H0&lt;/li&gt;
-  &lt;li&gt;The Exceptional Learner/Child, EDUC 1833.9H0&lt;/li&gt;
-  &lt;li&gt;English II, ENGL 1623.9H1&lt;/li&gt;
-  &lt;li&gt;Medical Terminology, HLTH 1213.9H1&lt;/li&gt;
-  &lt;li&gt;Principles of Marketing, MKTG 1553.9H0&lt;/li&gt;
-  &lt;li&gt;Racial and Ethnic Relations, SOCY 2543.9H0&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;online-classes&quot;&gt;&lt;strong&gt;Online classes&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;These classes are entirely online. They meet the week of Oct. 15 through Dec. 7. For more information, visit &lt;a href=&quot;http://www.kcc.edu/lms&quot;&gt;www.kcc.edu/lms&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Survey of Art-1800 to Present, ARTS 1633.9W0&lt;/li&gt;
-  &lt;li&gt;PowerPoint, COSC 1341.9W0&lt;/li&gt;
-  &lt;li&gt;Word, COSC 1352.9W1&lt;/li&gt;
-  &lt;li&gt;The Exceptional Learner/Child, EDUC 1833.9W0&lt;/li&gt;
-  &lt;li&gt;The Multicultural Classroom, EDUC 2513.9W0&lt;/li&gt;
-  &lt;li&gt;Educational Psychology, EDUC 2613.9W0&lt;/li&gt;
-  &lt;li&gt;English I, ENGL 1613.9W2&lt;/li&gt;
-  &lt;li&gt;English II, ENGL 1623. 9W2&lt;/li&gt;
-  &lt;li&gt;Western Civilization 1648 to Present, HIST 1533.9W0&lt;/li&gt;
-  &lt;li&gt;Introduction to Psychology, PSYC 1813.9W3&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;p&gt;Pivot Energy is a Denver-based solar energy company that is focused on helping accelerate the rapid transition taking place in the energy industry to a more decentralized and cleaner approach to power generation. Pivot offers a distributed energy platform that includes a range of services and software aimed at serving the full commercial solar ecosystem, including retail customers, project developers, system operators, utilities, and financiers. The company develops, finances, builds, and manages community and commercial solar projects around the country. Pivot operates on a triple bottom line basis, measuring success by the positive impact to people, planet, and profit. Learn more at &lt;a href=&quot;http://www.pivotenergy.net&quot;&gt;pivotenergy.net&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -131,67 +146,35 @@
 
       
 
-      <summary type="html">Catch a new class - starting soon!</summary>
+      <summary type="html">This educational tool also saves money</summary>
 
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/books-education-school-literature-51342.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/solar-array---mid-day-photo-credit-pivot-energy---copy.jpg" />
       
     </entry>
   
     <entry>
       
       
-        <title type="html">WIOA program leads to new career path</title>
+        <title type="html">Young Adult Job Fair</title>
       
-      <link href="http://news.kcc.edu/2018/10/01/wioa-program-leads-to-new-career-path.html" rel="alternate" type="text/html" title="WIOA program leads to new career path" />
-      <published>10/1/2018</published>
-      <updated>10/1/2018</updated>
-      <id>http://news.kcc.edu/2018/10/01/wioa-program-leads-to-new-career-path</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/10/01/wioa-program-leads-to-new-career-path.html">&lt;p&gt;&lt;img src=&quot;/uploads/tim--boone-at-kcc-graduation-may-2018---copy.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;Dating back to the 1950s, the bakery lines on South Kedzie Avenue in Chicago hummed along and produced millions of Oreo cookies. Workers for this Nabisco site, like Timothy Boone, worked at the south side location for a long time, too.&lt;/p&gt;
+      <link href="https://news.kcc.edu/2018/10/25/young-adult-job-fair.html" rel="alternate" type="text/html" title="Young Adult Job Fair" />
+      <published>10/25/2018</published>
+      <updated>10/25/2018</updated>
+      <id>https://news.kcc.edu/2018/10/25/young-adult-job-fair</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/10/25/young-adult-job-fair.html">&lt;p&gt;&lt;img src=&quot;/uploads/farm--fleet---copy-1.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;On Monday, Nov. 12, Kankakee Community College will host a Job Fair for young adults between the ages of 16 to 24.&lt;/p&gt;
 
-&lt;p&gt;Then, in 2016, the production of Oreos in Chicago ended. Boone and hundreds of other employees were let go. Boone holds no hard feelings.&lt;/p&gt;
+&lt;p&gt;The Job Fair will be from 3-5 p.m. at the &lt;a href=&quot;http://www.kcc.edu/nec&quot;&gt;KCC North Extension Center&lt;/a&gt;, 450 N. Kinzie Ave. in Bradley.&lt;/p&gt;
 
-&lt;p&gt;“I love Mondelēz,” he said of the global parent company of Nabisco, which ran the bakery. “We received a nice separation package.” They even gave him a watch.&lt;/p&gt;
+&lt;p&gt;“This is an opportunity for young adults to connect with local employers, and gain job search experience,” said Ken Crite, KCC coordinator of career services. “Employers will share what they are looking for and conduct pre-screening interviews.”&lt;/p&gt;
 
-&lt;p&gt;Boone grew up in Gary, Ind. He earned an associate degree in electrical technology from Indiana State University and embarked on a career as an industrial electrical technician. He worked for a steel company in Indiana and did field service on oil rigs in southern states including Texas, Oklahoma and Louisiana. When the oil business went dry in the early 1980s, he joined the Navy and served for seven years.&lt;/p&gt;
+&lt;p&gt;Job seekers attending the event should dress well, as if they are going to an interview, Crite said. Dressing appropriately is a good way to show employers they are serious about being professional, he added.&lt;/p&gt;
 
-&lt;p&gt;After the Navy, Boone and his family settled in Chicago. He found work as an electrician for the giant Nabisco bakery.&lt;/p&gt;
+&lt;p&gt;More than 10 businesses will be at the Job Fair. If participants need resumes, they are encouraged to visit &lt;a href=&quot;http://www.kcc.edu/coned/careerservices/Pages/default.aspx&quot;&gt;KCC’s Career Services Center&lt;/a&gt; for assistance before the event.&lt;/p&gt;
 
-&lt;p&gt;His last day working at Nabisco was May 27, 2016. At age 50-plus, Boone was unemployed for the first time in a long time. It was also the day he and his wife closed on a new home in Manteno.&lt;/p&gt;
-
-&lt;p&gt;Boone was not ready to accept part-time employment, or transition into retirement. He wanted to get back to working full-time as quickly as possible.&lt;/p&gt;
-
-&lt;p&gt;“There are a million reasons why working is good for you – psychologically, socially, philosophically,” he said.&lt;/p&gt;
-
-&lt;p&gt;Boone found the Workforce Innovation and Opportunity Act Program, which is administered locally by the Grundy Kankakee Workforce Board and Kankakee Community College. Because his company closed or moved from the region, he was eligible for career training and other college-related expenses up to $12,000.&lt;/p&gt;
-
-&lt;p&gt;“I worked with the IDES (Illinois Department of Employment Security) office to secure Tim’s unemployment benefits; making sure he could go to school and receive his unemployment benefits at the same time,” said Dr. Dana Washington, Boone’s program contact.&lt;/p&gt;
-
-&lt;p&gt;Boone started taking classes at KCC in August 2016. Unemployment benefits and the separation funds from Mondelēz supported his family while he returned to school.&lt;/p&gt;
-
-&lt;p&gt;Boone chose to build on his existing skills and study electrical technology at KCC. He also expanded his employability by taking Renewable Energy courses.&lt;/p&gt;
-
-&lt;p&gt;“I will always remember two thing about Tim Boone,” said Patrick Klette, coordinator of KCC’s Electrical Technology programs. “One, his upbeat attitude. You could always count Tim for a smile, a good joke and a great laugh. The only thing better than his attitude is his work ethic. Tim always worked hard. He was always early, stayed late if needed and always got his work done. Tim is the type of student that KCC’s Electrical Technology program thrives on.”&lt;/p&gt;
-
-&lt;p&gt;“Boone did not take his occupational goals lightly,” Washington said. “He shouldered the maximum amount of coursework, which is characteristic of outstanding academic achievement.”&lt;/p&gt;
-
-&lt;p&gt;“The role of technology has taken quantum leaps—even in the last five years,” Boone said. He was pleased that KCC’s programs were in line with industry. Returning to the classroom was “like sharpening my pencil,” Boone said. He kept up with the other students, both academically and by being active in clubs. He was president of the Renewable Energy Club and a big part of the Veterans Club.&lt;/p&gt;
-
-&lt;p&gt;In May 2018, Boone graduated from KCC with an associate’s degree in electrical technology, plus certificates in small wind technology and pneumatic and hydraulic power.&lt;/p&gt;
-
-&lt;p&gt;Even before graduating, Boone secured a full-time position at IKO in Kankakee, as an electrical maintenance mechanic. He started the job in April.&lt;/p&gt;
-
-&lt;p&gt;“They’re an excellent employer,” he said. For IKO, Boone is working with technology like internet cables and programmable logic controllers. He’s also part of a project to replace inefficient lighting with LED bulbs. “There are more than 800 fixtures,” Boone said, it’s a “total footprint reduction.”&lt;/p&gt;
-
-&lt;p&gt;“After almost 16 years on the same job and at my age, I was really nervous when the plant announced they were closing, but the Trade Program helped me regain my confidence and find a new career path,” Boone said. “I am very happy with the path I chose and thankful for the support of the Trade Program.”&lt;/p&gt;
-
-&lt;p&gt;After all, Boone says “I never really ate Oreos.” He is more a fan of another Nabisco product: the Nutter Butter Sandwich cookie.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://www.kcc.edu/wioa&quot;&gt;Workforce Innovation &amp;amp; Opportunity Act&lt;/a&gt;, which provided Boone’s assistance, is open to people who lost their jobs through plant closings or layoffs, low-income individuals and youth ages 16 to 24. More information is at &lt;a href=&quot;http://www.kcc.edu/wioa&quot;&gt;www.kcc.edu/wioa&lt;/a&gt;, wiaoffice@kcc.edu and 815-802-8963.&lt;/p&gt;
-
-&lt;p&gt;KCC provides support at two local offices. The Bradley site is in the KCC North Extension Center, 450 N. Kinzie Ave.; and the Pontiac site is at 211 E. Madison St.&lt;/p&gt;</content>
+&lt;p&gt;The Job Fair is sponsored by the &lt;a href=&quot;http://www.kcc.edu/future/yaps/Pages/default.aspx&quot;&gt;KCC Workforce Innovation and Opportunity Act Young Adult Program&lt;/a&gt;, which is funded by the Grundy Livingston Kankakee Workforce Board. For additional information, phone 815-802-8222 or email &lt;a href=&quot;mailto:kcrite@kcc.edu&quot;&gt;kcrite@kcc.edu&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -209,25 +192,37 @@
 
       
 
-      <summary type="html">Tim Boone doesn't let much keep him down</summary>
+      <summary type="html">Job event: Nov. 12</summary>
 
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/tim-boone-small-1.JPG" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/farm--fleet---copy.jpg" />
       
     </entry>
   
     <entry>
       
       
-        <title type="html">Food Service Specials Oct. 1-5</title>
+        <title type="html">New! Waitlist option</title>
       
-      <link href="http://news.kcc.edu/2018/09/28/food-service-specials-oct-1-5.html" rel="alternate" type="text/html" title="Food Service Specials Oct. 1-5" />
-      <published>9/28/2018</published>
-      <updated>9/28/2018</updated>
-      <id>http://news.kcc.edu/2018/09/28/food-service-specials-oct--1-5</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/09/28/food-service-specials-oct-1-5.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/value-menu-oct1-5.jpg&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;</content>
+      <link href="https://news.kcc.edu/2018/10/24/new-waitlist-option.html" rel="alternate" type="text/html" title="New! Waitlist option" />
+      <published>10/24/2018</published>
+      <updated>10/24/2018</updated>
+      <id>https://news.kcc.edu/2018/10/24/new-waitlist-option</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/10/24/new-waitlist-option.html">&lt;p&gt;&lt;img src=&quot;/uploads/waiting250x250.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;Beginning in Spring 2019, KCC will offer a waitlist for some courses in the credit division.&lt;/p&gt;
+
+&lt;p&gt;Here’s how it works:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Courses most likely to fill are identified by the college’s academic associate deans.&lt;/li&gt;
+  &lt;li&gt;Waitlists become available to students when course sections are full. Students can join the waitlist in &lt;a href=&quot;https://selfservice.kcc.edu/Student/&quot;&gt;Student Planning&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;If a seat becomes available, the first student on the waitlist will be notified via KCC email of the opportunity to register for the section.&lt;/li&gt;
+  &lt;li&gt;The student has 24 hours to register for the section.&lt;/li&gt;
+  &lt;li&gt;If 24 hours passes, the next person on the waitlist will be notified.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For more detailed information, please contact an academic advisor or the director of admissions and registration.&lt;/p&gt;</content>
 
       
       
@@ -245,81 +240,43 @@
 
       
 
-      <summary type="html">Check out these value options</summary>
+      <summary type="html">New option offered when some classes fill</summary>
 
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/fork%20and%20knife%20on%20plate.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/waiting.jpg" />
       
     </entry>
   
     <entry>
       
       
-        <title type="html">Healing and Healthy Living non-credit classes</title>
+        <title type="html">Alumni Profile - Taylor Bradley</title>
       
-      <link href="http://news.kcc.edu/2018/09/20/healing-and-healthy-living-non-credit-classes.html" rel="alternate" type="text/html" title="Healing and Healthy Living non-credit classes" />
-      <published>9/20/2018</published>
-      <updated>9/20/2018</updated>
-      <id>http://news.kcc.edu/2018/09/20/healing-and-healthy-living-non-credit-classes</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/09/20/healing-and-healthy-living-non-credit-classes.html">&lt;p&gt;&lt;img src=&quot;/uploads/healing-and-healthy-living---copy.jpg&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;The Continuing Education Department at Kankakee Community College is offering courses on vibrational healing and healthy living.&lt;/p&gt;
+      <link href="https://news.kcc.edu/2018/10/18/alumni-profile-taylor-bradley.html" rel="alternate" type="text/html" title="Alumni Profile - Taylor Bradley" />
+      <published>10/18/2018</published>
+      <updated>10/18/2018</updated>
+      <id>https://news.kcc.edu/2018/10/18/alumni-profile---taylor-bradley</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/10/18/alumni-profile-taylor-bradley.html">&lt;p&gt;&lt;img src=&quot;/uploads/taylor-bradley-9292.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt;Taylor Bradley has always been fascinated with law, politics, and helping others understand their rights.&lt;/p&gt;
 
-&lt;p&gt;“Energy Anatomy and Vibrational Healing” will explore the anatomy of the energy bodies and currents, plus provide tools for balancing the electromagnetic field. There will be discussion of emotional, mental, and spiritual causes of disease. There will be presentations of healing using in a variety of mediums, including chakra system, healing with sound and color, homeopathy and more. The seminar meets Wednesday, Oct. 10 form 9 a.m. - 4:30 p.m. at KCC in Room D123. Instructor is Candice Chaffee. Course no.: HLTH 382A.A13; cost is $79.&lt;/p&gt;
+&lt;p&gt;“I dropped out of high school at 15 and got my GED after I found out I was pregnant,” Bradley said. “My son was my motivator for sure. I felt like I couldn’t make him go to school unless I went back.”&lt;/p&gt;
 
-&lt;p&gt;Respiratory care technicians, nurses, and nursing home administrators can earn 6.5 contact hours upon successful completion.&lt;/p&gt;
+&lt;p&gt;Bradley began attending Kankakee Community College in the Paralegal/Legal Assistant Studies program. She received a scholarship from the KCC Foundation.&lt;/p&gt;
 
-&lt;p&gt;Another seminar, “Reclaim Your Health through Nutrition and Healthy Living,” shares many simple steps that can be taken to improve health, energy, and quality of life. This course will de-mystify vitamins, minerals, popular supplements and herbs, super foods that heal, what to eat, and what not to eat. Topics include how to make a kitchen crop, improve digestion, and be nourished. The session meets Thursday, Nov. 1 from 9 a.m. - 4:30 p.m. at KCC in Room D123. Instructor is Candice Chaffee. Course no.: HLTH 3477A.A13; cost is $79.&lt;/p&gt;
+&lt;p&gt;Early on, she cried in her advisor’s office. “I was really bad at the program at first,” Bradley said. “Dr. (Kristine) Condon told me we were going to get through it together. She asked how I learned best. I’m a very visual learner so she adapted her teaching style to accommodate me.”&lt;/p&gt;
 
-&lt;p&gt;Respiratory care technicians, nurses, and nursing home administrators can earn 6.5 contact hours upon successful completion.&lt;/p&gt;
+&lt;p&gt;Bradley’s grades shot up, and she branched out in her studies by taking a paralegal special projects course.&lt;/p&gt;
 
-&lt;p&gt;These courses do not award college credit. To register or for more information. Call 815-802-8207; go to &lt;a href=&quot;http://www.kcc.edu/comejoinus&quot;&gt;www.kcc.edu/comejoinus&lt;/a&gt; (choose KCC Connect and search by course number); or visit the Welcome Center, located on the first floor of the KCC Workforce Development Center.&lt;/p&gt;</content>
+&lt;p&gt;“(Judge Michael) Kramer and Dr. Condon knew I was bilingual so they assigned me with two other students to the Democracy Commitment project to create self-represented litigant user guides and instruction videos,” Bradley said. “I used three different translation software (packages), the court house interpretive staff, and my own knowledge to translate the guides into Spanish. I tested them on my Spanish-speaking friends, and they worked.”&lt;/p&gt;
 
-      
-      
-      
-      
-      
+&lt;p&gt;In May 2018, Bradley and her partners—Marta “Mattie” Gulyash and Sara Cleveland—received a national honor, the Bernie Ronan Award for Student Action. “They court house didn’t have anything like this before our project, so our work is really meeting a need.”&lt;/p&gt;
 
-      <author>
-          <name></name>
-        
-        
-      </author>
+&lt;p&gt;After graduating from KCC, Bradley completed a paid internship at the Kankakee County Courthouse, and she now works as a paralegal and office manager at Alan F. Smietanksi Law Firm in Bradley.&lt;/p&gt;
 
-      
+&lt;p&gt;“There’s so much more to know,” Bradley said. “I think I’ll go back and continue taking classes.&lt;/p&gt;
 
-      
-
-      <summary type="html">Seminars share tips for improved quality of life.</summary>
-
-      
-      
-        
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/healing-and-healthy-living-small.jpg" />
-      
-    </entry>
-  
-    <entry>
-      
-      
-        <title type="html">Explore KCC Day</title>
-      
-      <link href="http://news.kcc.edu/2018/09/19/explore-kcc-day.html" rel="alternate" type="text/html" title="Explore KCC Day" />
-      <published>9/19/2018</published>
-      <updated>9/19/2018</updated>
-      <id>http://news.kcc.edu/2018/09/19/explore-kcc-day</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/09/19/explore-kcc-day.html">&lt;p class=&quot;present-before-paste&quot;&gt;&lt;img src=&quot;/uploads/explore-kcc-days.JPG&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;Prospective students can learn about Kankakee Community College during &lt;a href=&quot;http://www.kcc.edu/exploreday&quot;&gt;Explore KCC Day&lt;/a&gt; on Columbus Day, Monday, Oct. 8, from 12:30-3:30 p.m.&lt;/p&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt;There will be information on KCC options, including specific details for those who already have a program in mind. There also will be tours of various academic spaces, plus information about support services.&lt;/p&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt;For information and to register, visit &lt;a href=&quot;http://www.kcc.edu/exploreday&quot;&gt;www.kcc.edu/exploreday&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt;KCC is located south of downtown Kankakee near River Road, off U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at &lt;a href=&quot;http://www.kcc.edu/directions&quot;&gt;www.kcc.edu/directions&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt;&lt;img src=&quot;/uploads/explore-kcc-day-social-media-graphic-552x108-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt; &lt;/p&gt;</content>
+&lt;p&gt;“It’s worth the struggle. If I didn’t have my son, if I didn’t have to struggle through classes, I don’t think I’d be where I am today. I’m now very appreciative of everything because I started with nothing. I had to work for it all and the things I learned along the way are priceless.”&lt;/p&gt;</content>
 
       
       
@@ -337,104 +294,12 @@
 
       
 
-      <summary type="html">Explore program options at KCC</summary>
+      <summary type="html">Grad has always wanted to help</summary>
 
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/explore-kcc-day-facebook-ads-183.jpg" />
-      
-    </entry>
-  
-    <entry>
-      
-      
-        <title type="html">LPN accreditation visit</title>
-      
-      <link href="http://news.kcc.edu/2018/09/06/lpn-accreditation-visit.html" rel="alternate" type="text/html" title="LPN accreditation visit" />
-      <published>9/6/2018</published>
-      <updated>9/6/2018</updated>
-      <id>http://news.kcc.edu/2018/09/06/lpn-accreditation-visit</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/09/06/lpn-accreditation-visit.html">&lt;p&gt;Kankakee Community College will host a site review for initial accreditation of its Licensed Practical Nursing Degree program by the &lt;a href=&quot;http://www.acenursing.org/&quot;&gt;Accreditation Commission for Education in Nursing&lt;/a&gt; (ACEN).&lt;/p&gt;
-
-&lt;p&gt;Students and the public are invited to meet the site visit team and share comments about the program in person at 4 p.m. Wednesday, Oct. 10 at KCC, in Room M129.&lt;/p&gt;
-
-&lt;p&gt;Written comments are also welcome and should be submitted directly to Dr. Marsal Stoll; Chief Executive Officer; Accreditation Commission for Education in Nursing; 3343 Peachtree Road NE, Suite 850; Atlanta, GA 30326. Email comments are accepted at &lt;a href=&quot;mailto:mstoll@acenursing.org&quot;&gt;mstoll@acenursing.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;All written comments should be received by the ACEN by Friday, Oct. 5.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      <summary type="html">Students and the public are invited to meet the site visit team</summary>
-
-      
-      
-        
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/stethoscope.JPG" />
-      
-    </entry>
-  
-    <entry>
-      
-      
-        <title type="html">Job Fair will be Oct. 4</title>
-      
-      <link href="http://news.kcc.edu/2018/08/23/job-fair-will-be-oct-4.html" rel="alternate" type="text/html" title="Job Fair will be Oct. 4" />
-      <published>8/23/2018</published>
-      <updated>8/23/2018</updated>
-      <id>http://news.kcc.edu/2018/08/23/job-fair-will-be-oct--4</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/08/23/job-fair-will-be-oct-4.html">&lt;p&gt;On Thursday, Oct. 4, Kankakee Community College will host its Annual Fall Job Fair, including a special area designated for local manufacturers to celebrate National Manufacturing Month.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/job-fair-dscn5220.JPG&quot; alt=&quot;&quot; class=&quot;float-image-right&quot; /&gt;The Job Fair will be from 9 a.m. - noon in the KCC College Center, and is open to the public. Veterans are encouraged to attend as well. Admission is free.&lt;/p&gt;
-
-&lt;p&gt;More than 50 businesses and industries will be at the Job Fair. Employers will conduct pre-screening interviews for full- and part-time positions. Manufacturers will be available to answer questions, accept applications/resumes, and to demonstrate their products.&lt;/p&gt;
-
-&lt;p&gt;“The Job Fair is an ideal setting for students, graduates, veterans and community members to learn more about area employers and current opportunities,” said Ken Crite, Coordinator of Career Services. “We want participants to dress professionally, bring resumes and to enjoy the experience of meeting employers from throughout the area.”&lt;/p&gt;
-
-&lt;p&gt;If participants need resumes, they are encouraged to visit KCC’s &lt;a href=&quot;http://www.kcc.edu/coned/careerservices/pages/default.aspx&quot;&gt;Career Services Center&lt;/a&gt; for assistance before the event.&lt;/p&gt;
-
-&lt;p&gt;Information and an updated list of employers planning to attend the Job Fair are at &lt;a href=&quot;http://www.kcc.edu/jobfair&quot;&gt;kcc.edu/jobfair&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;KCC’s Riverfront campus is located south of downtown Kankakee, off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at &lt;a href=&quot;http://www.kcc.edu/directions&quot;&gt;kcc.edu/directions&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Job Fair is sponsored by KCC’s Charlton Family Foundation Career Services Center. For additional information, phone 815-802-8222 or visit &lt;a href=&quot;http://www.kcc.edu/coned/careerservices/Pages/jobfairs.aspx&quot;&gt;kcc.edu/jobfair&lt;/a&gt;.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      <summary type="html">50+ employers are expected at this event.</summary>
-
-      
-      
-        
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/job-fair-dscn5212.JPG" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/dsc-9792---copy.jpg" />
       
     </entry>
   
@@ -443,11 +308,11 @@
       
         <title type="html">Online classes offered for personal enrichment</title>
       
-      <link href="http://news.kcc.edu/2018/08/22/online-classes-offered-for-personal-enrichment.html" rel="alternate" type="text/html" title="Online classes offered for personal enrichment" />
+      <link href="https://news.kcc.edu/2018/08/22/online-classes-offered-for-personal-enrichment.html" rel="alternate" type="text/html" title="Online classes offered for personal enrichment" />
       <published>8/22/2018</published>
       <updated>8/22/2018</updated>
-      <id>http://news.kcc.edu/2018/08/22/online-classes-offered-for-personal-enrichment</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/08/22/online-classes-offered-for-personal-enrichment.html">&lt;p&gt;The Continuing Education Department at Kankakee Community College is offering online classes for personal enrichment this fall.&lt;/p&gt;
+      <id>https://news.kcc.edu/2018/08/22/online-classes-offered-for-personal-enrichment</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/08/22/online-classes-offered-for-personal-enrichment.html">&lt;p&gt;The Continuing Education Department at Kankakee Community College is offering online classes for personal enrichment this fall.&lt;/p&gt;
 
 &lt;p&gt;“Beginning Conversational French” includes practical, common French phrases which are useful for those visiting a French-speaking region of the world. Topics will include speaking in various situations and learning some cultural tips. Cost is $94.&lt;/p&gt;
 
@@ -482,7 +347,7 @@
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/learn-image.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/learn-image.jpg" />
       
     </entry>
   
@@ -491,11 +356,11 @@
       
         <title type="html">Job Search Boot Camp sessions</title>
       
-      <link href="http://news.kcc.edu/2018/08/22/job-search-boot-camp-sessions.html" rel="alternate" type="text/html" title="Job Search Boot Camp sessions" />
+      <link href="https://news.kcc.edu/2018/08/22/job-search-boot-camp-sessions.html" rel="alternate" type="text/html" title="Job Search Boot Camp sessions" />
       <published>8/22/2018</published>
       <updated>8/22/2018</updated>
-      <id>http://news.kcc.edu/2018/08/22/job-search-boot-camp-sessions</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/08/22/job-search-boot-camp-sessions.html">&lt;p&gt;&lt;img src=&quot;/uploads/group-photo-job-fair.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt; The &lt;a href=&quot;http://www.kcc.edu/coned/careerservices/Pages/jobfairs.aspx&quot;&gt;Career Services Center&lt;/a&gt; at Kankakee Community College is offering five free seminars on job search skills this fall.&lt;/p&gt;
+      <id>https://news.kcc.edu/2018/08/22/job-search-boot-camp-sessions</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/08/22/job-search-boot-camp-sessions.html">&lt;p&gt;&lt;img src=&quot;/uploads/group-photo-job-fair.jpg&quot; alt=&quot;&quot; class=&quot;float-image-left&quot; /&gt; The &lt;a href=&quot;http://www.kcc.edu/coned/careerservices/Pages/jobfairs.aspx&quot;&gt;Career Services Center&lt;/a&gt; at Kankakee Community College is offering five free seminars on job search skills this fall.&lt;/p&gt;
 
 &lt;p&gt;“Job Search: What Works &amp;amp; What Doesn’t” includes how to properly complete an employment application, find and use various job searching tools, best practices for submitting resumes and proper follow up techniques. Meets 5:30-7 p.m. Wednesday, Aug. 29 at KCC in Room D122. Course number is LECT 8920.Q13.&lt;/p&gt;
 
@@ -530,7 +395,7 @@
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/group-photo-job-fair.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/group-photo-job-fair.jpg" />
       
     </entry>
   
@@ -539,11 +404,11 @@
       
         <title type="html">Online classes for teachers</title>
       
-      <link href="http://news.kcc.edu/2018/08/21/online-classes-for-teachers.html" rel="alternate" type="text/html" title="Online classes for teachers" />
+      <link href="https://news.kcc.edu/2018/08/21/online-classes-for-teachers.html" rel="alternate" type="text/html" title="Online classes for teachers" />
       <published>8/21/2018</published>
       <updated>8/21/2018</updated>
-      <id>http://news.kcc.edu/2018/08/21/online-classes-for-teachers</id>
-      <content type="html" xml:base="http://news.kcc.edu/2018/08/21/online-classes-for-teachers.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/pexel-tools-teachers-access-book-business-1329068.jpg&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+      <id>https://news.kcc.edu/2018/08/21/online-classes-for-teachers</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/08/21/online-classes-for-teachers.html">&lt;p class=&quot;center-this-text&quot;&gt;&lt;img src=&quot;/uploads/pexel-tools-teachers-access-book-business-1329068.jpg&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Continuing Education Department at Kankakee Community College is offering online classes for teachers. Upcoming start dates are Sept. 12, Oct. 17, Nov. 14 and Dec. 12.&lt;/p&gt;
 
@@ -586,7 +451,69 @@
       
       
         
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://news.kcc.edu/uploads/pexel-tools-teachers-access-book-business-1329067.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/pexel-tools-teachers-access-book-business-1329067.jpg" />
+      
+    </entry>
+  
+    <entry>
+      
+      
+        <title type="html">Fall 2018 classes at SEC</title>
+      
+      <link href="https://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html" rel="alternate" type="text/html" title="Fall 2018 classes at SEC" />
+      <published>7/7/2018</published>
+      <updated>7/7/2018</updated>
+      <id>https://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec</id>
+      <content type="html" xml:base="https://news.kcc.edu/2018/07/07/fall-2018-classes-at-sec.html">&lt;p&gt;College credit classes include:&lt;/p&gt;
+
+&lt;p&gt;Introduction to Business (BSNS 1553) on Wednesdays from 6-8:30 p.m.&lt;/p&gt;
+
+&lt;p&gt;PowerPoint (COSC 1341) on Mondays from 1-2:40 p.m. beginning Oct. 15.&lt;/p&gt;
+
+&lt;p&gt;Word (COSC 1352) on Mondays and Wednesdays from 10-11:40 a.m. beginning Oct. 15.&lt;/p&gt;
+
+&lt;p&gt;Introduction to Information Processing (COSC 1513) on Tuesdays and Thursdays from 5-6:40 p.m.&lt;/p&gt;
+
+&lt;p&gt;English I (ENGL 1613) on Thursdays from 6-8:30 p.m.&lt;/p&gt;
+
+&lt;p&gt;Phlebotomy Techniques (HLTH 1404) on Mondays and Wednesdays, 9:30 -11:40 a.m.&lt;/p&gt;
+
+&lt;p&gt;Fundamentals of Mathematics (MATH 0974) on Tuesdays and Thursdays from 5-6:40 p.m.&lt;/p&gt;
+
+&lt;p&gt;Basic Algebra (MATH 1414) on Tuesdays and Thursdays from 7-8:40 p.m.&lt;/p&gt;
+
+&lt;p&gt;Adult Education classes include:&lt;/p&gt;
+
+&lt;p&gt;High School Equivalency Preparation on Mondays and Wednesdays from 9 a.m. - 12:30 p.m. and 5:30-9 p.m.&lt;/p&gt;
+
+&lt;p&gt;English as a Second Language (ESL) on Mondays and Tuesdays from 6-9 p.m.&lt;/p&gt;
+
+&lt;p&gt;An orientation is required to enroll in high school equivalency and ESL classes. Please phone 815-802-8780 to sign up for an orientation.&lt;/p&gt;
+
+&lt;p&gt;The Miner South Extension Center is at 1488 E Walnut St. in Watseka. Registration and advising hours at the SEC are Tuesdays, 4-7 p.m. and Thursdays, 8:30 a.m. - 5 p.m. Other hours available by appointment. For more information and to schedule an appointment with an advisor, call 815-802-8780.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      <summary type="html">​South Extension Center has seats available in a variety of courses for fall.</summary>
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/kcc_default_post-placeholder.png" />
       
     </entry>
   
