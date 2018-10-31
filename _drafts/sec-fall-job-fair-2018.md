@@ -1,6 +1,6 @@
 ---
 title: SEC Fall Job Fair 2018
-date: 2018-10-29 05:58:00 -0500
+date: 2018-11-02 05:58:00 -0500
 expire_date: 2018-11-09 00:00:00 -0600
 image:
 news_image_alt:
