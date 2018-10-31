@@ -1,7 +1,7 @@
 ---
 title: SEC Fall Job Fair 2018
-date: 2018-11-02 05:58:00 -0500
-expire_date: 2018-11-09 00:00:00 -0600
+date: 2018-10-31 05:58:00 -0500
+expire_date: 2018-11-15 00:00:00 -0600
 image: /uploads/job-fair.jpg
 news_image_alt:
 article_lead: Full- and part-time positions available
