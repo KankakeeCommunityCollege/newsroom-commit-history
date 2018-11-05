@@ -1,6 +1,6 @@
 ---
 title: Food Service Specials Nov. 5-9
-date: 2018-11-06 05:58:00 -0600
+date: 2018-11-05 05:58:00 -0600
 expire_date: 2018-11-09 00:00:00 -0600
 image: /uploads/fork and knife on plate.jpg
 news_image_alt: Place setting
