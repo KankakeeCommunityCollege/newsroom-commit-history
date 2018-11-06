@@ -12,7 +12,7 @@ press_release: true
 
 “It all comes down to passion, drive, and a long-term goal,” says Jacob Jeje.
 
-Jeje relocated his family from Nigeria to New York for better opportunities. Eventually, they settled in Illinois to be close to relatives. “I was working some crappy jobs, which I did not like,” Jeje said. “I thought about the American dream, that I could decide what I wanted to do, go to college, and get the training I needed to sustain myself and my family.”
+![](/uploads/jacob-jeje-kcc-13-small.jpg){: .float-image-left}Jeje relocated his family from Nigeria to New York for better opportunities. Eventually, they settled in Illinois to be close to relatives. “I was working some crappy jobs, which I did not like,” Jeje said. “I thought about the American dream, that I could decide what I wanted to do, go to college, and get the training I needed to sustain myself and my family.”
 
 Jeje decided to enroll in classes at Kankakee Community College. At first, he tried studying to be a nurse but it didn’t turn out the way he hoped. “I talked with my academic advisor and she encouraged me to focus on the general education courses,” Jeje said. “Not only did her advice help me stay in school but through those courses, I found my career path.”
 
