@@ -1,6 +1,6 @@
 ---
 title: Alumni profile - Jacob Jeje
-date: 2018-11-07 05:58:00 -0600
+date: 2018-11-06 05:58:00 -0600
 expire_date: 2019-01-07 00:00:00 -0600
 image: /uploads/jacob-jeje-kcc-137.jpg
 news_image_alt: Jacob Jeje
@@ -22,7 +22,7 @@ In between a full course load, a full time manufacturing job, and another part t
 
 Jeje didn’t always get the perfect grades he wanted because he was balancing many responsibilities. But he wasn’t alone. “My wife has always been super supportive,” Jeje said. “There were days when I wanted to drop some classes and she would say, ‘Just keep going, just keep going.’” He did, as well as earning a spot on the honors list in 2016.
 
-“He was one of the best Manufacturing Technology students I have ever had,” says Mark Anderson, director of the Manufacturing Technology program, “He had the best grades, the best attendance, the best attitude.”&nbsp;
+“He was one of the best Manufacturing Technology students I have ever had,” says Mark Anderson, director of the Manufacturing Technology program, “He had the best grades, the best attendance, the best attitude.” 
 
 Jeje completed three certificates from the manufacturing program, plus a KCC associate degree. He also landed a supervisory position.
 
