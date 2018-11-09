@@ -1,7 +1,7 @@
 ---
 title: International Education Week
-date: 2018-11-06 05:58:00 -0600
-expire_date: 2018-12-14 00:00:00 -0600
+date: 2018-11-09 05:58:00 -0600
+expire_date: 2018-11-16 00:00:00 -0600
 image: /uploads/international-education-week300x250-2.jpg
 news_image_alt: International Education Week
 article_lead: Celebrate the benefits of a global population
