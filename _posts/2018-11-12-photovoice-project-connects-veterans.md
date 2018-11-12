@@ -17,3 +17,5 @@ The [article](https://us.movember.com/news/view/id/11759/) describes "Making Con
 ![](/uploads/r-perez.jpg){: .float-image-left}The [video](https://youtu.be/Vd_dDTl4llg) focuses on Robert Perez an![](blob:https://app.cloudcannon.com/5e42f2f7-1473-49b8-8236-f81deb47d49a)d the "PhotoVoice" component of the initiative, including KCC students and how they shows how they build connections at the college. Please note: The video includes content which some people might find disturbing.
 
 KCC has a number of services for veterans, including a [Veteran's Association](http://www.kcc.edu/students/studentlife/clubs/Pages/veterans.aspx) and [services offered through the Office of Financial Aid](http://www.kcc.edu/future/paying/fedstateaid/veteran-services/Pages/default.aspx).
+
+Related event: Veteran's Association&nbsp;[Movember Fundraiser](https://tockify.com/kankakeecc/detail/85/1543510800000)&nbsp;(Nov. 29).
