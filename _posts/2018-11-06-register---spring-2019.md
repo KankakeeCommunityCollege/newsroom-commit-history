@@ -20,9 +20,9 @@ In-person registration and advisement is available in Student Services at KCC, w
 
 Qualified returning students can [register online](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student).
 
-![](/uploads/Physical-Science-Ralph-Sansone-and-Paola-Delacruz.jpg){: .float-image-right}To make an appointment, or to learn more about the enrollment process, new and returning students can contact the Office of Student Services, 815-802-8500 or visit [register.kcc.edu](http://register.kcc.edu). 
+![](/uploads/Physical-Science-Ralph-Sansone-and-Paola-Delacruz.jpg){: .float-image-right}To make an appointment, or to learn more about the enrollment process, new and returning students can contact the Office of Student Services, 815-802-8500 or visit [register.kcc.edu](http://register.kcc.edu).&nbsp;
 
-Advisement and registration hours are 8 a.m. - 6 p.m. Monday through Thursday and 8 a.m. - 5 p.m. Fridays. College offices will be closed after 5 p.m. Nov. 22, as well as Nov. 23. Registration offices will close at noon Dec. 20 and re-open Jan. 2.
+Advisement and registration hours are 8 a.m. - 6 p.m. Monday through Thursday and 8 a.m. - 5 p.m. Fridays. College offices will be closed after 5 p.m. Nov. Nov. 22, as well as Nov. 23. Registration offices will close at noon Dec. 20 and re-open Jan. 2.
 
 The [KCC Miner South Extension Center](http://www.kcc.edu/sec), 1488 E. Walnut St. in Watseka, also offers registration and advisement. The extension center is open Monday through Thursday 8:30 a.m. - 9 p.m., and closed Fridays. Advisement in Watseka is available Tuesdays and Thursdays, and by appointment.
 
@@ -31,7 +31,7 @@ The [KCC Miner South Extension Center](http://www.kcc.edu/sec), 1488 E. Walnut S
 * Rated No. 1 in Illinois by [Zippia.com](http://www.zippia.com) for helping students land a job after graduation.
 * Top 15% of community colleges in the nation for first-time, full-time students who transfer within 2 years.
 * The latest pass rates for all health career licensure exams are above the national average, with most at 100%.
-* Ranked  No. 2 in North America among associate degree colleges for sustainability practices.
+* Ranked &nbsp;No. 2 in North America among associate degree colleges for sustainability practices.
 * Average age of Dec. 2017 & May 2018 Associate degree graduates is 26.
 * Practical Nursing program ranked No. 2 in Illinois.
 * More high school graduates in this area enroll at KCC than any other college.
