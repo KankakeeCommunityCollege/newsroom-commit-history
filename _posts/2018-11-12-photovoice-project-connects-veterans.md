@@ -14,6 +14,6 @@ A new article and video from the [Movember Foundation](https://us.movember.com/a
 
 The [article](https://us.movember.com/news/view/id/11759/) describes "Making Connections for Mental Health and Wellbeing among Men and Boys," an initiative funded by Movember and delivered in partnership with Prevention Institute to places including KCC.
 
-The [video](https://youtu.be/Vd_dDTl4llg) focuses on Robert Perez an![](blob:https://app.cloudcannon.com/5e42f2f7-1473-49b8-8236-f81deb47d49a){: .float-image-left}d the "PhotoVoice" component of the initiative, including KCC students and how they shows how they build connections at the college.
+![](/uploads/r-perez.jpg){: .float-image-left}The [video](https://youtu.be/Vd_dDTl4llg) focuses on Robert Perez an![](blob:https://app.cloudcannon.com/5e42f2f7-1473-49b8-8236-f81deb47d49a)d the "PhotoVoice" component of the initiative, including KCC students and how they shows how they build connections at the college. Please note: The video includes content which some people might find disturbing.
 
 KCC has a number of services for veterans, including a [Veteran's Association](http://www.kcc.edu/students/studentlife/clubs/Pages/veterans.aspx) and [services offered through the Office of Financial Aid](http://www.kcc.edu/future/paying/fedstateaid/veteran-services/Pages/default.aspx).
