@@ -6,7 +6,7 @@ image: /uploads/apprentice-week-pic.jpg
 news_image_alt: Apprentice Week picture.
 article_lead: Partnerships foster opportunities
 video_content: false
-video_link: 'https://youtu.be/Vd_dDTl4llg'
+video_link:
 press_release: false
 ---
 
@@ -14,6 +14,6 @@ Happy National Apprenticeship Week!
 
 [National Apprenticeship Week](https://www.dol.gov/apprenticeship/naw/) Nov. 12-18 is a celebration that offers leaders in business, labor, education, and other critical partners a chance to demonstrate their support for apprenticeship.
 
-![](/uploads/apprenticeship-dsc-0112-2.jpg){: .float-image-left}&nbsp;KCC is proud to offer apprenticeship training with CSL Behring in Industrial Machinery, and is looking forward to continuing and growing apprenticeship opportunities for the local community, students and businesses.
+![](/uploads/apprenticeship-dsc-0112-2.jpg){: .float-image-left} KCC is proud to offer apprenticeship training with CSL Behring in Industrial Machinery, and is looking forward to continuing and growing apprenticeship opportunities for the local community, students and businesses.
 
 To learn more about apprenticeship opportunities at KCC, please contact [Paul Carlson](mailto:pcarlson@kcc.edu?subject=Apprenticeships), associate dean of the Business/Technology Division.
