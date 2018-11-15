@@ -10,4 +10,4 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/11-19---11-21-2018-value-menu-wk-3.jpg)
+<br>![](/Value-Menu -WK-3-Thnksgvng.jpg)
