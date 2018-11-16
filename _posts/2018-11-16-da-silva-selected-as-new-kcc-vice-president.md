@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-Jose E. da Silva, Ph.D., an experienced higher education professional, has been selected as the new vice president for student development and services at Kankakee Community College.
+![](/uploads/jose-da-silva-thumbnail.jpg){: .float-image-right}Jose E. da Silva, Ph.D., an experienced higher education professional, has been selected as the new vice president for student development and services at Kankakee Community College.
 
 Previously, da Silva worked for community colleges in Washington, Texas and Florida. Most recently, he served as interim dean/chief student services officer at Big Bend Community College in Moses Lake, Wash. He will be KCC’s chief student services officer, responsible for areas including enrollment management, student activities, recruitment, advisement, financial aid, testing services and athletics. Da Silva has accepted the position at KCC effective Nov. 26.
 
