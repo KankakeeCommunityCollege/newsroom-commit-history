@@ -1,10 +1,10 @@
 ---
-title: da Silva selected a vice president at KCC
-date: 2018-11-18 05:58:00 -0600
-expire_date: 2018-11-30 00:00:00 -0600
-image:
-news_image_alt:
-article_lead: New vice president to start Nov. 26
+title: Da Silva selected a new KCC vice president
+date: 2018-11-16 05:58:00 -0600
+expire_date: 2018-12-07 00:00:00 -0600
+image: /uploads/jose-da-silva.jpg
+news_image_alt: Jose da Silva
+article_lead: Experienced leader will be chief student services officer
 video_content: false
 video_link:
 press_release: false
