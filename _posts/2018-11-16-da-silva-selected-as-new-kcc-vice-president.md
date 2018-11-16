@@ -1,5 +1,5 @@
 ---
-title: Da Silva selected a new KCC vice president
+title: Da Silva selected as new KCC vice president
 date: 2018-11-16 05:58:00 -0600
 expire_date: 2018-12-07 00:00:00 -0600
 image: /uploads/jose-da-silva.jpg
