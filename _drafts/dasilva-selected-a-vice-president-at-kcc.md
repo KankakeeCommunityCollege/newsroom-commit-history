@@ -1,5 +1,5 @@
 ---
-title: daSilva selected a vice president at KCC
+title: da Silva selected a vice president at KCC
 date: 2018-11-18 05:58:00 -0600
 expire_date: 2018-11-30 00:00:00 -0600
 image:
