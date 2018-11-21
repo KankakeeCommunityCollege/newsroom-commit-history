@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-On Nov. 16, Kankakee Community College held a recognition ceremony to honor 31 employees for service at the college.
+On Nov. 16, Kankakee Community College held a recognition ceremony to honor 31 employees for service at the college.![](/RecognitionEvent.JPG){: .float-image-right}
 
 Sharon Hoogstraat of Danforth was honored for 35 years of service. Hoogstraat started at KCC on Nov. 15, 1983. She is currently an administrative assistant IV for the Student Services Department.
 
