@@ -1,5 +1,5 @@
 ---
-title: Med Lab Tech grads ace certification exam
+title: Med Lab Tech grads earn credentials
 date: 2018-11-21 05:58:00 -0600
 expire_date: 2018-12-14 00:00:00 -0600
 image: /uploads/mlt-hopespeardsc-0875.jpg
