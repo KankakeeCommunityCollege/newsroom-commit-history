@@ -22,6 +22,6 @@ KCC also offers a [Medical Laboratory Assistant certificate](http://kcc.smartcat
 
 For more information on a career in medical laboratory technology, contact Forneris at 815-802-8835 or email [gforneris@kcc.edu](mailto:gforneris@kcc.edu).
 
-&nbsp;
+ 
 
-**In the photo:&nbsp;**Hope Spear, a medical laboratory technology student at KCC, was part of a a multi-discipline health careers simulation in October. The “patient” is Nate Karch, KCC assistant nursing professor.
+**In the photo:** Hope Spear, a medical laboratory technology student at KCC, was part of a a multi-discipline health careers simulation in October. The “patient” is Nate Karch, KCC assistant nursing professor.
