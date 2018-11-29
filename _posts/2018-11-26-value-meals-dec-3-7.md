@@ -10,4 +10,4 @@ video_link:
 press_release: false
 ---
 
-![](blob:https://app.cloudcannon.com/8b4cd734-a064-40b3-8137-ddc405276d9b)
+![](/uploads/12-3--7-2018-value-menu-wk-1.jpg)
