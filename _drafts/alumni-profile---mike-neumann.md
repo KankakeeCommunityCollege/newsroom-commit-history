@@ -14,7 +14,7 @@ Mike Neumann’s motto is “Get started and make corrections on the go.”
 
 He didn’t plan to own a business. But today, he is the proud owner of Fit Body U, a thriving gym in Bourbonnais.
 
-Before starting on his own, Neumann worked as a part-time independent contract trainer at a gym. Then, the trainers’ profit margins were cut. “I was backed into a corner,” Neumann says, and he considered a career change.
+![](/uploads/mikeneumann-kcc-561.jpg){: .float-image-right}Before starting on his own, Neumann worked as a part-time independent contract trainer at a gym. Then, the trainers’ profit margins were cut. “I was backed into a corner,” Neumann says, and he considered a career change.
 
 After hearing about a gym for sale, Neumann and a friend collected the money to make the purchase. “It just seemed like perfect timing. But I was flying by the seat of my pants.”
 
