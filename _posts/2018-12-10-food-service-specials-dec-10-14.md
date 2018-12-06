@@ -10,4 +10,4 @@ video_link: 'https://youtu.be/I2aurAjxA30'
 press_release: true
 ---
 
-![](blob:https://app.cloudcannon.com/d157c120-4e20-46c0-97a8-3a0aacc3fee1)
+![](/uploads/12--10--14---2018-value-menu-dec-10-14.jpg)
