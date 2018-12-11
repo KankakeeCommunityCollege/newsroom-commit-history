@@ -6,8 +6,8 @@ image: /uploads/fork and knife on plate.jpg
 news_image_alt: Place setting
 article_lead: $5 Value meals
 video_content: false
-video_link: 'https://youtu.be/I2aurAjxA30'
-press_release: true
+video_link:
+press_release: false
 ---
 
 ![](/uploads/12--10--14---2018-value-menu-dec-10-14.jpg)
