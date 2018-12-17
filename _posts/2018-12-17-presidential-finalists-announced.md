@@ -2,7 +2,7 @@
 title: Presidential finalists announced
 date: 2018-12-17 05:58:00 -0600
 expire_date: 2019-01-10 00:00:00 -0600
-image: /uploads/finalists.jpg
+image: /uploads/finalists-new.jpg
 news_image_alt: KCC logo and words - presidential finalists
 article_lead: Open forums set for Jan. 9 & 10
 video_content: false
@@ -34,6 +34,6 @@ Previously, Boyd was associate dean of English, Humanities, and Language Studies
 
 He will be at KCC for an interview on Thursday, Jan. 10.
 
-The KCC board has worked with an advisory committee including representatives from KCC’s faculty, staff, students, the board of trustees and the community.&nbsp;
+The KCC board has worked with an advisory committee including representatives from KCC’s faculty, staff, students, the board of trustees and the community. 
 
 The new president will replace Dr. John Avendano, who has served at KCC since July 2009. Avendano will retire at the end of June. The board plans to make a hiring decision as soon as Jan. 14.
