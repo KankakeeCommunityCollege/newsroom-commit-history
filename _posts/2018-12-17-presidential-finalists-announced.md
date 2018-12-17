@@ -28,7 +28,9 @@ Chesley earned her doctorate in English from the University of Notre Dame.<br>Sh
 
 Boyd is currently KCC’s vice president for instruction and student success, and chief academic officer. He is responsible for administering credit and non-credit instruction, adult education, and workforce development programs, among other units.
 
-![](/uploads/boyd---copy.jpg){: .float-image-right}Boyd leads initiatives to align academic programs with regional workforce needs, and he also leads KCC’s quality improvement initiatives, which include institutional accreditation and strategic planning.<br>In addition, Boyd is an Academic Quality Improvement Program (AQIP) Peer Reviewer with the Higher Learning Commission. Previously, Boyd was associate dean of English, Humanities, and Language Studies at Illinois Central College, where he also served as the college’s Six Sigma Black Belt. He has a doctorate in English Studies from Illinois State University.
+![](/uploads/boyd---copy.jpg){: .float-image-right}Boyd leads initiatives to align academic programs with regional workforce needs, and he also leads KCC’s quality improvement initiatives, which include institutional accreditation and strategic planning.<br>In addition, Boyd is an Academic Quality Improvement Program (AQIP) Peer Reviewer with the Higher Learning Commission.
+
+Previously, Boyd was associate dean of English, Humanities, and Language Studies at Illinois Central College, where he also served as the college’s Six Sigma Black Belt. He has a doctorate in English Studies from Illinois State University.
 
 He will be at KCC for an interview on Thursday, Jan. 10.
 
