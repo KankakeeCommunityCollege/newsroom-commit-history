@@ -136,6 +136,7 @@ javascript:
     - "assets/js/modalFix.js" # Fix for Bootstrap 4's issues displaying modals with fixed navigation
     - "assets/js/jumpLink.js" # Fix for tockify/twitter rendering after jump links have already fired, and then pushing the jump link off screen.
     - "assets/js/counter.js"
+    - "assets/js/footerDate.js"
 
 # Gulp task for main travis JS compile/uglify of all.min.js.
 travisScript:
