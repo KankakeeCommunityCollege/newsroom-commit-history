@@ -14,7 +14,7 @@ The following students have been named to the President’s List at Kankakee Com
 
 To be named to the President’s List, a student must maintain a grade point average of 3.80 or higher and be enrolled in six or more semester hours.
 
-&nbsp;![](/uploads/hoai-do-of-bourbonnais.JPG){: .float-image-left}&nbsp;![](/uploads/mattison-lanie-of-momence.JPG){: .no-float}
+&nbsp;![](/uploads/hoai-do-of-bourbonnais.JPG){: .float-image-left}&nbsp;![](/uploads/mattison-lanie-of-momence.JPG){: .no-float}![](/uploads/mattison-lanie-of-momence.JPG){: .no-float}&nbsp;![](/uploads/hoai-do-of-bourbonnais.JPG){: .no-float}
 
 * **Aroma Park:** DeAndria Wells.
 * **Ashkum:** Tricia O'Connor.
