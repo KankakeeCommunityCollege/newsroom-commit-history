@@ -1,8 +1,8 @@
 ---
 title: Fall 2018 Honors list
-date: 2018-12-20 05:58:00
-expire_date: 2019-12-20 06:00:00
-image: /uploads/kcc_default_post-placeholder.png
+date: 2018-12-19 23:58:00 -0600
+expire_date: 2020-01-17 00:00:00 -0600
+image: /uploads/jfrancoeurdsc-8612.jpg
 news_image_alt:
 article_lead: Congrats to these students!
 video_content: false
@@ -12,10 +12,12 @@ press_release: true
 
 The following students have been named to the Honors List at Kankakee Community College for the Fall 2018 semester.
 
+![](/uploads/jared-francoeur-bradley-dsc-8589.JPG){: .no-float}&nbsp;![](/uploads/amari-lewis-kankdsc-8478.JPG)
+
 To be named to the Honors List, a student must maintain a grade point average between 3.25 and 3.79 and be enrolled in six or more semester hours.
 
 * **Aroma Park:** Jasmine Campbell, McKenna Jackson, Vanessa Salazar and Hanna Zarate.
-* **Ashkum:** Amanda Armold, Brayden Bailey, Matthew Balthazor, Jacob Bramer, Cassidy Gerdes and Andrea Marquez.
+* ​​​​​​​**Ashkum:** Amanda Armold, Brayden Bailey, Matthew Balthazor, Jacob Bramer, Cassidy Gerdes and Andrea Marquez.
 * **Beaverville:** Candace Martell.
 * **Beecher:** Joel Barraza and Matthew Villarreal.
 * **Bellwood:** Bryan Johnson.
@@ -24,7 +26,6 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Bradley:** Michael Bisaillon, Madison Bretveld, Luther Carter, Derek Dandurand, Harley Davis, Madeline Ellexson, Jared Francoeur, Victoria Frye, Dianna Gomez, Savanna Harper, Catherine Henry, Caleb Jackson, Zakary Jackson, Bridget Jamros, Taylor Jones, Dylan Krygsheld, Colin Lamie, Carly Lebeau, Brittany Licka, Megan Mueller, Tyler Myers, Alayna O'Brien, Bradley Stosiek and Kaitlynne Weidner.
 * **Buckingham:** Andrew Ireland and Megan Kersten.
 * **Cabery:** Sierra Williams.
-
 * **Champaign:** Claire Tang.
 * **Charleston:** Jamie Thompson.
 * **Chebanse:** Declan Alexander, Kaitlin Bowers, Megan Dixon, James Ferris, Breanna Heimberger, Heidi Justice, Paris Patrick, Rodney Ponton, Molly Saindon, Brittney Trudeau and Zowie Trudeau.
@@ -69,3 +70,5 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Newburgh, Ind.:** Nathaniel James and Griffin Scaggs.
 * **Walkerton, Ind.:** Michael Machnic.
 * **Commerce Township, Mich.:** Aaron Ball.
+
+Shown above: Jared Francoeur of Bradley (left) and Amari Lewis of Kankakee.(right).&nbsp;
