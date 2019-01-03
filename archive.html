@@ -4,30 +4,113 @@ layout: default
 baseurl: ../
 ---
 <section class="archive-post-list position__offset-fixed-nav">
-<div class="container">
-  <div class="row">
-    <div class="col">
+  <div class="container">
 
-      {% for post in site.posts %}
-          {% assign currentDate = post.date | date: "%Y" %}
-          {% if currentDate != myDate %}
-              {% unless forloop.first %}</ul>{% endunless %}
-              <h2>{{ currentDate }}</h2>
-              <ul class="archive__list">
-              {% assign myDate = currentDate %}
-          {% endif %}
-          <li><a href="{{ post.url }}" class="archive__link-item"><span class="archive__post-meta">{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
-          {% if forloop.last %}</ul>{% endif %}
-      {% endfor %}
-
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      <div class="editable">
-        <p>&nbsp;</p>
+    {% comment %}
+    <div class="row">
+        <div class="col">
+              {% for post in site.posts %}
+              {% assign currentDate = post.date | date: "%Y" %}
+              {% if currentDate != myDate %}
+                  {% unless forloop.first %}</ul>{% endunless %}
+                  <h2>{{ currentDate }}</h2>
+                  <ul class="archive__list">
+                  {% assign myDate = currentDate %}
+              {% endif %}
+              <li><a href="{{ post.url }}" class="archive__link-item"><span class="archive__post-meta">{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+              {% if forloop.last %}</ul>{% endif %}
+          {% endfor %}
+        </div>
       </div>
-    </div>
-  </div>
-</div>
+      {% endcomment %}
+        <div class="row">
+          <div class="col">
+            <h2>2018</h2>
+            <ul class="archive__list">
+              <li><a href="{{ page.baseurl }}archive/2018/12/19/fall-2018-honors-list.html" class="archive__link-item"><span class="archive__post-meta">December 19, 2018</span> - Fall 2018 Honors list</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/12/19/fall-2018-presidents-list.html" class="archive__link-item"><span class="archive__post-meta">December 19, 2018</span> - Fall 2018 President's list</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/12/17/presidential-finalists-announced.html" class="archive__link-item"><span class="archive__post-meta">December 17, 2018</span> - Presidential finalists announced</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/12/11/ptk-welcomes-community-outreach-founder.html" class="archive__link-item"><span class="archive__post-meta">December 11, 2018</span> - PTK welcomes community outreach founder</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/12/10/food-service-specials-dec-10-14.html" class="archive__link-item"><span class="archive__post-meta">December 10, 2018</span> - Food Service Specials Dec 10-14</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/30/food-service-specials-dec-3-7.html" class="archive__link-item"><span class="archive__post-meta">November 30, 2018</span> - Food Service Specials Dec 3-7</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/30/alumni-profile-mike-neumann.html" class="archive__link-item"><span class="archive__post-meta">November 30, 2018</span> - Alumni profile - Mike Neumann</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/26/cash-bash-2019.html" class="archive__link-item"><span class="archive__post-meta">November 26, 2018</span> - Cash Bash 2019</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/21/med-lab-tech-grads-earn-credentials.html" class="archive__link-item"><span class="archive__post-meta">November 21, 2018</span> - Med Lab Tech grads earn credentials</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/21/kcc-employees-honored-for-service.html" class="archive__link-item"><span class="archive__post-meta">November 21, 2018</span> - KCC employees honored for service</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/16/food-service-specials-nov-19-21.html" class="archive__link-item"><span class="archive__post-meta">November 16, 2018</span> - Food Service Specials Nov. 19-21</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/16/da-silva-selected-as-new-kcc-vice-president.html" class="archive__link-item"><span class="archive__post-meta">November 16, 2018</span> - Da Silva selected as new KCC vice president</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/15/paralegal-program-activities-get-recognized.html" class="archive__link-item"><span class="archive__post-meta">November 15, 2018</span> - Paralegal program activities get recognized</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/13/its-national-apprenticeship-week.html" class="archive__link-item"><span class="archive__post-meta">November 13, 2018</span> - It's National Apprenticeship Week</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/12/photovoice-project-connects-veterans.html" class="archive__link-item"><span class="archive__post-meta">November 12, 2018</span> - 'Photovoice' project connects veterans</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/09/international-education-week.html" class="archive__link-item"><span class="archive__post-meta">November 9, 2018</span> - International Education Week</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/09/food-service-specials-nov-12-16.html" class="archive__link-item"><span class="archive__post-meta">November 9, 2018</span> - Food Service Specials Nov. 12-16</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/06/veterans-art-show-2018.html" class="archive__link-item"><span class="archive__post-meta">November 6, 2018</span> - Veteran's Art Show 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/06/register-spring-2019.html" class="archive__link-item"><span class="archive__post-meta">November 6, 2018</span> - Register - Spring 2019</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/06/alumni-profile-jacob-jeje.html" class="archive__link-item"><span class="archive__post-meta">November 6, 2018</span> - Alumni profile - Jacob Jeje</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/06/alumna-hosts-fundraiser-for-kcc-foundation.html" class="archive__link-item"><span class="archive__post-meta">November 6, 2018</span> - Alumna hosts fundraiser for KCC Foundation</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/05/food-service-specials-nov-5-9.html" class="archive__link-item"><span class="archive__post-meta">November 5, 2018</span> - Food Service Specials Nov. 5-9</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/11/01/top-notch-assessment-challenge.html" class="archive__link-item"><span class="archive__post-meta">November 1, 2018</span> - Top Notch Assessment Challenge</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/31/sec-fall-job-fair-2018.html" class="archive__link-item"><span class="archive__post-meta">October 31, 2018</span> - SEC Fall Job Fair 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/31/charity-basketball-game-nov-14.html" class="archive__link-item"><span class="archive__post-meta">October 31, 2018</span> - Charity basketball game Nov. 14</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/29/veterans-day-events-2018.html" class="archive__link-item"><span class="archive__post-meta">October 29, 2018</span> - Veterans Day Events 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/26/15-acre-solar-array-planned.html" class="archive__link-item"><span class="archive__post-meta">October 26, 2018</span> - 15-acre solar array planned</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/25/young-adult-job-fair.html" class="archive__link-item"><span class="archive__post-meta">October 25, 2018</span> - Young Adult Job Fair</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/24/new-waitlist-option.html" class="archive__link-item"><span class="archive__post-meta">October 24, 2018</span> - New! Waitlist option</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/22/food-service-specials-oct-22-26.html" class="archive__link-item"><span class="archive__post-meta">October 22, 2018</span> - Food Service Specials Oct. 22-26</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/18/alumni-profile-taylor-bradley.html" class="archive__link-item"><span class="archive__post-meta">October 18, 2018</span> - Alumni Profile - Taylor Bradley</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/15/stem-club-stargazing-event.html" class="archive__link-item"><span class="archive__post-meta">October 15, 2018</span> - STEM Club Stargazing event</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/15/food-service-specials-oct-15-19.html" class="archive__link-item"><span class="archive__post-meta">October 15, 2018</span> - Food Service Specials Oct. 15-19</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/12/student-forums-meet-v-p-candidates.html" class="archive__link-item"><span class="archive__post-meta">October 12, 2018</span> - Student forums - Meet V.P. candidates</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/11/hispanic-heritage-month-performance.html" class="archive__link-item"><span class="archive__post-meta">October 11, 2018</span> - Hispanic Heritage Month performance</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/11/gsa-statewide-summit.html" class="archive__link-item"><span class="archive__post-meta">October 11, 2018</span> - GSA Statewide Summit</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/08/food-service-specials-oct-8-12.html" class="archive__link-item"><span class="archive__post-meta">October 8, 2018</span> - Food Service Specials Oct. 8-12</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/02/manufacturing-technology-hosting-a-food-drive.html" class="archive__link-item"><span class="archive__post-meta">October 2, 2018</span> - Manufacturing Technology hosting a food drive</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/02/late-starting-classes.html" class="archive__link-item"><span class="archive__post-meta">October 2, 2018</span> - Late starting classes</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/10/01/wioa-program-leads-to-new-career-path.html" class="archive__link-item"><span class="archive__post-meta">October 1, 2018</span> - WIOA program leads to new career path</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/28/food-service-specials-oct-1-5.html" class="archive__link-item"><span class="archive__post-meta">September 28, 2018</span> - Food Service Specials Oct. 1-5</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/24/food-service-specials-sept-24-28.html" class="archive__link-item"><span class="archive__post-meta">September 24, 2018</span> - Food Service Specials Sept. 24-28</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/24/drug-take-back-day.html" class="archive__link-item"><span class="archive__post-meta">September 24, 2018</span> - Drug Take Back Day</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/20/healing-and-healthy-living-non-credit-classes.html" class="archive__link-item"><span class="archive__post-meta">September 20, 2018</span> - Healing and Healthy Living non-credit classes</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/19/explore-kcc-day.html" class="archive__link-item"><span class="archive__post-meta">September 19, 2018</span> - Explore KCC Day</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/14/food-service-specials-sept-17-21.html" class="archive__link-item"><span class="archive__post-meta">September 14, 2018</span> - Food Service Specials Sept. 17-21</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/12/john-avendano-announces-upcoming-retirement.html" class="archive__link-item"><span class="archive__post-meta">September 12, 2018</span> - John Avendano announces upcoming retirement</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/10/share-your-love-of-learning.html" class="archive__link-item"><span class="archive__post-meta">September 10, 2018</span> - Share your love of learning</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/10/food-service-specials-sept-10-14.html" class="archive__link-item"><span class="archive__post-meta">September 10, 2018</span> - Food Service Specials Sept. 10-14</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/09/06/lpn-accreditation-visit.html" class="archive__link-item"><span class="archive__post-meta">September 6, 2018</span> - LPN accreditation visit</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/31/volleyball-pack-the-place.html" class="archive__link-item"><span class="archive__post-meta">August 31, 2018</span> - Volleyball Pack the Place</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/31/soccer-pack-the-place.html" class="archive__link-item"><span class="archive__post-meta">August 31, 2018</span> - Soccer Pack the Place</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/31/food-service-specials-sept-4-7.html" class="archive__link-item"><span class="archive__post-meta">August 31, 2018</span> - Food Service Specials Sept 4-7</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/30/new-date-movies-on-the-river.html" class="archive__link-item"><span class="archive__post-meta">August 30, 2018</span> - **NEW DATE** Movies on the River</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/28/transfer-college-fair.html" class="archive__link-item"><span class="archive__post-meta">August 28, 2018</span> - Transfer College Fair</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/28/salvation-army-coat-drive.html" class="archive__link-item"><span class="archive__post-meta">August 28, 2018</span> - Salvation Army Coat Drive</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/24/food-service-specials-aug-27-31.html" class="archive__link-item"><span class="archive__post-meta">August 24, 2018</span> - Food Service Specials - Aug. 27-31</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/23/professor-earns-master-level-certification.html" class="archive__link-item"><span class="archive__post-meta">August 23, 2018</span> - Professor earns master-level certification</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/23/job-fair-will-be-oct-4.html" class="archive__link-item"><span class="archive__post-meta">August 23, 2018</span> - Job Fair will be Oct. 4</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/23/food-sanitation-and-safety-course.html" class="archive__link-item"><span class="archive__post-meta">August 23, 2018</span> - Food Sanitation and Safety course</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/23/2018-19-foundation-scholarship-recipients.html" class="archive__link-item"><span class="archive__post-meta">August 23, 2018</span> - 2018-19 Foundation Scholarship Recipients</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/22/seminar-1st-six-sessions-of-therapy.html" class="archive__link-item"><span class="archive__post-meta">August 22, 2018</span> - Seminar: 1st Six Sessions of Therapy</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/22/online-classes-offered-for-personal-enrichment.html" class="archive__link-item"><span class="archive__post-meta">August 22, 2018</span> - Online classes offered for personal enrichment</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/22/job-search-boot-camp-sessions.html" class="archive__link-item"><span class="archive__post-meta">August 22, 2018</span> - Job Search Boot Camp sessions</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/22/lli-sessions-september-2018.html" class="archive__link-item"><span class="archive__post-meta">August 22, 2018</span> - LLI sessions September 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/22/continuing-education-classes-for-september-2018.html" class="archive__link-item"><span class="archive__post-meta">August 22, 2018</span> - Continuing Education classes for September 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/21/online-classes-for-teachers.html" class="archive__link-item"><span class="archive__post-meta">August 21, 2018</span> - Online classes for teachers</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/09/seminar-infectious-diseases.html" class="archive__link-item"><span class="archive__post-meta">August 9, 2018</span> - Seminar: Infectious Diseases</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/07/online-professional-development.html" class="archive__link-item"><span class="archive__post-meta">August 7, 2018</span> - Online professional development</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/07/news-on-co-curricular-transcripts.html" class="archive__link-item"><span class="archive__post-meta">August 7, 2018</span> - News on co-curricular transcripts</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/02/microsoft-office-certificate.html" class="archive__link-item"><span class="archive__post-meta">August 2, 2018</span> - Microsoft Office Certificate</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/02/honors-list-summer-2018.html" class="archive__link-item"><span class="archive__post-meta">August 2, 2018</span> - Honors list Summer 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/01/single-mom-saturday.html" class="archive__link-item"><span class="archive__post-meta">August 1, 2018</span> - Single Mom Saturday</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/08/01/presidents-list-summer-2018.html" class="archive__link-item"><span class="archive__post-meta">August 1, 2018</span> - Presidents list Summer 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/07/26/register-pay-qualify-for-prizes.html" class="archive__link-item"><span class="archive__post-meta">July 26, 2018</span> - Register & Pay: qualify for prizes</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/07/19/register-now-for-fall-2018.html" class="archive__link-item"><span class="archive__post-meta">July 19, 2018</span> - Register Now for Fall 2018</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/07/19/perfect-streak-continues-for-x-ray-program.html" class="archive__link-item"><span class="archive__post-meta">July 19, 2018</span> - Perfect streak continues for X-ray program</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/07/19/kcc-passes-va-audit.html" class="archive__link-item"><span class="archive__post-meta">July 19, 2018</span> - KCC passes VA audit</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/07/07/fall-2018-classes-at-sec.html" class="archive__link-item"><span class="archive__post-meta">July 7, 2018</span> - Fall 2018 classes at SEC</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/06/21/lifelong-learning-institute.html" class="archive__link-item"><span class="archive__post-meta">June 21, 2018</span> - Lifelong Learning Institute</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/06/12/coaching-book-author-has-deep-kcc-roots.html" class="archive__link-item"><span class="archive__post-meta">June 12, 2018</span> - Coaching Book Author Has Deep KCC Roots</a></li>
+              <li><a href="{{ page.baseurl }}archive/2018/06/11/linkedin-seminar-june-27.html" class="archive__link-item"><span class="archive__post-meta">June 11, 2018</span> - Linkedin Seminar June 27</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
 </section>
