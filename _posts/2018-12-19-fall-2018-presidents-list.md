@@ -1,7 +1,7 @@
 ---
 title: Fall 2018 President's list
 date: 2018-12-19 05:58:00 -0600
-expire_date: 2019-01-02 00:00:00 -0600
+expire_date: 2019-01-18 00:00:00 -0600
 image: /uploads/m-lanie-pres-list-dsc-8164.jpg
 news_image_alt: Mattie Lanie of Momence
 article_lead: Congrats to these students!
@@ -14,7 +14,8 @@ The following students have been named to the President’s List at Kankakee Com
 
 To be named to the President’s List, a student must maintain a grade point average of 3.80 or higher and be enrolled in six or more semester hours.
 
-&nbsp;![](/uploads/hoai-do-of-bourbonnais.JPG){: .float-image-left}&nbsp;![](/uploads/mattison-lanie-of-momence.JPG){: .no-float}![](/uploads/mattison-lanie-of-momence.JPG){: .no-float}&nbsp;![](/uploads/hoai-do-of-bourbonnais.JPG){: .no-float}
+ ![](/uploads/hoai-do-of-bourbonnais.JPG){: .center-image} ![](/uploads/mattison-lanie-of-momence.JPG){: .center-image} 
+{: .center-this-text}
 
 * **Aroma Park:** DeAndria Wells.
 * **Ashkum:** Tricia O'Connor.
