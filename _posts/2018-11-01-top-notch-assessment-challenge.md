@@ -14,7 +14,7 @@ The first-ever Top Notch Health Awareness Challenge will be Sunday, Jan. 13 at K
 
 The competition will have three girls basketball games and three boys games. Each contest features a Chicago team challenging a Kankakee-area team. As part of the event, the high school student athletes also will take part in a 30-minute session on health awareness presented by KCC faculty who are certified nurses. Tips related to college life skills from an experienced college advisor also will be shared with the students.
 
-Games begin at 11 a.m. and continue until the final contest, which will tip-off at 6 p.m. General admission is $10, and includes all six games. Fans can receive $5 off at the door by participating in a health assessment offered at the venue. There are discounted prices for students and children 12 and under. Proceeds will benefit KCC.
+Games begin at 11 a.m. and continue until the final contest, which will tip-off at 6 p.m. General admission is $10, and includes all six games. Fans can receive $5 off at the door by participating in a health assessment offered at the venue. There are discounted prices for students (with ID) and children 12 and under. Proceeds will benefit KCC.
 
 KCC is located south of downtown Kankakee off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are online at [kcc.edu/directions](http://www.kcc.edu/directions).
 
