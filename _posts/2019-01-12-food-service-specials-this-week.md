@@ -1,5 +1,5 @@
 ---
-title: Food Service Specials this week
+title: Food service specials this week
 date: 2019-01-12 05:58:00 -0600
 expire_date: 2019-01-18 00:00:00 -0600
 image: /uploads/fork-and-knife-on-plate.jpg
@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-**$5 Value Meals**![](/uploads/color-kcc-logo.jpg){: .float-image-right}
+**$5 Value Meals**
 
 * Monday - Cheese Burger & Fries
 * Tuesday - Sloppy Joe & Chips
