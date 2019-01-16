@@ -1,5 +1,5 @@
 ---
-title: KCC's next president is named
+title: KCC's next president is selected
 date: 2019-01-18 05:58:00 -0600
 expire_date: 2019-01-31 00:00:00 -0600
 image: /uploads/boyd-small.jpg
