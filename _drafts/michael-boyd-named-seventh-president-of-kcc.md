@@ -1,5 +1,5 @@
 ---
-title: Michael Boyd named seventh president of KCC
+title: Dr. Michael Boyd named seventh president of KCC
 date: 2019-01-18 05:58:00 -0600
 expire_date: 2019-01-31 00:00:00 -0600
 image: /uploads/boyd-small.jpg
