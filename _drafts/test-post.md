@@ -12,6 +12,4 @@ press_release: false
 
 This is&nbsp; a test post created by John.
 
-&nbsp;
-
 ![](/uploads/500x500-cash-bash-graphic.jpg)
