@@ -19,7 +19,7 @@ Classes are designed for students at least 16 years of age who are not enrolled 
 ![](/uploads/madison-morrison-of-bradley-small.jpg){: .float-image-right}To register for an orientation, email [gbeglau@kcc.edu](mailto:gbeglau@kcc.edu) or phone 815-802-8300. Orientations and classes are held at these locations:
 
 * Kankakee Community College, 100 College Drive, off River Road, in Kankakee, Room L30A and Room L30B. Morning, afternoon and evening classes are offered.
-* KCC Miner South Extension Center, 1488 E. Walnut St., Watseka. Morning classes are offered.
+* KCC Miner South Extension Center, 1488 E. Walnut St., Watseka. Morning and evening classes are offered.
 * First United Methodist Church of Momence, 111 W. Fourth St., Momence. Evening classes are offered.
 * GED online, email [GED@kcc.edu](mailto:GED@kcc.edu) for information.
 
