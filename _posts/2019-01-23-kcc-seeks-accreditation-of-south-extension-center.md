@@ -18,7 +18,7 @@ Reviewers from the Higher Learning Commission of the North Central Association o
 
 If the HLC report affirms that KCC delivers appropriate services, then the South Extension Center will continue to offer full associate degree programs for students.<br>The Higher Learning Commission is one of six accrediting agencies in the United States which provides institutional accreditation on a regional basis. KCC has held Higher Learning Commission accreditation since 1974. The KCC expects to receive a decision from the Higher Learning Commission in the next few weeks.
 
-**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/NEC](http://www.kcc.edu/ned)
+**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc.sedu/ned)
 
 * Registration
 * Advisement
