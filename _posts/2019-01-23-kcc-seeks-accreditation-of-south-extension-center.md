@@ -16,9 +16,11 @@ Reviewers from the Higher Learning Commission of the North Central Association o
 
 ![](/uploads/south-extension-centerdsc-1436.jpg){: .float-image-left}The Fast Path program offers admitted students a schedule with two classes at a time, offered two days a week for two years. Upon completion, the students earn an Associate in Arts degree.
 
-If the HLC report affirms that KCC delivers appropriate services, then the South Extension Center will continue to offer full associate degree programs for students.<br>The Higher Learning Commission is one of six accrediting agencies in the United States which provides institutional accreditation on a regional basis. KCC has held Higher Learning Commission accreditation since 1974. The KCC expects to receive a decision from the Higher Learning Commission in the next few weeks.
+If the HLC report affirms that KCC delivers appropriate services, then the South Extension Center will continue to offer full associate degree programs for students.
 
-**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc.sedu/ned)
+The Higher Learning Commission is one of six accrediting agencies in the United States which provides institutional accreditation on a regional basis. KCC has held Higher Learning Commission accreditation since 1974. The KCC expects to receive a decision from the Higher Learning Commission in the next few weeks.
+
+**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc..edu/sec)
 
 * Registration
 * Advisement
