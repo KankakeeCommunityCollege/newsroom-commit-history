@@ -2,7 +2,7 @@
 title: KCC seeks accreditation of South Extension Center
 date: 2019-01-23 05:58:00 -0600
 expire_date: 2019-02-15 00:00:00 -0600
-image: /uploads/south-extension-center-dsc-1360.jpg
+image: /uploads/south-extension-center-dsc-1360-1.jpg
 news_image_alt: Professor Rexann McKinley at the KCC South Extension Center
 article_lead: Reviewers have visited Watseka site
 video_content: false
@@ -20,7 +20,7 @@ If the HLC report affirms that KCC delivers appropriate services, then the South
 
 The Higher Learning Commission is one of six accrediting agencies in the United States which provides institutional accreditation on a regional basis. KCC has held Higher Learning Commission accreditation since 1974. The KCC expects to receive a decision from the Higher Learning Commission in the next few weeks.
 
-**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc..edu/sec)
+**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc..edu/sec){: .cc-active}
 
 * Registration
 * Advisement
@@ -31,4 +31,4 @@ The Higher Learning Commission is one of six accrediting agencies in the United 
 * English as a Second Language
 * High School Equivalency preparation
 
-Open: Mon. - Thurs. 8:30 a.m. - 9 p.m.&nbsp;<br>Advising/registration: Tues. 4-7 p.m.; Thurs. 9 a.m. - 5 p.m.<br>Additional times by appointment
+Open: Mon. - Thurs. 8:30 a.m. - 9 p.m. <br>Advising/registration: Tues. 4-7 p.m.; Thurs. 9 a.m. - 5 p.m.<br>Additional times by appointment
