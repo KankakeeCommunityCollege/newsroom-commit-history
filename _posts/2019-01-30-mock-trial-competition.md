@@ -2,7 +2,7 @@
 title: Mock Trial competition
 date: 2019-01-30 05:58:00 -0600
 expire_date: 2019-02-16 00:00:00 -0600
-image:
+image: /uploads/kcc-post-placeholder.png
 news_image_alt:
 article_lead: Mock trials at KCC
 video_content: false
