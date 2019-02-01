@@ -2,8 +2,8 @@
 title: Professional Development online classes Sp 2019
 date: 2019-02-04 05:58:00 -0600
 expire_date: 2019-03-13 00:00:00 -0500
-image:
-news_image_alt: Professional Development classes online
+image: /uploads/selling.jpg
+news_image_alt: sales skills
 article_lead: Computer classes online from Continuing Ed
 video_content: false
 video_link:
