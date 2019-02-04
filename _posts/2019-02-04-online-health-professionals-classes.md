@@ -1,6 +1,6 @@
 ---
 title: Online health professionals classes
-date: 2019-02-06 05:58:00 -0600
+date: 2019-02-04 05:58:00 -0600
 expire_date: 2019-03-13 00:00:00 -0500
 image: /uploads/nutrition.jpg
 news_image_alt: fruits and vegetables
