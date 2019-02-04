@@ -1,6 +1,6 @@
 ---
 title: Fast Path information night
-date: 2019-02-06 05:58:00 -0600
+date: 2019-02-04 05:58:00 -0600
 expire_date: 2019-02-27 00:00:00 -0600
 image: /uploads/daniel-devine.JPG
 news_image_alt: Daniel Devine - Fast Path student
@@ -16,7 +16,7 @@ Visitors can learn more about the program, which offers a schedule of two classe
 
 “The dedicated mentor and added support services available in the Fast Path program have helped me make a smooth transition from high school to college,” said current Fast Path Student Daniel Devine. “This program has taught me the skills I need to be a successful college student in class and online.”
 
-&nbsp;“The fall 2019 students will be in class for about three hours a day on Tuesdays and Thursdays,” said Rexann McKinley, KCC professor and program mentor. “The course sequence, dates and times are all preplanned to make it easy on the students.”<br>The program admits a maximum of 20 students each fall, and textbooks and a laptop are included.
+ “The fall 2019 students will be in class for about three hours a day on Tuesdays and Thursdays,” said Rexann McKinley, KCC professor and program mentor. “The course sequence, dates and times are all preplanned to make it easy on the students.”<br>The program admits a maximum of 20 students each fall, and textbooks and a laptop are included.
 
 “Fast Path students have a support system they can rely on,” said McKinley. “We mentor, guide and coach each student. We want them to be successful. Our graduates will be ready to transfer as juniors to a four-year college or university.”<br>Applications are now being accepted, and classes will begin in Aug. 2019. More information and application materials are at [fastpath.kcc.edu](https://fastpath.kcc.edu).
 
