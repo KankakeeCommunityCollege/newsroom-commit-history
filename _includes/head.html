@@ -7,6 +7,8 @@
         <title>{{page.title}} - {{site.title}}</title>
         <meta name="description" content="{{page.description}}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- A link to the manifest.json file -->
+        <link rel="manifest" href="/manifest.json">
         {% if jekyll.environment == "publish" %}
           <!-- include Google Tag Manager script on production -->
           {% include google-tag.html %}
