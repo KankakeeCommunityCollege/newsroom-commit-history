@@ -1,3 +1,17 @@
+// Styles that modify Bootstrap's defafults (to accomodate custom styling)
+// =======================================================================
+// =======================================================================
+
+// Modal-related custom styling
+// =======================================================================
+
+body.modal-open {
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
 .bootstrap-overrides__modal-footer {
   display: flex;
   align-items: center;
