@@ -12,7 +12,7 @@
         <meta property="og:url" content="{{ site.url }}{{ page.url }}">
         <meta property="og:title" content="{{ page.title }}">
         <meta property="og:description" content="{{ page.article_lead }}">
-          {% if page.video_content == 'false' %}
+          {% if page.video_content == false %}
             {% if page.image %}
         <meta property="og:image" content="{{ site.url }}{{ page.image }}">
             {% else %}
