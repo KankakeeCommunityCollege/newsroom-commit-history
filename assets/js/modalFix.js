@@ -11,6 +11,10 @@ $(document).ready(function(){
     $('#globalNav').css('padding-right', '1rem');
   });
 
+  $('.modal').on('shown.bs.modal', function () {
+    $(this).trigger('focus');
+  });
+
 
 //  $('body').find('[data-toggle="modal"]').on('click', function () {
 //    if ($('body').hasClass('modal-open') != true) {

@@ -28,11 +28,11 @@
                   <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
                   <p class="news__paragraph">{{ post.content }}</p>
                 </div>
-                <div class="bootstrap-overrides__modal-footer">
+                <div class="bootstrap-overrides__modal-footer flex-wrap">
                   <!-- Face book like share html -->
                   <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-                  <a class="twitter-share-button" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
-                  <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn btn-primary btn-sm ml-auto">View Full Page</a>&nbsp;<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button>
+                  <a class="twitter-share-button" data-text="Newsroom - KCC {{ post.url }} via @KCCedu" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                  <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ml-md-auto">View Full Page</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-dismiss="modal">Close</button>
                 </div>
               </div>
             </div>
@@ -53,11 +53,11 @@
                   <p class="news__paragraph">{{ post.content }}</p>
 
                 </div>
-                <div class="bootstrap-overrides__modal-footer">
+                <div class="bootstrap-overrides__modal-footer flex-wrap">
                   <!-- Face book like share html -->
                   <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-                  <a class="twitter-share-button" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
-                  <a href="{{ post.url }}" class="btn btn-primary btn-sm ml-auto">View Full Screen</a>&nbsp;<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button>
+                  <a class="twitter-share-button" data-text="Newsroom - KCC {{ post.url }} via @KCCedu" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                  <a href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ml-md-auto">View Full Screen</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-dismiss="modal">Close</button>
                 </div>
               </div>
             </div>

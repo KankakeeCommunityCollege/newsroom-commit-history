@@ -22,6 +22,9 @@
 
 .buttons__btn-margin-top {
   margin-top: 20px;
+  &--sm {
+    margin-top: 10px;
+  }
 }
 
 .btn-primary {
