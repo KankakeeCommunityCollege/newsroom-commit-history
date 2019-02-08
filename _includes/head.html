@@ -7,6 +7,17 @@
         <title>{{page.title}} - {{site.title}}</title>
         <meta name="description" content="{{page.description}}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% if page._hidden_isPost %}
+        <!-- if the page is a post, it gets OpenGraph meta tags to help out facebook shares -->
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:description" content="{{ page.article_lead }}">
+          {% if page.image %}
+        <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+          {% else %}
+        <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+          {% endif %}
+        {% endif %}
         <!-- A link to the manifest.json file -->
         <link rel="manifest" href="/manifest.json">
         {% if jekyll.environment == "publish" %}
