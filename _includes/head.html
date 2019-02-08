@@ -12,10 +12,14 @@
         <meta property="og:url" content="{{ site.url }}{{ page.url }}">
         <meta property="og:title" content="{{ page.title }}">
         <meta property="og:description" content="{{ page.article_lead }}">
-          {% if page.image %}
+          {% if page.video_content == 'false' %}
+            {% if page.image %}
         <meta property="og:image" content="{{ site.url }}{{ page.image }}">
-          {% else %}
+            {% else %}
         <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+            {% endif %}
+          {% else %}
+        <meta property="og:image" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
           {% endif %}
         {% endif %}
         <!-- A link to the manifest.json file -->
@@ -46,6 +50,9 @@
         <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
     </head>
     <body id="page-top">
+      {% if page.title == "Newsroom" %}
+        {% include scripts/facebook-sdk.html %}
+      {% endif %}
       {% if jekyll.environment == "publish" %}
         <!-- include Google Tag Manager noscript on production -->
         {% include google-noscript.html %}
