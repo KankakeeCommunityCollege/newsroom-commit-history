@@ -7,7 +7,7 @@
         <title>{{page.title}} - {{site.title}}</title>
         <meta name="description" content="{{page.description}}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        {% if page._hidden_isPost %}
+        {% if page.layout == 'post' %}
         <!-- if the page is a post, it gets OpenGraph meta tags to help out facebook shares -->
         <meta property="og:url" content="{{ site.url }}{{ page.url }}">
         <meta property="og:title" content="{{ page.title }}">

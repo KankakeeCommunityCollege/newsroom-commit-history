@@ -22,7 +22,6 @@ defaults:
   values:
     layout: post
     title: ''
-    _hidden_isPost: true
     baseurl: ../../../../
     permalink: /:year/:month/:day/:title:output_ext
     image: "/uploads/kcc_default_post-placeholder.png"
