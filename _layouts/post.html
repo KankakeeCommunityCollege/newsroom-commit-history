@@ -19,6 +19,7 @@ layout: default
         <div class="editable">
           {{ content }}
         </div>
+        <div class="fb-like" data-href="{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
         {% if page.video_content == true %}
           <a class="btn btn-danger buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="{{ page.baseurl }}assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="">&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a>
         {% endif %}

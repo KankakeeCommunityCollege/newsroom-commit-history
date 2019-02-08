@@ -1,0 +1,16 @@
+.bootstrap-overrides__modal-footer {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  border-top: 1px solid #e9ecef;
+  border-bottom-right-radius: 0.3rem;
+  border-bottom-left-radius: 0.3rem;
+}
+
+.bootstrap-overrides__modal-footer > :not(:first-child) {
+  margin-left: .25rem;
+}
+
+.bootstrap-overrides__modal-footer > :not(:last-child) {
+  margin-right: .25rem;
+}
