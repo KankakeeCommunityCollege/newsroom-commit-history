@@ -50,7 +50,7 @@
         <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
     </head>
     <body id="page-top">
-      {% if page.title == "Newsroom" %}
+      {% if page.title == "Newsroom" or page.layout == "post" %}
         {% include scripts/facebook-sdk.html %}
       {% endif %}
       {% if jekyll.environment == "publish" %}
