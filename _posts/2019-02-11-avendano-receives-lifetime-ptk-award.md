@@ -24,7 +24,7 @@ Avendano will be honored at Phi Theta Kappa’s “Catalyst 2019” national con
 
 “Receiving this award is truly special,” Avendano said. “I’ve been fortunate to be a part of dozens of Phi Theta Kappa inductions and events, and the energy is positive, engaging, and contagious. Internationally, Phi Theta Kappans are the best and the brightest honor society students. I also know from personal experience how it makes a difference, because both of my daughters were members and officers at KCC. Their college experience was greatly enhanced by Phi Theta Kappa and I’m proud of all of them! Again, this is truly an honor.”
 
-The lifetime achievement award is Avendano’s third national Phi Theta Kappa Award. In 2013, he received the Shirley B. Gordon Award of Distinction outstanding efforts given to those who promote the goals of Phi Theta Kappa. In 2009, he received the Phi Theta Kappa Distinguished Administrator Award while he worked at Illinois Central College. From 2010-13, Avendano served as the liaison between the Illinois Council of Community College Presidents and the Illinois Region of Phi Theta Kappa.
+The lifetime achievement award is Avendano’s third national Phi Theta Kappa Award. In 2013, he received the Shirley B. Gordon Award of Distinction for outstanding efforts given to those who promote the goals of Phi Theta Kappa. In 2009, he received the Phi Theta Kappa Distinguished Administrator Award while he worked at Illinois Central College. From 2010-13, Avendano served as the liaison between the Illinois Council of Community College Presidents and the Illinois Region of Phi Theta Kappa.
 
 Himself a community college graduate, Avendano also is an honorary member of Phi Theta Kappa at KCC.
 
