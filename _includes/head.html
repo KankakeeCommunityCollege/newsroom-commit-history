@@ -14,12 +14,12 @@
         <meta property="og:description" content="{{ page.article_lead }}">
           {% if page.video_content == false %}
             {% if page.image %}
-        <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+        <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}">
             {% else %}
-        <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+        <meta property="og:image:secure_url" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
             {% endif %}
           {% else %}
-        <meta property="og:image" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
+        <meta property="og:image:secure_url" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
         <meta name="twitter:card" content="summary_large_image">
           {% endif %}
         {% endif %}
