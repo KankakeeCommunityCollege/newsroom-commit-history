@@ -1,6 +1,6 @@
 ---
 title: New Hospitality Operations certificate
-date: 2019-02-21 05:58:00 -0600
+date: 2019-02-20 05:58:00 -0600
 expire_date: 2019-03-08 00:00:00 -0600
 image: /uploads/hospitality---copy.jpg
 news_image_alt: set up at a restaurant
