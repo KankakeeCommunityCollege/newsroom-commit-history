@@ -2,7 +2,7 @@
 title: Avendano honored for accomplishments
 date: 2019-02-23 05:58:00 -0600
 expire_date: 2019-03-08 00:00:00 -0600
-image: /uploads/avendano-and-parkhurst-img-9322---copy.JPG
+image: /uploads/avendano-parkhurst-img-9322.JPG
 news_image_alt: Avendano and Parkhurst
 article_lead: Illinois House of Representative honors Avendanoi
 video_content: false
