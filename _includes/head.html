@@ -1,63 +1,72 @@
 <!doctype html>
 <html class="no-js" lang="en">
-    <head>
-        <!-- Meta -->
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>{{page.title}} - {{site.title}}</title>
-        <meta name="description" content="{{page.description}}">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        {% if page.layout == 'post' %}
-        <!-- if the page is a post, it gets OpenGraph meta tags to help out facebook shares -->
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-        <meta property="og:title" content="{{ page.title }}">
-        <meta property="og:description" content="{{ page.article_lead }}">
-          {% if page.video_content == false %}
-            {% if page.image %}
-        <meta property="og:image" content="{{ site.url }}{{ page.image }}">
-        <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}">
-            {% else %}
-        <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
-        <meta property="og:image:secure_url" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
-            {% endif %}
-          {% else %}
-        <meta property="og:image" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
-        <meta property="og:image:secure_url" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
-        <meta name="twitter:card" content="summary_large_image">
-          {% endif %}
-        {% endif %}
-        <!-- A link to the manifest.json file -->
-        <link rel="manifest" href="/manifest.json">
-        {% if jekyll.environment == "publish" %}
-          <!-- include Google Tag Manager script on production -->
-          {% include google-tag.html %}
-        {% endif %}
-        <!-- YouTube API -->
-        <meta name="yt-api-k" value="AIzaSyBpxv9JNl4AX816ScNmZcqHkLncMUeiAws" />
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Bootstrap 4 Beta stylesheet CDN link -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-        <!-- Link to Google Font's "Open Sans" font -->
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
-        <!-- Link to Google Font's "Oswald" font -->
-        <link href="https://fonts.googleapis.com/css?family=Oswald:500" rel="stylesheet">
-        <link rel="stylesheet" href="https://use.typekit.net/mli7lsm.css">
-        <!-- Place favicon.ico in the root directory -->
-        <!-- Standard Favicon -->
-        <link rel="icon" type="image/x-icon" href="{{page.baseurl}}favicon.ico" />
-        <!-- Custom CSS Stylesheet -->
-        <link rel="stylesheet" href="{{page.baseurl}}assets/css/main.css">
-        <!-- Custom CSS Stylesheet for CloudCannon -->
-        <link rel="stylesheet" href="{{page.baseurl}}assets/css/content.css">
-        <!-- Uncomment to prevent IE-11 caching (for IE testing) -->
-        <!-- <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
-        <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
-    </head>
-    <body id="page-top">
-      {% if page.title == "Newsroom" or page.layout == "post" %}
-        {% include scripts/facebook-sdk.html %}
-      {% endif %}
-      {% if jekyll.environment == "publish" %}
-        <!-- include Google Tag Manager noscript on production -->
-        {% include google-noscript.html %}
-      {% endif %}
+  <head>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{{page.title}} - {{site.title}}</title>
+    <meta name="description" content="{{page.description}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{%- if page.layout == 'post' -%}
+    <!-- if the page is a post, it gets OpenGraph meta tags to help out facebook shares -->
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.article_lead }}">
+  {%- if page.video_content == false -%}
+    {%- if page.image -%}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}">
+      {%- if page.image contains '.JPG' or page.image contains '.jpg' or page.image contains '.jpeg' or page.image contains '.JPEG' -%}
+    <meta property="og:image:type" content="image/jpeg">
+      {%- elsif page.image contains '.PNG' or page.image contains '.png' -%}
+    <meta property="og:image:type" content="image/png">
+      {%- elsif page.image contains '.GIF' or page.image contains '.gif' -%}
+    <meta property="og:image:type" content="image/gif">
+      {%- endif -%}
+    {%- else -%}
+    <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+    <meta property="og:image:secure_url" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+    <meta property="og:image:type" content="image/png">
+    {%- endif -%}
+  {%- else -%}
+    <meta property="og:image" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
+    <meta property="og:image:secure_url" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+  {%- endif -%}
+    <meta name="twitter:card" content="summary_large_image">
+{%- endif -%}
+    <!-- A link to the manifest.json file -->
+    <link rel="manifest" href="/manifest.json">
+{%- if jekyll.environment == "publish" -%}
+    <!-- include Google Tag Manager script on production -->
+    {%- include google-tag.html -%}
+{%- endif -%}
+    <!-- YouTube API -->
+    <meta name="yt-api-k" value="AIzaSyBpxv9JNl4AX816ScNmZcqHkLncMUeiAws" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Bootstrap 4 Beta stylesheet CDN link -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <!-- Link to Google Font's "Open Sans" font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <!-- Link to Google Font's "Oswald" font -->
+    <link href="https://fonts.googleapis.com/css?family=Oswald:500" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/mli7lsm.css">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- Standard Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{page.baseurl}}favicon.ico" />
+    <!-- Custom CSS Stylesheet -->
+    <link rel="stylesheet" href="{{page.baseurl}}assets/css/main.css">
+    <!-- Custom CSS Stylesheet for CloudCannon -->
+    <link rel="stylesheet" href="{{page.baseurl}}assets/css/content.css">
+    <!-- Uncomment to prevent IE-11 caching (for IE testing) -->
+    <!-- <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
+  </head>
+  <body id="page-top">
+{%- if page.title == "Newsroom" or page.layout == "post" -%}
+  {%- include scripts/facebook-sdk.html -%}
+{%- endif -%}
+{%- if jekyll.environment == "publish" -%}
+  <!-- include Google Tag Manager noscript on production -->
+  {%- include google-noscript.html -%}
+{%- endif -%}
