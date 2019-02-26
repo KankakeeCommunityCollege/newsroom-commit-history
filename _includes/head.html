@@ -7,40 +7,40 @@
     <title>{{page.title}} - {{site.title}}</title>
     <meta name="description" content="{{page.description}}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-{%- if page.layout == 'post' -%}
+{% if page.layout == 'post' %}
     <!-- if the page is a post, it gets OpenGraph meta tags to help out facebook shares -->
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.article_lead }}">
-  {%- if page.video_content == false -%}
-    {%- if page.image -%}
+  {% if page.video_content == false %}
+    {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}">
-      {%- if page.image contains '.JPG' or page.image contains '.jpg' or page.image contains '.jpeg' or page.image contains '.JPEG' -%}
+      {% if page.image contains '.JPG' or page.image contains '.jpg' or page.image contains '.jpeg' or page.image contains '.JPEG' %}
     <meta property="og:image:type" content="image/jpeg">
-      {%- elsif page.image contains '.PNG' or page.image contains '.png' -%}
+      {% elsif page.image contains '.PNG' or page.image contains '.png' %}
     <meta property="og:image:type" content="image/png">
-      {%- elsif page.image contains '.GIF' or page.image contains '.gif' -%}
+      {% elsif page.image contains '.GIF' or page.image contains '.gif' %}
     <meta property="og:image:type" content="image/gif">
-      {%- endif -%}
-    {%- else -%}
+      {% endif %}
+    {% else %}
     <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
     <meta property="og:image:secure_url" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
     <meta property="og:image:type" content="image/png">
-    {%- endif -%}
-  {%- else -%}
+    {% endif %}
+  {% else %}
     <meta property="og:image" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
     <meta property="og:image:secure_url" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
     <meta property="og:image:type" content="image/jpeg">
-  {%- endif -%}
+  {% endif %}
     <meta name="twitter:card" content="summary_large_image">
-{%- endif -%}
+{% endif %}
     <!-- A link to the manifest.json file -->
     <link rel="manifest" href="/manifest.json">
-{%- if jekyll.environment == "publish" -%}
+{% if jekyll.environment == "publish" %}
     <!-- include Google Tag Manager script on production -->
-    {%- include google-tag.html -%}
-{%- endif -%}
+    {% include google-tag.html %}
+{% endif %}
     <!-- YouTube API -->
     <meta name="yt-api-k" value="AIzaSyBpxv9JNl4AX816ScNmZcqHkLncMUeiAws" />
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -63,10 +63,10 @@
     <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
   </head>
   <body id="page-top">
-{%- if page.title == "Newsroom" or page.layout == "post" -%}
-  {%- include scripts/facebook-sdk.html -%}
-{%- endif -%}
-{%- if jekyll.environment == "publish" -%}
+{% if page.title == "Newsroom" or page.layout == "post" %}
+  {% include scripts/facebook-sdk.html %}
+{% endif %}
+{% if jekyll.environment == "publish" %}
   <!-- include Google Tag Manager noscript on production -->
-  {%- include google-noscript.html -%}
-{%- endif -%}
+  {% include google-noscript.html %}
+{% endif %}
