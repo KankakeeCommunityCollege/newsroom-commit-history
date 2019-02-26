@@ -2,7 +2,7 @@
 title: 'Program offers 2 classes, 2 days per week'
 date: 2019-01-16 05:58:00 -0600
 expire_date: 2019-01-30 00:00:00 -0600
-image: /uploads/2018fast-path-students.JPG
+image: /uploads/2018fast-path-students_rename.jpg
 news_image_alt: 2018 Fast Path students
 article_lead: 'Fast Path Info Session: Jan. 30'
 video_content: false
@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/2018fast-path-students-1.JPG){: .float-image-right}The Fast Path Degree program at KCC will have an information night Wednesday, Jan. 30 from 6-7 p.m. at the Harold and Jean Miner South Extension Center in Watseka.
+![](/uploads/2018fast-path-students_rename.jpg){: .float-image-right}The Fast Path Degree program at KCC will have an information night Wednesday, Jan. 30 from 6-7 p.m. at the Harold and Jean Miner South Extension Center in Watseka.
 
 Visitors will learn more about the program, which offers a schedule of two classes at a time, two days a week for two years. The program leads to an Associate in Arts transfer degree. Participants complete two classes every eight weeks.
 

@@ -1,5 +1,5 @@
 ---
-title: Food Service Specials 1-2--1-4-2019
+title: Food Service Specials - Jan. 2-4
 date: 2019-01-04 05:58:00 -0600
 expire_date: 2019-01-04 00:00:00 -0600
 image: /uploads/fork-and-knife-on-plate-1.jpg
