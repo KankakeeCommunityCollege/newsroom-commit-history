@@ -10,4 +10,4 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/bookstore-end-of-season.JPG){: .center-image}
+![](/uploads/bookstore-end-of-season-1.JPG)
