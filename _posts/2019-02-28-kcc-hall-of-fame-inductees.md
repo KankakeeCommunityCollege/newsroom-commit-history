@@ -1,6 +1,6 @@
 ---
 title: KCC Hall of Fame Inductees
-date: 2019-03-02 05:58:00 -0600
+date: 2019-02-28 05:58:00 -0600
 expire_date: 2019-03-16 00:00:00 -0500
 image: /uploads/zeedyk-denson-meister-dsc-6504---copy.JPG
 news_image_alt: 'Zeedyk, Denson and Meister'
@@ -26,8 +26,6 @@ The 1994-95 team O’Connor coached to a national championship also is being ind
 
 Casey Meister played for the Lady Cavaliers from 2004-06, scoring 1,014 points, ninth all-time for the program. Meister also connected on 64 three-point shots (34.2 percent average) and made 49.4 percent of her shots from the field. Meister, whose maiden name is Hadley, followed both seasons as a selection to the All-Region IV team, the All-Region IV tournament team and as an NJCAA All-American. Meister accepted a basketball scholarship at Chicago State University and later finished a bachelor’s degree in Art Education from Olivet Nazarene University. She currently serves as the KCC women’s basketball assistant coach.
 
-Abby Zeedyk played for the Lady Cavaliers from 2006-08.&nbsp; She scored 892 points (13<sup>th</sup> all-time for the program), and shot 49.1 percent from the field. Zeedyk, whose maiden name is Williams, pulled down 440 rebounds (10<sup>th</sup> all-time). After each of her seasons, Zeedyk was named to the All-Region First team, the All-Region IV Tournament team and as an All-American. Williams was a key player on two teams which finished second in the NJCAA Div. II National Tournament. Meister accepted a basketball scholarship to Southern Indiana University, where she earned a bachelor’s degree in science (kinesiology) and sports management.
+Abby Zeedyk played for the Lady Cavaliers from 2006-08.  She scored 892 points (13<sup>th</sup> all-time for the program), and shot 49.1 percent from the field. Zeedyk, whose maiden name is Williams, pulled down 440 rebounds (10<sup>th</sup> all-time). After each of her seasons, Zeedyk was named to the All-Region First team, the All-Region IV Tournament team and as an All-American. Williams was a key player on two teams which finished second in the NJCAA Div. II National Tournament. Meister accepted a basketball scholarship to Southern Indiana University, where she earned a bachelor’s degree in science (kinesiology) and sports management.
 
 Although there is no Region IV Hall of Fame induction event, Meister, Zeedyk and Denson were presented with their Hall of Fame plaques following the Lady Cavaliers basketball game on Saturday, Feb. 23.
-
-&nbsp;
