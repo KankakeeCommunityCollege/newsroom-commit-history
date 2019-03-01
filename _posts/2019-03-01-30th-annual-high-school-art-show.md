@@ -1,6 +1,6 @@
 ---
 title: 30th annual High School Art Show
-date: 2019-03-05 05:58:00 -0600
+date: 2019-03-01 05:58:00 -0600
 expire_date: 2019-03-20 00:00:00 -0500
 image: /uploads/a-meaningful-escape-by-josiah-blair-bbchs---copy.jpg
 news_image_alt: A Meaningful Escape by Josiah Blair
