@@ -4,7 +4,7 @@ date: 2019-02-28 05:58:00 -0600
 expire_date: 2019-03-16 00:00:00 -0500
 image: /uploads/zeedyk-denson-meister-dsc-6504---copy.JPG
 news_image_alt: 'Zeedyk, Denson and Meister'
-article_lead: Lady Cavs have individuals and a team inducted
+article_lead: Women's basketball have individuals and a team inducted
 video_content: false
 video_link:
 press_release: false
