@@ -4,7 +4,7 @@ date: 2019-03-08 04:58:00 -0600
 expire_date: 2019-03-29 00:00:00 -0500
 image: /uploads/shawn-mann.jpeg
 news_image_alt: Shawn Mann
-article_lead: Mann has 'amazing' work ethic
+article_lead: Work ethic and other traits lead to recognition
 video_content: false
 video_link:
 press_release: false
@@ -16,7 +16,7 @@ Shawn Mann, a 2012 KCC graduate, has been selected for the 2019 Illinois Educati
 
 “Mann will receive the award April 11 in Rosemont.
 
-“Shawn was an outstanding Education student,” said Jessica Reardanz-Friedericks, KCC education professor. “His work ethic was amazing. Never one to settle for anything but the best, Shawn submitted thoughtful and detailed assessments on a consistent basis. I could always count on Shawn to do his best. I still use a video he created as an example in my Exceptional Learner course, because it is that good.&nbsp;
+“Shawn was an outstanding Education student,” said Jessica Reardanz-Friedericks, KCC education professor. “His work ethic was amazing. Never one to settle for anything but the best, Shawn submitted thoughtful and detailed assessments on a consistent basis. I could always count on Shawn to do his best. I still use a video he created as an example in my Exceptional Learner course, because it is that good. 
 
 “I'm just so excited for him that his efforts were recognized!”
 
