@@ -20,4 +20,4 @@ The Continuing Education Department at Kankakee Community College is offering se
 * “Introduction to Genealogy” takes participants on the journey of tracing their family’s history. It covers the genealogy research process and interpreting the results. It includes how to use several subscription-based Web sites, which are accessible during the class. Cost is $94.
 * “Homeschool with Success” will look at the history of homeschooling and examine its status today in all 50 states. Laws and regulations, and terminology within &nbsp;the homeschool community will be covered. Cost is $94.
 
-These courses do not award college credit. More information and registration is at [ed2go.com/kankakeecc](https://wwww.ed2go.com/kankakeecc). Call KCC at 815-802-8207 to make a payment.
+These courses do not award college credit. More information and registration is at [ed2go.com/kankakeecc](https://www.ed2go.com/kankakeecc). Call KCC at 815-802-8207 to make a payment.

@@ -1,5 +1,5 @@
 ---
-title: KCC adopts new accredition process
+title: KCC adopts new accreditation process
 date: 2019-01-24 05:58:00 -0600
 expire_date: 2019-02-15 00:00:00 -0600
 image: /uploads/accredited.jpg
