@@ -20,7 +20,7 @@ If the HLC report affirms that KCC delivers appropriate services, then the South
 
 The Higher Learning Commission is one of six accrediting agencies in the United States which provides institutional accreditation on a regional basis. KCC has held Higher Learning Commission accreditation since 1974. The KCC expects to receive a decision from the Higher Learning Commission in the next few weeks.
 
-**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc..edu/sec){: .cc-active}
+**KCC Miner South Extension Center**<br>1488 E. Walnut, Watseka<br>[kcc.edu/SEC](http://www.kcc.edu/sec){: .cc-active}
 
 * Registration
 * Advisement
