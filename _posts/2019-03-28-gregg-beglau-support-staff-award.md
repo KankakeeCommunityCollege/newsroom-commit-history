@@ -1,5 +1,5 @@
 ---
-title: Beglau receives staff award
+title: Gregg Beglau Support Staff Award
 date: 2019-03-28 04:58:00 -0500
 expire_date: 2019-04-12 00:00:00 -0500
 image: /uploads/beglau-award-dsc-0218---copy.JPG
@@ -18,7 +18,7 @@ Beglau coordinates high school equivalency and English as a Second Language cour
 
 Among other criteria, it recognizes a person who accepts the cultural and ethnic uniqueness of learners; provides a non-threatening, supportive atmosphere; communicates effectively; fosters and maintains community resources; and is flexible and innovative.
 
-“When I hit a roadblock with my financial aid, he walked me down to financial aid and stayed with me to make sure that I understood everything that they told me,” said Miguel Lara, a current student. “When times got hard, he wouldn't let me give up. He has been my biggest influence, he has taught me not to give up and to help others.”
+“When I hit a roadblock with my financial aid, he walked me down to financial aid and stayed with me to make sure that I understood everything that they told me,” said a current student. “When times got hard, he wouldn't let me give up. He has been my biggest influence, he has taught me not to give up and to help others.”
 
 Beglau worked part-time at KCC for six years, then was hired as the coordinator of student support and transition for the Adult Education Department in September 2016.
 
