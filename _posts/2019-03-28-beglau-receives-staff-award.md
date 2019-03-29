@@ -1,5 +1,5 @@
 ---
-title: Beglau receives staff award
+title: Beglau Receives Staff Award
 date: 2019-03-28 04:58:00 -0500
 expire_date: 2019-04-12 00:00:00 -0500
 image: /uploads/beglau-award-dsc-0218---copy.JPG
