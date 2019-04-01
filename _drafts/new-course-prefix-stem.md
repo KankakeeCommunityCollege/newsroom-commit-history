@@ -1,7 +1,7 @@
 ---
 title: 'New course prefix: STEM'
-date: 2019-03-28 04:58:00 -0500
-expire_date: 2019-04-12 00:00:00 -0500
+date: 2019-04-01 04:58:00 -0500
+expire_date: 2019-04-19 00:00:00 -0500
 image: /uploads/stem-3d-printing-featured.jpg
 news_image_alt: Robotic hand printed on a 3D printer
 article_lead: Courses emphasize applied learning
