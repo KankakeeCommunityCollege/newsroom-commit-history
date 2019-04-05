@@ -2,7 +2,7 @@
 title: Call for works in student photo contest
 date: 2019-04-04 04:58:00 -0500
 expire_date: 2019-05-03 00:00:00 -0500
-image: /uploads/camera-lens.jpg
+image: /uploads/camera-lens_new.jpg
 news_image_alt: Camera lens
 article_lead: Cash prizes for top two selections
 video_content: false
