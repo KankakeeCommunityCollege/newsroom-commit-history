@@ -12,7 +12,7 @@ press_release: false
 
 ![](/uploads/camera-lens-wide.jpg){: .float-image-left}KCC students are invited to participate in the Hammes Cafe Student<br>Photography Contest.
 
-Submit photos for exhibit to Submit photographs for exhibit to Paul Carlson at&nbsp;[pcarlson@kcc.edu](mailto:pcarlson@kcc.edu). Deadline is Friday, May 3 at 5 p.m.
+Submit photos for exhibit to Paul Carlson -[pcarlson@kcc.edu](mailto:pcarlson@kcc.edu). Deadline is Friday, May 3 at 5 p.m.
 
 ![](/uploads/money.jpg){: .float-image-right}First prize is $50 and second prize is $25.
 
