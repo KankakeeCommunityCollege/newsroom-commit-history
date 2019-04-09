@@ -1,10 +1,10 @@
 ---
-title: Law Week 2019
-date: 2019-04-08 04:58:00 -0500
+title: Medical Laboratory Professionals Week
+date: 2019-04-12 04:58:00 -0500
 expire_date: 2019-05-03 00:00:00 -0500
-image: /uploads/law-week-image.jpg
-news_image_alt: Law week
-article_lead: Daily events begin April 29
+image: /uploads/medlabprofessional-week.jpg
+news_image_alt: Lab Week image for 2019
+article_lead: Professionals work behind the scenes
 video_content: false
 video_link:
 press_release: false
@@ -22,8 +22,10 @@ Using modern biomedical equipment and complicated analysis, technicians can dete
 
 "Without this precise and valuable information, medicine would simply become guesswork," Forneris said.
 
-From April 21- 27, 2019, please help celebrate Medical Laboratory Professionals Week and the vital role these dedicated professionals have in protecting and promoting your health.
+KCC Medical Laboratory Technology students will have a display table Tuesday, April 16 from 10 a.m. - noon to share information about the profession and the program. There will also be an opportunity to try your hand at performing a few "lab tests."
 
-KCC Medical Laboratory Technology students will be at a display table Tuesday, April 16 from 10 a.m. - noon to share information about the profession and the program. There will also be an opportunity to try your hand at performing a few "lab tests."
+KCC offers a two-year [Medical Laboratory Technology associate degree](hhttp://kcc.smartcatalogiq.com/en/current/Academic-Catalog/Program-Areas/Health-Careers/Medical-Laboratory-Technology-AAS){: target="_blank"} as well as an [advanced placement degree](http://kcc.smartcatalogiq.com/en/current/Academic-Catalog/Program-Areas/Health-Careers/Medical-Laboratory-Technology-Advanced-Placement-Sequence-Option-1) for qualified students who have already completed general education requirements. The advanced placement program can be completed in three semesters. The program is accredited by the [National Accrediting Agency for Clinical Laboratory Sciences](https://www.naacls.org/Home.aspx).
 
-&nbsp;
+KCC also offers a [Medical Laboratory Assistant certificate](http://kcc.smartcatalogiq.com/en/current/Academic-Catalog/Program-Areas/Health-Careers/Medical-Laboratory-Assistant-Certificate) and [Phlebotomy certificate](http://kcc.smartcatalogiq.com/en/2018-2019/Academic-Catalog/Programs/Occupational-Programs/Health-Careers/Phlebotomy-Certificate)[.](__notset__)
+
+For more information on a career in medical laboratory technology, contact Forneris at 815-802-8835 or email [gforneris@kcc.edu](mailto:gforneris@kcc.edu).
