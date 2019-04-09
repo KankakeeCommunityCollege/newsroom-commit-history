@@ -1,7 +1,7 @@
 ---
 title: Medical Laboratory Professionals Week
-date: 2019-04-12 04:58:00 -0500
-expire_date: 2019-05-03 00:00:00 -0500
+date: 2019-04-18 04:58:00 -0500
+expire_date: 2019-05-27 00:00:00 -0500
 image: /uploads/medlabprofessional-week.jpg
 news_image_alt: Lab Week image for 2019
 article_lead: Professionals work behind the scenes
