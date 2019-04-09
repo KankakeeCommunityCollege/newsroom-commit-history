@@ -18,7 +18,7 @@ This week recognizes the contributions of the laboratory professionals whose wor
 
 "Every day physicians and other healthcare workers depend on laboratory professionals to perform tests on blood and other body fluids, interpret the results, and help provide a complete picture of a patient's health," Forneris said.&nbsp;
 
-Using modern biomedical equipment and complicated analysis, technicians can detect the presence of cancer, identify infectious viruses and bacteria, and measure glucose, cholesterol, or drug levels in blood.
+Using modern biomedical equipment and complicated analysis, these professionals can detect the presence of cancer, identify infectious viruses and bacteria, and measure glucose, cholesterol, or drug levels in blood.
 
 "Without this precise and valuable information, medicine would simply become guesswork," Forneris said.
 
