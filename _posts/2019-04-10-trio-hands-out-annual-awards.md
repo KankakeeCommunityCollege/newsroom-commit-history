@@ -12,7 +12,7 @@ press_release: false
 
 <br>On Tuesday, April 9, the [TRIO Student Support Services](http://www.kcc.edu/students/helpful/trio/Pages/default.aspx){: target="_blank"} program honored students, staff and faculty with S.T.A.R. (Spectacular TRIO Award of Recognition) awards.
 
-To earn a S.T.A.R. award, students must have achieved a minimum cumulative grade point average of 3.25. &nbsp;
+To earn a S.T.A.R. award, students must have achieved a minimum cumulative grade point average of 3.25.  
 
 The 2019 S.T.A.R. recipients are:
 
