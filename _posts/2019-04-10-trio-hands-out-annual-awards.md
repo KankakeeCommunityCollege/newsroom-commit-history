@@ -1,6 +1,6 @@
 ---
 title: TRIO hands out annual awards
-date: 2019-04-10 04:58:00 -0500
+date: 2019-04-10 05:58:00 -0500
 expire_date: 2019-05-01 00:00:00 -0500
 image: /uploads/dsc-9109.jpg
 news_image_alt: Kole El-Talabani
