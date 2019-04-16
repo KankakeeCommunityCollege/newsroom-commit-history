@@ -10,13 +10,13 @@ video_link:
 press_release: false
 ---
 
-Medical Laboratory Professionals Week will be observed nationally April 21-27, 2019. 
+![](/uploads/med-lab-week-150x150.jpg){: .float-image-right}Medical Laboratory Professionals Week will be observed nationally April 21-27, 2019.&nbsp;
 
-This week recognizes the contributions of the laboratory professionals whose work in medical laboratories help give our nation the best possible health care. 
+This week recognizes the contributions of the laboratory professionals whose work in medical laboratories help give our nation the best possible health care.&nbsp;
 
 "These medical laboratory personnel play an increasingly vital role in the diagnosis and prevention of disease; and often their dedicated efforts are unseen as they work behind the scenes," said Glenda Forneris, director of KCC's Medical Laboratory Technology program.
 
-"Every day physicians and other healthcare workers depend on laboratory professionals to perform tests on blood and other body fluids, interpret the results, and help provide a complete picture of a patient's health," Forneris said. 
+"Every day physicians and other healthcare workers depend on laboratory professionals to perform tests on blood and other body fluids, interpret the results, and help provide a complete picture of a patient's health," Forneris said.&nbsp;
 
 Using modern biomedical equipment and complicated analysis, these professionals can detect the presence of cancer, identify infectious viruses and bacteria, and measure glucose, cholesterol, or drug levels in blood.
 
