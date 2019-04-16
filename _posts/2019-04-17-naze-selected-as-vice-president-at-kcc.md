@@ -2,7 +2,7 @@
 title: Naze selected as vice president at KCC
 date: 2019-04-17 04:58:00 -0500
 expire_date: 2019-05-01 00:00:00 -0500
-image: /uploads/naze-dave---copy.jpg
+image: /uploads/david-naze.jpg
 news_image_alt: 'David Naze, Ph.D'
 article_lead: KCC selects new vice president
 video_content: false
