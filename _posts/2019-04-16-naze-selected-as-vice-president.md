@@ -2,7 +2,7 @@
 title: Naze selected as vice president
 date: 2019-04-16 04:58:00 -0500
 expire_date: 2019-05-01 00:00:00 -0500
-image: /uploads/naze-dave---copy.jpg
+image: /uploads/David-Naze1.jpg
 news_image_alt: David Naze Ph.D
 article_lead: New chief academic officer starts July 1
 video_content: false
@@ -22,4 +22,4 @@ Naze began his career at Prairie State College, where he was a faculty member an
 
 Naze started his collegiate career at Rock Valley College in Rockford, where he earned an Associate of Arts degree. Following Rock Valley College, Naze earned two degrees from Northern Illinois University in DeKalb—a bachelor’s degree with upper-division honors in communication; and a master’s degree in communication with an emphasis on rhetorical studies. In May 2012, Naze earned a doctorate from the department of communication and culture, with an emphasis in rhetorical studies, from Indiana University in Bloomington. He also has earned a certification as a master online teacher from the University of Illinois Springfield and the Illinois Online Network.
 
-Naze will fill the position currently held by Boyd, who will become KCC’s next president, effective July 1.<br>&nbsp;
+Naze will fill the position currently held by Boyd, who will become KCC’s next president, effective July 1.<br>
