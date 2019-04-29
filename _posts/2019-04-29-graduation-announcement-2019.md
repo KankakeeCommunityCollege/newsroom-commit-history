@@ -1,6 +1,6 @@
 ---
 title: Graduation announcement 2019
-date: 2019-04-30 04:58:00 -0500
+date: 2019-04-29 04:58:00 -0500
 expire_date: 2019-05-11 00:00:00 -0500
 image: /uploads/graduation-3303.jpg
 news_image_alt: Three graduates in 2018
