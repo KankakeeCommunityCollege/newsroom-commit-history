@@ -29,9 +29,9 @@ To be named to the President’s List, a student must maintain a grade point ave
 * **Champaign:** Claire Tang.
 * **Channahon:** Austin Plumley.
 * **Chebanse:** James Ferris, Jayce Hansen, Timothy Hoekstra, Adilene Mendoza, Britney Pelletier, Daniel Snyder and Karen Snyder.
-* **Cissna Park:** John Nowaczyk
+* **Cissna Park:** John Nowaczyk.
 * **![](/uploads/alyssa-legan---copy.JPG){: .float-image-left}Clifton:** Kendall Bewsey, Abbey Boudreau, Justin Coggins, Erica Cordes, Jacqueson Harris, Lauran Hickson, Alyssa Legan (pictured at left), Josette Peters, Jade Raines, Taylor Roach, Krystal Smith, Christopher Vaughn, Alexander Winkel and David Zell.
-* **Crescent City:** Chelsea &nbsp; &nbsp;Stanley.
+* **Crescent City:** Chelsea Stanley.
 * **Crete:** Temilola Alowooja and Daryon Fioretti.
 * **Cullom:** Jakob Crowley and JillGrieff.
 * **Danforth:** Madison Hull and Noah Schnurr.
@@ -62,10 +62,10 @@ To be named to the President’s List, a student must maintain a grade point ave
 * **Peotone:** Alannah Anker, Alexis Doud, Jared Oates, Scott Poort and Andrew Saliba.
 * **Piper City:** Crystal Coffey.
 * **Reddick:** Reese Hewkin.
-* **Saint Anne:** Jesus Andrade, Sara Bowman, Aleea Johnson, Scott Kidd, Christopher Mailhiot, &nbsp;Derrick Minor, Carter Pomaranski, Brian Power, Courtney Reno, Lydia Salgado and Geraldine Zeni.\{: .present-before-paste\}
+* **Saint Anne:** Jesus Andrade, Sara Bowman, Aleea Johnson, Scott Kidd, Christopher Mailhiot, &nbsp;Derrick Minor, Carter Pomaranski, Brian Power, Courtney Reno, Lydia Salgado and Geraldine Zeni.
 * **Sheldon:** Paula McCarthy and Katherine Morris.
 * **Sun River Terrace:** Ladeja Norris.
-* **Thawville:** Joey Kimbro.\{: .present-before-paste\}
+* **Thawville:** Joey Kimbro.
 * **University Park:** Victor Cameron and Sariah Willis.
 * **Watseka:** Ryan Bell, Stephanie Blackwell, Emily Bunting, Noah Dietchweiler, Andrew Douglas, Samantha Fierstein, Magan Harris, Autumn Haskins, Courtney Heath, Clara Hughes, Kristyn Long, Tyler Musk, Katelyn Norder, Anna Parmenter, Hayden Peters, Daisy Solorzano and Dhara Thakore.&nbsp;
 * **Wilmington:** Erin Moran, Dawson Swearengen, and Dylan Swearengen.
