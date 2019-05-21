@@ -1,10 +1,10 @@
 ---
-title: Bunco Night
-date: 2019-05-20 04:58:00 -0500
-expire_date: 2019-06-07 00:00:00 -0500
+title: This ia test
+date: 2019-05-28 04:58:00 -0500
+expire_date: 2019-07-01 00:00:00 -0500
 image: /uploads/bunco.jpg
-news_image_alt: Bunco dice
-article_lead: Fundraiser supports KCC volleyball team
+news_image_alt: New images
+article_lead: Article Lead
 video_content: false
 video_link:
 press_release: false
