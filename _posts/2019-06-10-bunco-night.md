@@ -1,7 +1,7 @@
 ---
 title: Bunco Night
-date: 2019-05-20 04:58:00 -0500
-expire_date: 2019-06-07 00:00:00 -0500
+date: 2019-06-10 04:58:00 -0500
+expire_date: 2019-11-15 00:00:00 -0600
 image: /uploads/bunco.jpg
 news_image_alt: Bunco dice
 article_lead: Fundraiser supports KCC volleyball team
@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/cavaliers-color.jpg){: .float-image-left}The community is invited to support the Cavaliers volleyball team during Bunco Night at 7 p.m. on Friday, June 7 at the Grant Park Community Shelter, 209 W. Dixie Highway.
+![](/uploads/cavaliers-color.jpg){: .float-image-left}The community is invited to support the Cavaliers volleyball team during Bunco Night at 7 p.m. on Friday, November 15 at the Grant Park Community Shelter, 209 W. Dixie Highway.
 
 Registration starts at 6:30 p.m. Entry fee is $20 per person; participants must be age 21 or older. Teams can be four, seven or eight.
 
